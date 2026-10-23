@@ -1,0 +1,735 @@
+{
+ "version": "1.1.0",
+ "ghi_chu": "Khung chuẩn đề cương TVGS TEXO – rút từ 7 bộ đề cương TT02, TT03, TT08, TT09 (3 bộ), TT12 (2 bộ). cap: B = bắt buộc ở mọi mẫu; N = yêu cầu của mẫu Nâng cao (mẫu Cơ bản có thì cộng điểm). pat: biểu thức tìm trong tiêu đề trước, rồi trong thân bài.",
+ "nhom": [
+  {
+   "id": "HT",
+   "ten": "Hình thức, bố cục"
+  },
+  {
+   "id": "TC",
+   "ten": "Thông tin dự án, phạm vi công việc"
+  },
+  {
+   "id": "CS",
+   "ten": "Cơ sở thực hiện, vai trò các bên"
+  },
+  {
+   "id": "CL",
+   "ten": "Giám sát chất lượng"
+  },
+  {
+   "id": "KL",
+   "ten": "Giám sát khối lượng"
+  },
+  {
+   "id": "TD",
+   "ten": "Giám sát tiến độ"
+  },
+  {
+   "id": "AT",
+   "ten": "Giám sát ATLĐ, VSMT, PCCC"
+  },
+  {
+   "id": "BC",
+   "ten": "Báo cáo, họp, trao đổi thông tin"
+  },
+  {
+   "id": "TO",
+   "ten": "Tổ chức thực hiện đoàn TVGS"
+  },
+  {
+   "id": "CT",
+   "ten": "Đề cương giám sát chi tiết, biểu mẫu"
+  }
+ ],
+ "tieu_chi": [
+  {
+   "id": "HT01",
+   "nhom": "HT",
+   "cap": "B",
+   "ten": "Bìa đủ thông tin: Dự án, Công trình/Gói thầu, Địa điểm, Chủ đầu tư, Đơn vị TVGS",
+   "rule": "cover"
+  },
+  {
+   "id": "HT02",
+   "nhom": "HT",
+   "cap": "B",
+   "ten": "Tờ lót có ô ký Chủ đầu tư phê duyệt và Đại diện TVGS",
+   "rule": "approval"
+  },
+  {
+   "id": "HT03",
+   "nhom": "HT",
+   "cap": "B",
+   "ten": "Mục lục",
+   "pat": [
+    "m[uụ]c l[uụ]c"
+   ]
+  },
+  {
+   "id": "HT04",
+   "nhom": "HT",
+   "cap": "N",
+   "ten": "Bảng từ ngữ viết tắt",
+   "pat": [
+    "vi[eế]t t[aắ]t"
+   ]
+  },
+  {
+   "id": "HT05",
+   "nhom": "HT",
+   "cap": "B",
+   "ten": "Khổ giấy A4",
+   "rule": "a4"
+  },
+  {
+   "id": "HT06",
+   "nhom": "HT",
+   "cap": "B",
+   "ten": "Tài liệu phát hành chỉ mang tên Công ty TEXO – không nêu đơn vị nội bộ (Trung tâm, VPĐT…)",
+   "rule": "noi_bo"
+  },
+  {
+   "id": "TC01",
+   "nhom": "TC",
+   "cap": "B",
+   "ten": "Thông tin dự án, công trình, gói thầu, địa điểm, chủ đầu tư",
+   "pat": [
+    "th[oô]ng tin (chung|v[eề]|c[uủ]a) (d[uự] [aá]n|g[oó]i th[aầ]u)",
+    "gi[oớ]i thi[eệ]u (v[eề] )?d[uự] [aá]n",
+    "m[oô] t[aả] t[oó]m t[aắ]t",
+    "kh[aá]i qu[aá]t v[eề] d[uự] [aá]n",
+    "^t[oổ]ng quan",
+    "c[aá]c th[oô]ng tin c[uủ]a d[uự] [aá]n",
+    "^\\d+\\.\\s*th[oô]ng tin d[uự] [aá]n"
+   ]
+  },
+  {
+   "id": "TC02",
+   "nhom": "TC",
+   "cap": "B",
+   "ten": "Quy mô, loại – cấp công trình, giải pháp thiết kế chính",
+   "pat": [
+    "quy m[oô]",
+    "c[aấ]p c[oô]ng tr[iì]nh",
+    "gi[aả]i ph[aá]p (thi[eế]t k[eế]|k[eế]t c[aấ]u|k[iỹ] thu[aậ]t)"
+   ]
+  },
+  {
+   "id": "TC03",
+   "nhom": "TC",
+   "cap": "B",
+   "ten": "Phạm vi công việc TVGS",
+   "pat": [
+    "ph[aạ]m vi (c[oô]ng vi[eệ]c|g[oó]i th[aầ]u)",
+    "n[oộ]i dung v[aà] kh[oố]i l[uư][oợ]ng c[oô]ng vi[eệ]c",
+    "m[uụ]c [dđ][iíi]ch v[aà] y[eê]u c[aầ]u",
+    "ph[aạ]m vi c[oô]ng vi[eệ]c v[aà] ch[uứ]c n[aă]ng"
+   ]
+  },
+  {
+   "id": "TC04",
+   "nhom": "TC",
+   "cap": "N",
+   "ten": "Sản phẩm của gói thầu TVGS",
+   "pat": [
+    "s[aả]n ph[aẩ]m (c[uủ]a )?(g[oó]i th[aầ]u|h[oợ]p [dđ][oồ]ng|t[uư] v[aấ]n)"
+   ]
+  },
+  {
+   "id": "TC05",
+   "nhom": "TC",
+   "cap": "N",
+   "ten": "Các bên tham gia dự án / hồ sơ dữ liệu đầu vào",
+   "pat": [
+    "c[aá]c b[eê]n tham gia",
+    "d[uữ] li[eệ]u [dđ][aầ]u v[aà]o"
+   ]
+  },
+  {
+   "id": "CS01",
+   "nhom": "CS",
+   "cap": "B",
+   "ten": "Cơ sở thực hiện: văn bản pháp luật hiện hành",
+   "pat": [
+    "c[oơ] s[oở] (th[uự]c hi[eệ]n|ph[aá]p l[yý])",
+    "v[aă]n b[aả]n ph[aá]p lu[aậ]t",
+    "quy [dđ][iị]nh c[uủ]a nh[aà] n[uư][oớ]c",
+    "c[aá]c c[aă]n c[uứ]"
+   ]
+  },
+  {
+   "id": "CS02",
+   "nhom": "CS",
+   "cap": "B",
+   "ten": "Hợp đồng TVGS, hồ sơ thiết kế, hợp đồng thi công – căn cứ của gói thầu",
+   "pat": [
+    "h[oồ] s[oơ] ph[aá]p l[yý]",
+    "th[oỏ]a thu[aậ]n (th[eê]m )?gi[uữ]a (2|hai) b[eê]n",
+    "quy [dđ][iị]nh kh[aá]c theo th[oỏ]a thu[aậ]n",
+    "h[oợ]p [dđ][oồ]ng s[oố]"
+   ]
+  },
+  {
+   "id": "CS03",
+   "nhom": "CS",
+   "cap": "B",
+   "ten": "Danh mục quy chuẩn, tiêu chuẩn áp dụng",
+   "pat": [
+    "ti[eê]u chu[aẩ]n (([aá]p d[uụ]ng)|(tham chi[eế]u))",
+    "quy chu[aẩ]n.*ti[eê]u chu[aẩ]n",
+    "danh m[uụ]c (quy chu[aẩ]n|ti[eê]u chu[aẩ]n|tcvn)"
+   ]
+  },
+  {
+   "id": "CS04",
+   "nhom": "CS",
+   "cap": "B",
+   "ten": "Vai trò, quyền và nghĩa vụ của Chủ đầu tư và TVGS",
+   "pat": [
+    "vai tr[oò].*tr[aá]ch nhi[eệ]m",
+    "quy[eề]n v[aà] ngh[iĩ]a v[uụ]",
+    "tr[aá]ch nhi[eệ]m c[uủ]a c[aá]c b[eê]n",
+    "ch[uứ]c n[aă]ng nhi[eệ]m v[uụ] c[uủ]a tvgs"
+   ]
+  },
+  {
+   "id": "CS05",
+   "nhom": "CS",
+   "cap": "N",
+   "ten": "Quyền, nghĩa vụ / quan hệ với TVTK và nhà thầu thi công",
+   "pat": [
+    "(t[uư] v[aấ]n thi[eế]t k[eế]|nh[aà] th[aầ]u thi[eế]t k[eế])",
+    "quan h[eệ] (gi[uữ]a )?(tvgs|t[uư] v[aấ]n gi[aá]m s[aá]t|texo).*(nh[aà] th[aầ]u|thi[eế]t k[eế])"
+   ]
+  },
+  {
+   "id": "CL01",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra điều kiện khởi công, công tác chuẩn bị thi công",
+   "pat": [
+    "[dđ]i[eề]u ki[eệ]n kh[oở]i c[oô]ng",
+    "giai [dđ]o[aạ]n chu[aẩ]n b[iị] thi c[oô]ng",
+    "chu[aẩ]n b[iị] tri[eể]n khai thi c[oô]ng"
+   ]
+  },
+  {
+   "id": "CL02",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra sự phù hợp năng lực nhà thầu (nhân lực, thiết bị)",
+   "pat": [
+    "n[aă]ng l[uự]c (c[uủ]a )?(nh[aà] th[aầ]u|nt)",
+    "s[uự] ph[uù] h[oợ]p n[aă]ng l[uự]c",
+    "(nh[aâ]n s[uự]|nh[aâ]n l[uự]c|thi[eế]t b[iị]) (thi c[oô]ng )?(c[uủ]a )?(nh[aà] th[aầ]u|nt)"
+   ]
+  },
+  {
+   "id": "CL03",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra hệ thống quản lý chất lượng của nhà thầu",
+   "pat": [
+    "h[eệ] th[oố]ng qu[aả]n l[yý] ch[aấ]t l[uư][oợ]ng",
+    "qu[aả]n l[yý] ch[aấ]t l[uư][oợ]ng thi c[oô]ng x[aâ]y d[uự]ng tr[eê]n c[oô]ng tr[uư][oờ]ng"
+   ]
+  },
+  {
+   "id": "CL04",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra phòng thí nghiệm, cơ sở sản xuất vật liệu",
+   "pat": [
+    "ph[oò]ng th[ií] nghi[eệ]m",
+    "c[oơ] s[oở] s[aả]n xu[aấ]t"
+   ]
+  },
+  {
+   "id": "CL05",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra, nghiệm thu vật liệu, sản phẩm, thiết bị đầu vào",
+   "pat": [
+    "v[aậ]t (t[uư]|li[eệ]u).{0,40}thi[eế]t b[iị]",
+    "nghi[eệ]m thu v[aậ]t (li[eệ]u|t[uư])",
+    "v[aậ]t li[eệ]u [dđ][aầ]u v[aà]o",
+    "ki[eể]m so[aá]t [dđ][aầ]u v[aà]o"
+   ]
+  },
+  {
+   "id": "CL06",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra biện pháp thi công của nhà thầu",
+   "pat": [
+    "bi[eệ]n ph[aá]p thi c[oô]ng"
+   ]
+  },
+  {
+   "id": "CL07",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra bản vẽ shopdrawing (triển khai, chế tạo, lắp đặt)",
+   "pat": [
+    "shop ?drawing",
+    "b[aả]n v[eẽ] (tri[eể]n khai|ch[eế] t[aạ]o|l[aắ]p [dđ][aặ]t)"
+   ]
+  },
+  {
+   "id": "CL08",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Giám sát thường xuyên, nhật ký thi công",
+   "pat": [
+    "nh[aậ]t k[yý]",
+    "th[uư][oờ]ng xuy[eê]n.{0,30}c[oó] h[eệ] th[oố]ng"
+   ]
+  },
+  {
+   "id": "CL09",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Kiểm tra, xác nhận bản vẽ hoàn công",
+   "pat": [
+    "ho[aà]n c[oô]ng"
+   ]
+  },
+  {
+   "id": "CL10",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Nghiệm thu công việc xây dựng",
+   "pat": [
+    "nghi[eệ]m thu c[oô]ng vi[eệ]c"
+   ]
+  },
+  {
+   "id": "CL11",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Nghiệm thu bộ phận, giai đoạn thi công",
+   "pat": [
+    "nghi[eệ]m thu (b[oộ] ph[aậ]n|giai [dđ]o[aạ]n)"
+   ]
+  },
+  {
+   "id": "CL12",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Nghiệm thu hoàn thành hạng mục, công trình đưa vào sử dụng",
+   "pat": [
+    "nghi[eệ]m thu ho[aà]n th[aà]nh"
+   ]
+  },
+  {
+   "id": "CL13",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Hồ sơ nghiệm thu, tài liệu hoàn thành công trình",
+   "pat": [
+    "t[aà]i li[eệ]u ph[uụ]c v[uụ] nghi[eệ]m thu",
+    "h[oồ] s[oơ] (ho[aà]n th[aà]nh|nghi[eệ]m thu|qu[aả]n l[yý] ch[aấ]t l[uư][oợ]ng)"
+   ]
+  },
+  {
+   "id": "CL14",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Phát hiện sai sót, bất hợp lý của thiết kế",
+   "pat": [
+    "sai s[oó]t.{0,40}thi[eế]t k[eế]",
+    "b[aấ]t h[oợ]p l[yý].{0,20}(v[eề] )?thi[eế]t k[eế]"
+   ]
+  },
+  {
+   "id": "CL15",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Đề nghị kiểm định lại khi nghi ngờ chất lượng",
+   "pat": [
+    "ki[eể]m [dđ][iị]nh l[aạ]i",
+    "t[aá]i ki[eể]m [dđ][iị]nh",
+    "nghi ng[oờ] (v[eề] )?ch[aấ]t l[uư][oợ]ng"
+   ]
+  },
+  {
+   "id": "CL16",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Phối hợp giải quyết vướng mắc, phát sinh",
+   "pat": [
+    "v[uư][oớ]ng m[aắ]c"
+   ]
+  },
+  {
+   "id": "CL17",
+   "nhom": "CL",
+   "cap": "N",
+   "ten": "Sơ đồ/lưu đồ quy trình quản lý chất lượng, quy trình nghiệm thu",
+   "pat": [
+    "s[oơ] [dđ][oồ] quy tr[iì]nh",
+    "l[uư]u [dđ][oồ]",
+    "quy tr[iì]nh (gi[aá]m s[aá]t )?nghi[eệ]m thu"
+   ]
+  },
+  {
+   "id": "CL18",
+   "nhom": "CL",
+   "cap": "N",
+   "ten": "Quy trình xử lý không phù hợp (NCR)",
+   "pat": [
+    "\\bncr\\b",
+    "kh[oô]ng ph[uù] h[oợ]p (ch[aấ]t l[uư][oợ]ng)?"
+   ]
+  },
+  {
+   "id": "CL19",
+   "nhom": "CL",
+   "cap": "N",
+   "ten": "Quản lý thay đổi thiết kế, RFI, xung đột bộ môn",
+   "pat": [
+    "thay [dđ][oổ]i thi[eế]t k[eế]",
+    "\\brfi\\b",
+    "xung [dđ][oộ]t b[oộ] m[oô]n"
+   ]
+  },
+  {
+   "id": "CL20",
+   "nhom": "CL",
+   "cap": "N",
+   "ten": "Kế hoạch nghiệm thu / kế hoạch kiểm tra (ITP)",
+   "pat": [
+    "k[eế] ho[aạ]ch nghi[eệ]m thu",
+    "\\bitp\\b",
+    "k[eế] ho[aạ]ch (ki[eể]m tra|th[ií] nghi[eệ]m)",
+    "hold point",
+    "[dđ]i[eể]m d[uừ]ng",
+    "[dđ]i[eể]m ki[eể]m so[aá]t"
+   ]
+  },
+  {
+   "id": "CL21",
+   "nhom": "CL",
+   "cap": "B",
+   "ten": "Giám sát chạy thử, vận hành thử thiết bị",
+   "pat": [
+    "ch[aạ]y th[uử]",
+    "v[aậ]n h[aà]nh th[uử]"
+   ]
+  },
+  {
+   "id": "KL01",
+   "nhom": "KL",
+   "cap": "B",
+   "ten": "Nguyên tắc giám sát, xác nhận khối lượng",
+   "pat": [
+    "gi[aá]m s[aá]t kh[oố]i l[uư][oợ]ng",
+    "x[aá]c nh[aậ]n kh[oố]i l[uư][oợ]ng"
+   ]
+  },
+  {
+   "id": "KL02",
+   "nhom": "KL",
+   "cap": "B",
+   "ten": "Khối lượng phát sinh so với thiết kế",
+   "pat": [
+    "kh[oố]i l[uư][oợ]ng ph[aá]t sinh"
+   ]
+  },
+  {
+   "id": "KL03",
+   "nhom": "KL",
+   "cap": "B",
+   "ten": "Khối lượng sửa đổi, khối lượng thi công khác",
+   "pat": [
+    "kh[oố]i l[uư][oợ]ng s[uử]a [dđ][oổ]i",
+    "kh[oố]i l[uư][oợ]ng thi c[oô]ng kh[aá]c"
+   ]
+  },
+  {
+   "id": "KL04",
+   "nhom": "KL",
+   "cap": "N",
+   "ten": "Quy trình, thời hạn xác nhận khối lượng; lưu ý khi tính khối lượng",
+   "pat": [
+    "(l[uư]u [dđ][oồ]|quy tr[iì]nh|ti[eế]n [dđ][oộ]).{0,40}kh[oố]i l[uư][oợ]ng",
+    "kh[oố]i l[uư][oợ]ng t[aạ]m t[ií]nh",
+    "(l[uư]u [yý]|[dđ]i[eể]m c[aầ]n ch[uú] [yý]).{0,30}t[ií]nh (to[aá]n )?kh[oố]i l[uư][oợ]ng"
+   ]
+  },
+  {
+   "id": "TD01",
+   "nhom": "TD",
+   "cap": "B",
+   "ten": "Giám sát tiến độ thi công",
+   "pat": [
+    "gi[aá]m s[aá]t ti[eế]n [dđ][oộ]"
+   ]
+  },
+  {
+   "id": "TD02",
+   "nhom": "TD",
+   "cap": "B",
+   "ten": "Biện pháp khắc phục chậm tiến độ, đẩy nhanh tiến độ",
+   "pat": [
+    "[dđ][aẩ]y nhanh ti[eế]n",
+    "ch[aậ]m ti[eế]n [dđ][oộ]",
+    "ti[eế]n [dđ][oộ] kh[oô]i ph[uụ]c",
+    "kh[aắ]c ph[uụ]c.{0,20}ti[eế]n [dđ][oộ]"
+   ]
+  },
+  {
+   "id": "TD03",
+   "nhom": "TD",
+   "cap": "N",
+   "ten": "Cập nhật tiến độ định kỳ, cảnh báo sớm nguy cơ chậm",
+   "pat": [
+    "c[aả]nh b[aá]o s[oớ]m",
+    "ti[eế]n [dđ][oộ] c[aậ]p nh[aậ]t",
+    "thu th[aậ]p s[oố] li[eệ]u ti[eế]n [dđ][oộ]",
+    "ph[aâ]n t[ií]ch s[oố] li[eệ]u ti[eế]n [dđ][oộ]"
+   ]
+  },
+  {
+   "id": "AT01",
+   "nhom": "AT",
+   "cap": "B",
+   "ten": "Giám sát an toàn lao động",
+   "pat": [
+    "an to[aà]n lao [dđ][oộ]ng",
+    "\\batl[dđ]\\b",
+    "atvsl[dđ]"
+   ]
+  },
+  {
+   "id": "AT02",
+   "nhom": "AT",
+   "cap": "B",
+   "ten": "Giám sát vệ sinh môi trường",
+   "pat": [
+    "v[eệ] sinh m[oô]i tr[uư][oờ]ng",
+    "\\bvsmt\\b"
+   ]
+  },
+  {
+   "id": "AT03",
+   "nhom": "AT",
+   "cap": "B",
+   "ten": "Giám sát phòng cháy chữa cháy, phòng chống cháy nổ",
+   "pat": [
+    "\\bpccc\\b",
+    "ph[oò]ng ch[aá]y",
+    "ch[aá]y n[oổ]",
+    "\\bpccn\\b"
+   ]
+  },
+  {
+   "id": "AT04",
+   "nhom": "AT",
+   "cap": "N",
+   "ten": "Kế hoạch quản lý an toàn: nhận diện mối nguy, đánh giá rủi ro, biện pháp kiểm soát",
+   "pat": [
+    "[dđ][aá]nh gi[aá] r[uủ]i ro",
+    "nh[aậ]n di[eệ]n.{0,30}(r[uủ]i ro|m[oố]i nguy)",
+    "k[eế] ho[aạ]ch qu[aả]n l[yý] an to[aà]n",
+    "c[aá]c bi[eệ]n ph[aá]p c[uụ] th[eể] trong qu[aả]n l[yý] an to[aà]n"
+   ]
+  },
+  {
+   "id": "AT05",
+   "nhom": "AT",
+   "cap": "N",
+   "ten": "Ứng phó tình huống khẩn cấp, quy trình đình chỉ thi công",
+   "pat": [
+    "kh[aẩ]n c[aấ]p",
+    "[dđ][iì]nh ch[iỉ]"
+   ]
+  },
+  {
+   "id": "BC01",
+   "nhom": "BC",
+   "cap": "B",
+   "ten": "Chế độ báo cáo (tuần, tháng, giai đoạn, hoàn thành, sự cố)",
+   "pat": [
+    "ch[eế] [dđ][oộ] b[aá]o c[aá]o",
+    "c[oô]ng t[aá]c b[aá]o c[aá]o",
+    "b[aá]o c[aá]o (tu[aầ]n|th[aá]ng|[dđ][iị]nh k[yỳ])"
+   ]
+  },
+  {
+   "id": "BC02",
+   "nhom": "BC",
+   "cap": "B",
+   "ten": "Thời hạn nộp báo cáo",
+   "pat": [
+    "ti[eế]n [dđ][oộ] n[oộ]p b[aá]o c[aá]o",
+    "th[oờ]i h[aạ]n.{0,20}b[aá]o c[aá]o",
+    "n[oộ]p h[aà]ng (tu[aầ]n|th[aá]ng)",
+    "th[oờ]i [dđ]i[eể]m n[oộ]p b[aá]o c[aá]o"
+   ]
+  },
+  {
+   "id": "BC03",
+   "nhom": "BC",
+   "cap": "B",
+   "ten": "Tổ chức các cuộc họp, giao ban",
+   "pat": [
+    "cu[oộ]c h[oọ]p",
+    "giao ban"
+   ]
+  },
+  {
+   "id": "BC04",
+   "nhom": "BC",
+   "cap": "N",
+   "ten": "Trao đổi thông tin, quản lý hồ sơ – tài liệu, thời hạn xử lý hồ sơ",
+   "pat": [
+    "trao [dđ][oổ]i th[oô]ng tin",
+    "qu[aả]n l[yý] h[oồ] s[oơ]",
+    "h[oồ] s[oơ] [dđ]i.{0,3}[dđ][eế]n",
+    "th[oờ]i h[aạ]n x[uử] l[yý] h[oồ] s[oơ]"
+   ]
+  },
+  {
+   "id": "TO01",
+   "nhom": "TO",
+   "cap": "B",
+   "ten": "Tổ chức thực hiện – nguyên tắc chung",
+   "pat": [
+    "t[oổ] ch[uứ]c th[uự]c hi[eệ]n",
+    "nguy[eê]n t[aắ]c chung"
+   ]
+  },
+  {
+   "id": "TO02",
+   "nhom": "TO",
+   "cap": "B",
+   "ten": "Mô hình, sơ đồ tổ chức đoàn TVGS",
+   "pat": [
+    "m[oô] h[iì]nh [dđ]o[aà]n",
+    "s[oơ] [dđ][oồ] t[oổ] ch[uứ]c",
+    "th[aà]nh ph[aầ]n nh[aâ]n s[uự]"
+   ]
+  },
+  {
+   "id": "TO03",
+   "nhom": "TO",
+   "cap": "B",
+   "ten": "Nhiệm vụ của TVGS trưởng và các kỹ sư giám sát",
+   "pat": [
+    "(t[uư] v[aấ]n )?gi[aá]m s[aá]t tr[uư][oở]ng",
+    "tvgs tr[uư][oở]ng",
+    "b[aả]ng ph[aâ]n c[oô]ng nhi[eệ]m v[uụ]",
+    "th[aà]nh ph[aầ]n nh[aâ]n s[uự] v[aà] tr[aá]ch nhi[eệ]m"
+   ]
+  },
+  {
+   "id": "TO04",
+   "nhom": "TO",
+   "cap": "B",
+   "ten": "Quan hệ của đoàn TVGS với Công ty, nội bộ và các bên",
+   "pat": [
+    "quan h[eệ] (c[uủ]a )?([dđ]o[aà]n )?(tvgs|t[uư] v[aấ]n gi[aá]m s[aá]t)",
+    "tr[aá]ch nhi[eệ]m,? ph[oố]i h[oợ]p"
+   ]
+  },
+  {
+   "id": "TO05",
+   "nhom": "TO",
+   "cap": "B",
+   "ten": "Phân công / phân cấp trách nhiệm ký hồ sơ sản phẩm TVGS",
+   "pat": [
+    "ph[aâ]n c[oô]ng (quy[eề]n h[aạ]n, )?tr[aá]ch nhi[eệ]m",
+    "ph[aâ]n c[aấ]p tr[aá]ch nhi[eệ]m",
+    "tr[aá]ch nhi[eệ]m k[yý]",
+    "ma tr[aậ]n tr[aá]ch nhi[eệ]m",
+    "th[aẩ]m quy[eề]n k[yý]"
+   ]
+  },
+  {
+   "id": "TO06",
+   "nhom": "TO",
+   "cap": "N",
+   "ten": "Ma trận trách nhiệm phối hợp các bên",
+   "pat": [
+    "ma tr[aậ]n"
+   ]
+  },
+  {
+   "id": "TO07",
+   "nhom": "TO",
+   "cap": "N",
+   "ten": "Kế hoạch điều động, đánh giá, đào tạo nhân sự đoàn",
+   "pat": [
+    "[dđ]i[eề]u [dđ][oộ]ng",
+    "[dđ][aà]o t[aạ]o nh[aâ]n s[uự]",
+    "huy [dđ][oộ]ng nh[aâ]n s[uự]",
+    "thay [dđ][oổ]i nh[aâ]n s[uự]"
+   ]
+  },
+  {
+   "id": "TO08",
+   "nhom": "TO",
+   "cap": "N",
+   "ten": "Hệ thống đảm bảo chất lượng công tác giám sát (ISO 9001, kiểm soát nội bộ)",
+   "pat": [
+    "iso 9001",
+    "s[oổ] tay ch[aấ]t l[uư][oợ]ng",
+    "h[eệ] th[oố]ng (qu[aả]n l[yý]|[dđ][aả]m b[aả]o) ch[aấ]t l[uư][oợ]ng c[oô]ng t[aá]c gi[aá]m s[aá]t",
+    "ki[eể]m so[aá]t n[oộ]i b[oộ]"
+   ]
+  },
+  {
+   "id": "TO09",
+   "nhom": "TO",
+   "cap": "N",
+   "ten": "Biện pháp phòng ngừa sai sót",
+   "pat": [
+    "ph[oò]ng ng[uừ]a sai s[oó]t"
+   ]
+  },
+  {
+   "id": "CT01",
+   "nhom": "CT",
+   "cap": "B",
+   "ten": "Có phần đề cương giám sát chi tiết theo từng công tác/hạng mục",
+   "pat": [
+    "[dđ][eề] c[uư][oơ]ng (gi[aá]m s[aá]t )?chi ti[eế]t",
+    "n[oộ]i dung (gi[aá]m s[aá]t )?chi ti[eế]t",
+    "gi[aá]m s[aá]t (thi c[oô]ng )?theo h[aạ]ng m[uụ]c",
+    "quy tr[iì]nh gi[aá]m s[aá]t chi ti[eế]t",
+    "c[aá]c n[oộ]i dung chi ti[eế]t"
+   ]
+  },
+  {
+   "id": "CT02",
+   "nhom": "CT",
+   "cap": "B",
+   "ten": "Tiêu chuẩn được viện dẫn cho từng công tác (≥ 10 lượt TCVN/QCVN)",
+   "rule": "std_count"
+  },
+  {
+   "id": "CT03",
+   "nhom": "CT",
+   "cap": "B",
+   "ten": "Biểu mẫu hồ sơ (hoặc dẫn chiếu biểu mẫu dự án)",
+   "pat": [
+    "bi[eể]u m[aẫ]u"
+   ]
+  },
+  {
+   "id": "CT04",
+   "nhom": "CT",
+   "cap": "N",
+   "ten": "Phiếu/bảng kiểm tra chi tiết (công việc kiểm tra – căn cứ – đánh giá) và sai số cho phép",
+   "pat": [
+    "c[oô]ng vi[eệ]c ki[eể]m tra",
+    "sai (l[eệ]ch|s[oố]) cho ph[eé]p",
+    "ti[eê]u ch[ií] [dđ][aá]nh gi[aá]",
+    "phi[eế]u ki[eể]m tra"
+   ]
+  }
+ ]
+}

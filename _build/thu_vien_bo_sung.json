@@ -1,0 +1,137 @@
+[
+ {
+  "id": "QUANTRAC",
+  "ten": "Giám sát quan trắc lún, nghiêng, chuyển vị và kiểm định kết cấu",
+  "nhom": "Chuyên đề",
+  "tu_khoa": [
+   "quan trắc lún",
+   "quan trắc",
+   "inclinometer",
+   "chuyển vị tường vây",
+   "kiểm định kết cấu"
+  ],
+  "nguon": [
+   "TT02 – VNM (10/2026)"
+  ],
+  "tieu_chuan_tham_chieu": [
+   "TCVN 9360:2012 – Quy trình kỹ thuật xác định độ lún công trình bằng phương pháp đo cao hình học",
+   "TCVN 9364:2012 – Nhà cao tầng – Kỹ thuật đo đạc phục vụ công tác thi công",
+   "TCVN 9398:2012 – Công tác trắc địa trong xây dựng công trình",
+   "Phương án kỹ thuật quan trắc lún, nghiêng, chuyển vị được Chủ đầu tư phê duyệt"
+  ],
+  "tieu_chuan": [
+   "TCVN 9360:2012",
+   "TCVN 9364:2012",
+   "TCVN 9398:2012"
+  ],
+  "hang": [
+   {
+    "nhom": "KIỂM TRA CÔNG TÁC CHUẨN BỊ CỦA NHÀ THẦU",
+    "muc": "Phương án kỹ thuật quan trắc",
+    "tc": [
+     "Phương án quan trắc được phê duyệt"
+    ],
+    "hs": [
+     "Biên bản kiểm tra phương án"
+    ],
+    "pp": [
+     "Kiểm tra hồ sơ thiết kế, phương án kỹ thuật quan trắc lún, nghiêng, chuyển vị, mực nước ngầm: vị trí điểm đo, mốc chuẩn, chu kỳ đo, ngưỡng cảnh báo – ngưỡng dừng, đầu mối nhận cảnh báo.",
+     "Đối chiếu phương án với yêu cầu của thiết kế và biện pháp thi công phần ngầm."
+    ],
+    "diem": "HP"
+   },
+   {
+    "nhom": "KIỂM TRA CÔNG TÁC CHUẨN BỊ CỦA NHÀ THẦU",
+    "muc": "Máy móc, thiết bị đo",
+    "tc": [
+     "Hồ sơ năng lực, kiểm định thiết bị"
+    ],
+    "hs": [
+     "Biên bản kiểm tra thiết bị"
+    ],
+    "pp": [
+     "Kiểm tra chủng loại, độ chính xác, giấy kiểm định/hiệu chuẩn còn hiệu lực của máy thủy bình, toàn đạc, thiết bị inclinometer, thiết bị đo mực nước."
+    ],
+    "diem": "RP"
+   },
+   {
+    "nhom": "KIỂM TRA CÔNG TÁC CHUẨN BỊ CỦA NHÀ THẦU",
+    "muc": "Nhân sự thực hiện",
+    "tc": [
+     "Hồ sơ năng lực, bằng cấp, chứng chỉ"
+    ],
+    "hs": [],
+    "pp": [
+     "Kiểm tra danh sách cán bộ, tổ đội tham gia; bằng cấp, chứng chỉ phù hợp; năng lực đơn vị quan trắc theo quy định."
+    ],
+    "diem": "RP"
+   },
+   {
+    "nhom": "GIÁM SÁT THI CÔNG LẮP ĐẶT",
+    "muc": "Vật tư, thiết bị quan trắc",
+    "tc": [
+     "Phê duyệt vật liệu của Chủ đầu tư"
+    ],
+    "hs": [
+     "Biên bản nghiệm thu vật liệu"
+    ],
+    "pp": [
+     "Kiểm tra nguồn gốc, xuất xứ, chứng chỉ, số lượng mốc, ống casing, đầu đo theo phê duyệt."
+    ],
+    "diem": "HP"
+   },
+   {
+    "nhom": "GIÁM SÁT THI CÔNG LẮP ĐẶT",
+    "muc": "Mốc chuẩn, mốc quan trắc, giếng quan trắc",
+    "tc": [
+     "Hồ sơ thiết kế",
+     "Phương án quan trắc được duyệt"
+    ],
+    "hs": [
+     "Biên bản nghiệm thu công việc"
+    ],
+    "pp": [
+     "Giám sát thi công mốc chuẩn ổn định ngoài vùng ảnh hưởng lún; lắp đặt mốc đo lún trên kết cấu.",
+     "Giám sát khoan giếng, lắp đặt thiết bị quan trắc mực nước ngầm.",
+     "Giám sát lắp đặt ống casing inclinometer trong tường vây/cọc (khi thiết kế yêu cầu); bảo vệ đầu ống.",
+     "Đo chu kỳ 0 (số liệu ban đầu) có TVGS chứng kiến trước khi thi công ảnh hưởng."
+    ],
+    "diem": "WP"
+   },
+   {
+    "nhom": "GIÁM SÁT CÔNG TÁC QUAN TRẮC",
+    "muc": "Quan trắc trong quá trình thi công",
+    "tc": [
+     "TCVN 9360:2012",
+     "TCVN 9364:2012"
+    ],
+    "hs": [
+     "Báo cáo kết quả quan trắc từng chu kỳ"
+    ],
+    "pp": [
+     "Giám sát đo mực nước ngầm, đo lún công trình và công trình lân cận, đo chuyển vị tường vây theo đúng chu kỳ và vị trí.",
+     "Kiểm tra số liệu, sai số khép, so sánh với ngưỡng cảnh báo; khi vượt ngưỡng báo cáo ngay Chủ đầu tư và đề nghị biện pháp xử lý.",
+     "Theo dõi biểu đồ lún, nghiêng theo thời gian; tổng hợp trong báo cáo tuần/tháng."
+    ],
+    "diem": "WP"
+   },
+   {
+    "nhom": "GIÁM SÁT CÔNG TÁC KIỂM ĐỊNH",
+    "muc": "Kiểm định kết cấu đặc biệt",
+    "tc": [
+     "Hồ sơ thiết kế",
+     "Phương án kiểm định được duyệt"
+    ],
+    "hs": [
+     "Báo cáo kiểm định"
+    ],
+    "pp": [
+     "Giám sát công tác kiểm tra, đo vẽ và thực hiện kiểm định các kết cấu đặc biệt theo phương án được phê duyệt; chứng kiến lấy mẫu, thí nghiệm hiện trường."
+    ],
+    "diem": "WP"
+   }
+  ],
+  "checklist": [],
+  "bang_phu": []
+ }
+]

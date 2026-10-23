@@ -1,0 +1,2376 @@
+{
+ "muc_tieu": [
+  [
+   "b",
+   "Đề cương được lập nhằm tổ chức thực hiện đầy đủ, thống nhất và có kiểm soát công tác tư vấn giám sát thi công – nghiệm thu xây dựng và lắp đặt thiết bị của dự án theo hợp đồng, hồ sơ thiết kế được duyệt, chỉ dẫn kỹ thuật, quy chuẩn, tiêu chuẩn và quy định pháp luật hiện hành."
+  ],
+  [
+   "b",
+   "Đề cương quy định phạm vi, trình tự, trách nhiệm, điểm kiểm soát, hồ sơ và quy trình phối hợp giữa TEXO với Chủ đầu tư/Ban Quản lý dự án, Tư vấn thiết kế, Nhà thầu và các bên liên quan."
+  ],
+  [
+   "b",
+   "Tư vấn giám sát TEXO thực hiện kiểm tra, giám sát, đánh giá và tham gia nghiệm thu công việc xây dựng, lắp đặt thiết bị trong phạm vi hợp đồng và nhiệm vụ được giao. TVGS kiến nghị CĐT xử lý các nội dung vượt thẩm quyền; hoạt động giám sát không thay thế trách nhiệm tổ chức thi công, tự kiểm tra và bảo đảm chất lượng của Nhà thầu, trách nhiệm thiết kế của TVTK hoặc thẩm quyền quyết định của CĐT."
+  ]
+ ],
+ "du_lieu_dau_vao": [
+  [
+   "p",
+   "CĐT/BQLDA cung cấp và phát hành bàn giao cho TVGS các tài liệu được phê duyệt, còn hiệu lực của dự án để làm căn cứ thực hiện, gồm:"
+  ],
+  [
+   "b",
+   "Hồ sơ pháp lý, quyết định phê duyệt dự án/quy hoạch và các chỉ tiêu chính thức về diện tích, tầng cao, cấp công trình, chiều cao, công năng; các số liệu trong Đề cương được đối chiếu theo hồ sơ này."
+  ],
+  [
+   "b",
+   "Hồ sơ thiết kế, chỉ dẫn kỹ thuật và bản vẽ các giai đoạn tiếp theo khi được phát hành, gồm đào đất, hệ chống, kết cấu hầm/thân, MEP, kiến trúc hoàn thiện, nội thất, hạ tầng kỹ thuật và cảnh quan."
+  ],
+  [
+   "b",
+   "Hồ sơ quan trắc: phương án, vị trí thiết bị, số liệu ban đầu, tần suất, ngưỡng cảnh báo/dừng, đầu mối nhận cảnh báo, biện pháp ứng phó; hồ sơ khảo sát hiện trạng, công trình lân cận và địa chất-thủy văn."
+  ],
+  [
+   "b",
+   "Tiến độ tổng thể, các mốc bắt buộc, quy trình dự án và thời hạn phản hồi đối với từng nhóm hồ sơ."
+  ],
+  [
+   "b",
+   "Quyết định thành lập BQLDA/văn bản ủy quyền, danh sách đầu mối và phân quyền đối với shopdrawing, biện pháp, thay đổi, phát sinh, khối lượng, tạm dừng và thi công lại; thông tin liên hệ khẩn cấp."
+  ],
+  [
+   "b",
+   "Hồ sơ môi trường, điều kiện đấu nối/xả thải, giới hạn áp dụng; bản vẽ, ranh giới và yêu cầu phối hợp hạ tầng/cảnh quan."
+  ],
+  [
+   "b",
+   "HSMT/HSDT, hợp đồng thi công và các phụ lục liên quan để đối chiếu phạm vi, nghiệm thu công việc và kiểm tra, xác nhận khối lượng thi công hoàn thành."
+  ],
+  [
+   "p",
+   "TVGS thực hiện kiểm tra, giám sát trên cơ sở hồ sơ được phát hành hợp lệ và phạm vi hợp đồng; các chỉ tiêu chưa có căn cứ được xác định theo hồ sơ thiết kế/chỉ dẫn được CĐT/TVTK phát hành, không tự đặt thông số thay thế."
+  ]
+ ],
+ "dieu_dong_dao_tao": [
+  [
+   "p",
+   "Thời gian thực hiện dịch vụ theo Hợp đồng là {THOI_GIAN} tháng. Kế hoạch huy động nhân sự thể hiện đúng phân bổ nhân lực theo lịch công tác của hợp đồng cho từng vị trí được tính theo tiến độ hợp đồng."
+  ],
+  [
+   "p",
+   "Kế hoạch điều động nhân sự để triển khai thực hiện hợp đồng TVGS {DU_AN} phụ thuộc vào tiến độ triển khai từng công việc của dự án. Nhân sự tham gia có thể thay đổi (tăng, giảm, thay thế, v.v…) so với đề xuất trong hợp đồng tùy thuộc vào tình hình thực tế trong quá trình triển khai thực hiện."
+  ],
+  [
+   "p",
+   "Các nhân sự được điều động tham gia dự án, Tư vấn giám sát sẽ thực hiện các công tác đánh giá như sau:"
+  ],
+  [
+   "b",
+   "Bằng cấp, chứng chỉ giám sát phù hợp chuyên môn và quy mô của dự án."
+  ],
+  [
+   "b",
+   "Kiểm tra năng lực chuyên môn phù hợp với công việc được đảm nhiệm."
+  ],
+  [
+   "p",
+   "TVGS cam kết nhân sự tham gia dự án có năng lực phù hợp với công việc được giao, phù hợp với các quy định hiện hành."
+  ],
+  [
+   "p",
+   "Nhân sự được bố trí theo tiến độ và giai đoạn thi công, phù hợp phạm vi công việc, khối lượng tại hiện trường và phân bổ trong hợp đồng/Phụ lục hợp đồng."
+  ],
+  [
+   "b",
+   "Kế hoạch bố trí nhân sự Giám sát thi công xây dựng và lắp đặt thiết bị tương ứng với từng hạng mục công trình sẽ được Tư vấn giám sát thực hiện theo đúng thành phần nhân sự đã cam kết trong hợp đồng, phù hợp với tiến độ thi công thực tế trên công trường. Trường hợp có thay đổi về nhân sự, Tư vấn giám sát sẽ thông báo CĐT và các bên liên quan bằng văn bản. Nhân sự thay thế phải có năng lực phù hợp với công việc được giao."
+  ],
+  [
+   "p",
+   "Trước khi huy động, TEXO đối chiếu bằng cấp, chuyên môn, kinh nghiệm và chứng chỉ hành nghề phù hợp lĩnh vực, hạng công trình/công việc; chứng chỉ phải còn hiệu lực tại thời điểm thực hiện. Hồ sơ nhân sự được lưu và sẵn sàng cung cấp cho CĐT/BQLDA khi yêu cầu."
+  ],
+  [
+   "p",
+   "Việc thay đổi nhân sự chủ chốt phải được thông báo bằng văn bản và được CĐT/BQLDA chấp thuận trước khi nhân sự thay thế thực hiện nhiệm vụ. Nhân sự thay thế phải có năng lực, chuyên môn và chứng chỉ phù hợp, tương đương hoặc cao hơn vị trí được thay. Văn bản đề xuất nêu lý do, nhân sự thay thế, hồ sơ đối chiếu năng lực, thời điểm bố trí và kế hoạch tiếp nhận công việc để bảo đảm không gián đoạn giám sát."
+  ],
+  [
+   "h",
+   "Trình tự thay đổi nhân sự"
+  ],
+  [
+   "p",
+   "TEXO lập hồ sơ nhân sự thay thế và gửi CĐT/BQLDA xem xét trước khi huy động. Chỉ bố trí nhân sự sau khi có chấp thuận bằng văn bản; sau bàn giao, cập nhật danh sách và hồ sơ dự án."
+  ],
+  [
+   "h",
+   "4. Kế hoạch đào tạo nhân sự trên công trường:"
+  ],
+  [
+   "p",
+   "Để bảo đảm công tác giám sát đạt chất lượng, Tư vấn giám sát sẽ tổ chức 01 buổi đào tạo nội bộ 01 tháng/lần tại dự án bao gồm các nội dung chính sau:"
+  ],
+  [
+   "b",
+   "Thông báo chủ đề đào tạo trong tuần."
+  ],
+  [
+   "b",
+   "Hướng dẫn, trao đổi và điều chỉnh công tác giám sát thi công trên công trường để bảo đảm chất lượng."
+  ],
+  [
+   "b",
+   "Thảo luận phương pháp giám sát các công tác thi công trước khi bắt đầu thi công hạng mục mới."
+  ],
+  [
+   "b",
+   "Phương thức giao tiếp và trao đổi thông tin giữa các đơn vị tham gia dự án."
+  ],
+  [
+   "b",
+   "Giải đáp và thảo luận các vướng mắc liên quan."
+  ]
+ ],
+ "pham_vi_tvgs": [
+  [
+   "p",
+   "TVGS thực hiện công tác giám sát thi công và nghiệm thu công việc, hạng mục thi công xây dựng, lắp đặt thiết bị và các nhiệm vụ liên quan trong phạm vi hợp đồng TVGS đã ký kết, hồ sơ thiết kế được phê duyệt và quy định pháp luật áp dụng. Nội dung giám sát đối với từng hạng mục công trình bao gồm:"
+  ],
+  [
+   "p",
+   "(1) Giám sát chất lượng, kỹ thuật công trình xây dựng."
+  ],
+  [
+   "p",
+   "(2) Giám sát tiến độ thi công xây dựng của nhà thầu."
+  ],
+  [
+   "p",
+   "(3) Xác nhận khối lượng thi công hoàn thành của nhà thầu thi công."
+  ],
+  [
+   "p",
+   "(4) Giám sát, kiểm tra biện pháp an toàn lao động của nhà thầu thi công."
+  ],
+  [
+   "p",
+   "(5) Giám sát, kiểm tra biện pháp bảo đảm vệ sinh môi trường của nhà thầu thi công."
+  ],
+  [
+   "p",
+   "(6) Các công việc khác thuộc phạm vi hợp đồng TVGS và quy định pháp luật áp dụng."
+  ],
+  [
+   "p",
+   "(7) Quản lý tính pháp lý của bản vẽ thi công, bản vẽ thiết kế kỹ thuật, thiết kế thi công triển khai."
+  ],
+  [
+   "p",
+   "(8) Rà soát kiểm tra biện pháp thi công và kiến nghị CĐT/BQL chấp thuận theo thẩm quyền."
+  ],
+  [
+   "p",
+   "(9) Phát hiện, kiến nghị và phối hợp xử lý các vấn đề kỹ thuật trong phạm vi giám sát; chuyển TVTK xem xét những nội dung thuộc trách nhiệm thiết kế và trình CĐT hoặc người được ủy quyền hợp pháp quyết định theo thẩm quyền."
+  ],
+  [
+   "p",
+   "(10) Tổ chức kiểm tra, kiểm nghiệm, nghiệm thu theo quy định."
+  ],
+  [
+   "b",
+   "Phạm vi công việc chi tiết của TVGS được xác định theo Hợp đồng TVGS đã ký kết và quy định pháp luật áp dụng. Căn cứ phạm vi công việc này, TVGS trưởng phân công nhiệm vụ cho các giám sát viên, kiểm tra và đôn đốc việc thực hiện theo kế hoạch giám sát."
+  ],
+  [
+   "b",
+   "Trong các giai đoạn kế tiếp của dự án, đơn vị Tư vấn giám sát sẽ thực hiện các công việc sau:"
+  ],
+  [
+   "b",
+   "Tham dự các cuộc họp công trường định kỳ hằng tuần được tổ chức bởi ban quản lý dự án."
+  ],
+  [
+   "b",
+   "Tư vấn cho chủ đầu tư và đại diện của chủ đầu tư về tất cả các khía cạnh liên quan đến chất lượng dự án."
+  ],
+  [
+   "b",
+   "Báo cáo cho ban quản lý dự án của chủ đầu tư thường xuyên về các vấn đề An toàn – Vệ sinh lao động, VSMT và PCCC và CNCH ở công trường trong suốt quá trình xây dựng."
+  ],
+  [
+   "b",
+   "Thực hiện báo cáo tuần, báo cáo tháng cho chủ đầu tư về các công việc đang diễn ra theo tiến độ thời gian tổng thể và chi tiết được cung cấp bởi Ban quản lý dự án."
+  ],
+  [
+   "b",
+   "TVGS có nhiệm vụ giám sát công trình và báo cáo kịp thời đến Chủ đầu tư/ Tư vấn quản lý dự án về các vấn đề không phù hợp và kiểm tra sửa chữa các lỗi không phù hợp."
+  ]
+ ],
+ "trach_nhiem_phoi_hop": [
+  [
+   "p",
+   "TVGS kiểm tra, rà soát, giám sát, ghi nhận và kiến nghị trong phạm vi hợp đồng; không tự ý quyết định thay đổi thiết kế, chi phí, nghiệm thu hoàn thành hoặc nội dung vượt thẩm quyền được giao. Nhà thầu chịu trách nhiệm tự kiểm tra chất lượng, biện pháp, tiến độ và an toàn thi công. TVTK chịu trách nhiệm giải thích, đánh giá và phát hành hồ sơ thiết kế thuộc nhiệm vụ. CĐT/BQLDA quyết định theo phân quyền và hợp đồng."
+  ],
+  [
+   "p",
+   "Hồ sơ shopdrawing, biện pháp, vật liệu/MIR, RFI, WIR, NCR, thay đổi và khối lượng được chuyển đúng đầu mối. TVGS kiểm tra, nêu ý kiến/điều kiện và kiến nghị; TVTK làm rõ vấn đề thiết kế; CĐT/BQLDA quyết định nội dung thuộc thẩm quyền. Nhà thầu chỉ triển khai trên cơ sở hồ sơ được chấp thuận theo quy định. Xác nhận khối lượng theo kỳ phục vụ xem xét thanh toán, không thay thế quyết toán cuối cùng."
+  ],
+  [
+   "p",
+   "Nghĩa vụ, quyền hạn và trách nhiệm của Tư vấn giám sát"
+  ],
+  [
+   "p",
+   "Căn cứ các điều khoản về nội dung, khối lượng công việc, quyền và nghĩa vụ của TVGS, các điều khoản, phụ lục và tài liệu thuộc hợp đồng TVGS đã ký kết giữa Chủ đầu tư và TEXO, cùng các quy định pháp luật có liên quan, TVGS thực hiện các nhiệm vụ và trách nhiệm sau:"
+  ],
+  [
+   "h",
+   "a. Trách nhiệm thực hiện công tác giám sát"
+  ],
+  [
+   "p",
+   "TVGS thực hiện kiểm tra, giám sát kỹ thuật, chất lượng, khối lượng, tiến độ, an toàn, vệ sinh lao động (ATVSLĐ), vệ sinh môi trường và phòng cháy, chữa cháy, cứu nạn, cứu hộ (PCCC và CNCH) theo phạm vi hợp đồng, hồ sơ thiết kế được phê duyệt, chỉ dẫn kỹ thuật, quy chuẩn và tiêu chuẩn áp dụng. TVGS chịu trách nhiệm về công việc và kết quả do mình thực hiện trong phạm vi hợp đồng và nhiệm vụ được giao; không thay thế trách nhiệm tổ chức thi công, tự kiểm tra và bảo đảm chất lượng công trình của Nhà thầu."
+  ],
+  [
+   "h",
+   "b. Trách nhiệm kiểm tra, nghiệm thu"
+  ],
+  [
+   "p",
+   "TVGS kiểm tra điều kiện nghiệm thu và xác nhận các công việc đáp ứng yêu cầu theo hợp đồng, hồ sơ thiết kế và quy định áp dụng. Trường hợp công việc không đáp ứng điều kiện nghiệm thu, TVGS từ chối nghiệm thu, thông báo nội dung không phù hợp và yêu cầu Nhà thầu khắc phục. Việc nghiệm thu lại chỉ thực hiện sau khi có đủ căn cứ xác định công việc đáp ứng yêu cầu."
+  ],
+  [
+   "h",
+   "c. Trách nhiệm phát hiện, xử lý sai sót và bất hợp lý kỹ thuật"
+  ],
+  [
+   "p",
+   "Trong quá trình giám sát, khi phát hiện sai sót, vi phạm hoặc bất hợp lý về thiết kế, biện pháp thi công, chất lượng và an toàn, TVGS có trách nhiệm kịp thời ghi nhận, thông báo và yêu cầu Nhà thầu khắc phục trong phạm vi thẩm quyền. Đối với những vấn đề thuộc trách nhiệm thiết kế hoặc vượt thẩm quyền, TVGS báo cáo CĐT/BQLDA, đề xuất phương án xử lý và phối hợp với TVTK, các bên liên quan để làm rõ. Việc quyết định thay đổi thiết kế, phạm vi công việc hoặc các nội dung thuộc thẩm quyền Chủ đầu tư phải được thực hiện theo quy định."
+  ],
+  [
+   "p",
+   "d. Trách nhiệm giám sát ATVSLĐ, vệ sinh môi trường và PCCC, CNCH"
+  ],
+  [
+   "p",
+   "TVGS kiểm tra, giám sát việc thực hiện các biện pháp bảo đảm an toàn lao động, phòng cháy, chữa cháy và bảo vệ môi trường của Nhà thầu theo phạm vi hợp đồng. Khi phát hiện nguy cơ hoặc hành vi vi phạm, TVGS thực hiện quyền yêu cầu khắc phục, tạm dừng hoặc đình chỉ công việc theo thẩm quyền và quy trình đã quy định tại Đề cương; kịp thời báo cáo CĐT/BQLDA theo tính chất, mức độ sự việc."
+  ],
+  [
+   "h",
+   "e. Quyền của TVGS trong quá trình thực hiện nhiệm vụ"
+  ],
+  [
+   "p",
+   "TVGS có quyền yêu cầu Chủ đầu tư cung cấp đầy đủ, kịp thời các tài liệu, thông tin và hồ sơ liên quan đến phạm vi công việc; yêu cầu Nhà thầu phối hợp, giải trình và cung cấp hồ sơ phục vụ kiểm tra, giám sát. TVGS được bảo lưu ý kiến chuyên môn, kiến nghị xử lý những vấn đề ảnh hưởng đến chất lượng công trình và từ chối thực hiện các yêu cầu không hợp lý ngoài phạm vi hợp đồng hoặc trái quy định pháp luật. Các công việc phát sinh ngoài phạm vi hợp đồng được các bên xem xét, thống nhất theo quy định của Hợp đồng TVGS."
+  ],
+  [
+   "h",
+   "f. Trách nhiệm đối với sai sót do lỗi của TVGS"
+  ],
+  [
+   "p",
+   "TVGS chịu trách nhiệm đối với các sai sót, thiếu sót do lỗi của mình trong phạm vi nghĩa vụ và thẩm quyền được giao theo Hợp đồng TVGS và quy định pháp luật áp dụng. Khi phát hiện sai sót thuộc trách nhiệm của mình, TVGS có trách nhiệm kịp thời thực hiện biện pháp khắc phục, phối hợp xử lý và báo cáo CĐT/BQLDA kịp thời theo quy định. Việc xác định trách nhiệm, xử lý vi phạm và bồi thường thiệt hại (nếu có) phải căn cứ hợp đồng, quy định pháp luật, hành vi vi phạm, mức độ lỗi vi phạm, thiệt hại và mối quan hệ tương ứng. TVGS không chịu thay trách nhiệm thuộc phạm vi nghĩa vụ của Nhà thầu thi công, TVTK hoặc các bên liên quan, trừ trường hợp hợp đồng hoặc pháp luật có quy định khác."
+  ],
+  [
+   "h",
+   "g. Nguyên tắc thực hiện và xác định trách nhiệm"
+  ],
+  [
+   "p",
+   "Quyền, nghĩa vụ và trách nhiệm của TVGS được xác định theo Hợp đồng TVGS, các phụ lục, tài liệu hợp đồng có hiệu lực và quy định pháp luật bắt buộc áp dụng. Đề cương là tài liệu tổ chức thực hiện công tác giám sát, không mặc nhiên làm thay đổi hoặc mở rộng phạm vi công việc, nghĩa vụ và trách nhiệm của TEXO ngoài hợp đồng và pháp luật. Những nội dung phát sinh hoặc chưa được các bên thống nhất phải được xem xét, chấp thuận theo thẩm quyền và trình tự quy định trong hợp đồng trước khi áp dụng."
+  ],
+  [
+   "h",
+   "2. Chế độ làm việc và báo cáo"
+  ],
+  [
+   "p",
+   "Thời gian làm việc, trực hiện trường và ngoài giờ theo hợp đồng, tiến độ được duyệt và kế hoạch thi công công trường được Ban QLDA/CĐT thống nhất phê duyệt. TVGS dự họp giao ban định kỳ; họp đột xuất khi có nguy cơ ảnh hưởng chất lượng, tiến độ, an toàn, môi trường hoặc giao diện. Biên bản nêu nội dung, đầu mối, thời hạn và trạng thái; vấn đề khẩn cấp báo ngay, không chờ kỳ báo cáo."
+  ]
+ ],
+ "dinh_chi": [
+  [
+   "p",
+   "Trong tình huống khẩn cấp, việc đình chỉ tại hiện trường được thực hiện ngay, không chờ ý kiến trước của CĐT; TVGS báo cáo trong 24 giờ. Đối với vi phạm chất lượng, an toàn hoặc cháy nổ không khẩn cấp, TVGS yêu cầu dừng/khoanh vùng phần việc không phù hợp, theo dõi khắc phục và kiểm tra lại trước khi chuyển bước."
+  ]
+ ],
+ "ma_tran": [
+  [
+   "p",
+   "Ma trận dưới đây xác định vai trò kiểm tra, kiến nghị và quyết định. Phân quyền cụ thể thực hiện theo hợp đồng, văn bản ủy quyền và quy trình chính thức của CĐT/BQLDA."
+  ],
+  [
+   "h",
+   "Diễn giải nội dung ma trận phối hợp"
+  ],
+  [
+   "p",
+   "Nhà thầu có trách nhiệm lập, tự kiểm tra và trình các hồ sơ liên quan như shopdrawing, biện pháp thi công/ITP, vật liệu/MIR, RFI, NCR, thay đổi/phát sinh, hồ sơ khối lượng và các hồ sơ liên quan. Khi có yêu cầu sửa đổi hoặc khắc phục, Nhà thầu phải thực hiện và trình lại để kiểm tra."
+  ],
+  [
+   "p",
+   "TVGS là đầu mối kiểm tra, rà soát và điều phối hồ sơ/công việc; đánh giá sự phù hợp với thiết kế, chỉ dẫn kỹ thuật, hợp đồng và quy định áp dụng; ghi ý kiến, kiến nghị, yêu cầu chỉnh sửa hoặc khắc phục và ký xác nhận chuyển trình qua Ban QLDA/CĐT xem xét căn cứ phê duyệt; kiểm tra hiện trường và theo dõi việc thực hiện."
+  ],
+  [
+   "p",
+   "TVTK tham gia đối với các nội dung liên quan đến thiết kế; thực hiện làm rõ, xác nhận, giải thích hoặc phát hành điều chỉnh bổ sung thiết kế khi cần thiết."
+  ],
+  [
+   "p",
+   "CĐT quyết định hoặc phê duyệt các nội dung thuộc thẩm quyền. BQLDA thực hiện xem xét, chấp thuận hoặc quyết định trong phạm vi được CĐT ủy quyền. Các nội dung vượt thẩm quyền của TVGS được tổng hợp, kiến nghị CĐT/BQLDA xử lý."
+  ],
+  [
+   "p",
+   "Đối với hồ sơ trình duyệt, trình tự phối hợp thực hiện theo nguyên tắc: Nhà thầu lập và trình → TVGS kiểm tra, rà soát ký xác nhận→ TVTK tham gia khi liên quan thiết kế và ký xác nhận → CĐT/BQLDA xem xét theo thẩm quyền → TVGS thông báo kết quả → Nhà thầu thực hiện."
+  ],
+  [
+   "p",
+   "Đối với công tác thi công, Nhà thầu chỉ được triển khai khi hồ sơ liên quan đã được chấp thuận. TVGS thực hiện kiểm tra, giám sát theo ITP và hồ sơ được duyệt; TVTK và CĐT/BQLDA tham gia theo phạm vi trách nhiệm và thẩm quyền."
+  ],
+  [
+   "p",
+   "Khi phát hiện nội dung không phù hợp hoặc không đạt yêu cầu, Nhà thầu phải dừng hoặc khắc phục phần công việc liên quan theo yêu cầu của TVGS; thực hiện sửa chữa, bổ sung và trình kiểm tra lại trước khi tiếp tục thi công."
+  ],
+  [
+   "p",
+   "Khi hồ sơ hoặc công việc đạt yêu cầu và được chấp thuận đúng thẩm quyền, các bên thực hiện nghiệm thu, xác nhận, hoàn thiện hồ sơ và chuyển bước công việc tiếp theo."
+  ],
+  [
+   "p",
+   "Hồ sơ hoàn công, báo cáo và số liệu liên quan do Nhà thầu lập; TVGS kiểm tra, xác nhận; TVTK tham gia đối với nội dung liên quan thiết kế; CĐT/BQLDA tiếp nhận, phê duyệt và lưu trữ theo quy định."
+  ],
+  [
+   "p",
+   "Việc phối hợp giữa các bên được thực hiện theo hợp đồng, hồ sơ thiết kế, chỉ dẫn kỹ thuật, quy trình quản lý của dự án và phân quyền của CĐT/BQLDA."
+  ],
+  [
+   "p",
+   "Shopdrawing, biện pháp thi công và vật liệu: Nhà thầu lập, tự kiểm tra và trình hồ sơ. TVGS rà soát sự phù hợp với thiết kế, chỉ dẫn kỹ thuật và hợp đồng; TVTK làm rõ các nội dung liên quan thiết kế khi cần. Hồ sơ được chấp thuận/phê duyệt theo phân quyền của dự án trước khi triển khai."
+  ],
+  [
+   "p",
+   "Xử lý RFI: TVGS tiếp nhận, kiểm tra, phân loại và chuyển yêu cầu đến đúng đầu mối; theo dõi phản hồi đến khi hoàn tất. TVTK giải thích, làm rõ hoặc xử lý nội dung liên quan thiết kế. Các vấn đề vượt thẩm quyền của TVGS được báo cáo CĐT/BQLDA xem xét, quyết định."
+  ],
+  [
+   "p",
+   "Xử lý NCR: Nhà thầu xác định nguyên nhân, lập phương án khắc phục và tổ chức thực hiện sau khi được chấp thuận. TVGS kiểm tra, theo dõi khắc phục và xác nhận đóng NCR khi đáp ứng yêu cầu. Giải pháp ảnh hưởng đến thiết kế phải được TVTK xem xét và chấp thuận đúng thẩm quyền trước khi thực hiện."
+  ],
+  [
+   "p",
+   "Thay đổi thiết kế và phát sinh: Nhà thầu lập hồ sơ đề xuất, nêu rõ nguyên nhân, phạm vi và ảnh hưởng dự kiến. TVTK đánh giá giải pháp và xử lý hồ sơ thiết kế; TVGS rà soát tác động đến chất lượng, an toàn, tiến độ, khối lượng và chi phí trong phạm vi nhiệm vụ. CĐT quyết định theo thẩm quyền; BQLDA thực hiện trong phạm vi được CĐT ủy quyền. Chỉ triển khai khi hồ sơ được chấp thuận đúng thẩm quyền."
+  ],
+  [
+   "p",
+   "Kiểm tra, xác nhận khối lượng: Nhà thầu lập hồ sơ kèm căn cứ kỹ thuật, nghiệm thu, hoàn công và số liệu thực tế, đối chiếu sự chênh lệch theo thiết kế và hợp đồng(nếu có). TVGS kiểm tra, xác nhận phần khối lượng đủ căn cứ, bảo đảm không tính trùng hoặc chưa thực hiện. CĐT/BQLDA xem xét thanh toán theo hợp đồng; xác nhận khối lượng của TVGS không thay thế việc phê duyệt đơn giá, giá trị phát sinh hoặc quyết toán cuối cùng."
+  ],
+  [
+   "p",
+   "Đình chỉ và cho phép thi công lại: Khi có nguy cơ khẩn cấp mất an toàn đe dọa người, công trình hoặc gây ảnh hưởng môi trường, TVGS đình chỉ ngay phần việc liên quan, yêu cầu Nhà thầu bảo đảm an toàn và báo cáo CĐT/BQLDA bằng văn bản trong 24 giờ. Nhà thầu khắc phục, cung cấp bằng chứng và đề nghị kiểm tra lại. TVGS kiểm tra điều kiện chất lượng, an toàn và hồ sơ; chỉ thi công trở lại sau khi đáp ứng yêu cầu và được người có thẩm quyền theo hợp đồng/văn bản phân quyền chấp thuận."
+  ],
+  [
+   "h",
+   "Điều kiện cho phép thi công lại"
+  ],
+  [
+   "p",
+   "Nhà thầu hoàn tất khắc phục, nộp phân tích nguyên nhân/biện pháp phòng ngừa và đề nghị kiểm tra. TVGS kiểm tra hiện trường, hồ sơ, chất lượng, an toàn/PCCC; TVTK tham gia khi liên quan thiết kế. Chỉ chuyển bước khi điều kiện đạt và người có thẩm quyền theo phân quyền chấp thuận. Lưu vết thời điểm/phạm vi dừng, thông báo, khắc phục, kiểm tra và quyết định tiếp tục."
+  ]
+ ],
+ "quan_ly_ho_so": [
+  [
+   "h",
+   "1. Quản lý hồ sơ trên công trường:"
+  ],
+  [
+   "b",
+   "TVGS quản lý, theo dõi và lưu trữ các hồ sơ, tài liệu thuộc phạm vi công việc giám sát theo hợp đồng TVGS và quy trình quản lý hồ sơ của dự án. TVGS trưởng có trách nhiệm tổng hợp, báo cáo CĐT/BQLDA các văn bản, vấn đề liên quan đến công tác giám sát theo quy định."
+  ],
+  [
+   "b",
+   "TVGS có trách nhiệm lập danh mục hồ sơ công trình theo đúng quy định."
+  ],
+  [
+   "b",
+   "Định kỳ mỗi tháng một lần, Giám đốc dự án sẽ kiểm tra hồ sơ chất lượng công trình xây dựng tại công trường và TVGS phải yêu cầu nhà thầu thi công cùng phối hợp hoàn thiện hồ sơ chất lượng công trình theo quy định."
+  ],
+  [
+   "h",
+   "2. Công tác kiểm tra của Chủ đầu tư:"
+  ],
+  [
+   "p",
+   "Chủ đầu tư có thể kiểm tra công việc thực hiện giám sát thi công, quản lý hồ sơ của TVGS định kỳ trong suốt quá trình triển khai dự án. TVGS có trách nhiệm trình Chủ đầu tư các hồ sơ được yêu cầu gồm:"
+  ],
+  [
+   "b",
+   "Cách thức lưu trữ hồ sơ, cách thức truy xuất hồ sơ khi cần thiết."
+  ],
+  [
+   "b",
+   "Hồ sơ đã được gửi đến các bên liên quan theo đúng yêu cầu hay chưa?"
+  ],
+  [
+   "b",
+   "Hồ sơ được lưu trữ theo danh mục (file mềm, bản in) theo đúng quy định?"
+  ],
+  [
+   "b",
+   "Tính đầy đủ của hồ sơ theo từng giai đoạn của dự án."
+  ],
+  [
+   "h",
+   "3. Quy trình tiếp nhận, xử lý và theo dõi hồ sơ"
+  ],
+  [
+   "p",
+   "TVGS đăng ký và kiểm tra hồ sơ khi tiếp nhận. Hồ sơ thiếu được trả/yêu cầu bổ sung và chưa tính thời hạn xem xét; hồ sơ đủ được phân loại, chuyển đúng đầu mối, theo dõi phản hồi và lưu trạng thái đóng."
+  ],
+  [
+   "p",
+   "Nếu hợp đồng/quy trình dự án được CĐT/BQLDA ban hành quy định thời hạn khác thì áp dụng thời hạn đã thống nhất."
+  ],
+  [
+   "h",
+   "4. Thời hạn xử lý hồ sơ, quản lý lưu trữ."
+  ],
+  [
+   "p",
+   "Thời hạn xử lý được tính từ khi TVGS nhận đủ hồ sơ hợp lệ. Hồ sơ chưa đầy đủ phải được thông báo rõ nội dung cần bổ sung và ghi nhận ngày tiếp nhận lại. Thời hạn dưới đây áp dụng cho phần công việc thuộc trách nhiệm của TVGS; trường hợp hợp đồng hoặc quy trình dự án quy định khác thì thực hiện theo thời hạn đã thống nhất."
+  ],
+  [
+   "t",
+   [
+    [
+     "Hồ sơ",
+     "Mốc phản hồi TVGS",
+     "Theo dõi/điều kiện"
+    ],
+    [
+     "RFI / làm rõ kỹ thuật",
+     "Chuyển đúng đầu mối trong 01 ngày làm việc; mục tiêu phản hồi tổng thể từ 01- 03 ngày làm việc, tùy theo mức độ kỹ thuật.",
+     "Nếu cần TVTK/CĐT trả lời, báo trạng thái và hạn dự kiến; không tự kết luận thay thiết kế."
+    ],
+    [
+     "Shopdrawing",
+     "Từ 02–05 ngày làm việc theo độ phức tạp/số bộ môn và mức độ kỹ thuật.",
+     "Kiểm tra revision, giao diện, căn cứ thiết kế; ghi ý kiến rõ để trình lại."
+    ],
+    [
+     "Biện pháp thi công / ITP",
+     "Tối đa từ 02-05 ngày làm việc cho vòng rà soát TVGS, tùy theo mức độ kỹ thuật.",
+     "Theo dõi điểm dừng/điểm chứng kiến;không triển khai khi chưa chấp thuận đúng thẩm quyền."
+    ],
+    [
+     "Material submittal / MIR",
+     "Material submittal: tối đa từ 03-05 ngày làm việc; MIR: tối đa từ 01- 02 ngày làm việc để rà soát và bố trí kiểm tra khi nhập, tùy theo mức độ kỹ thuật.",
+     "Đối chiếu nguồn gốc, chứng chỉ, mẫu và phê duyệt trước khi đưa vào sử dụng."
+    ],
+    [
+     "WIR / nghiệm thu công việc",
+     "Bố trí nghiệm thu trong 24 giờ từ khi nhận đề nghị yêu cầu đầy đủ.",
+     "Nếu chưa đạt, trả lời lý do/yêu cầu khắc phục; không chuyển bước."
+    ],
+    [
+     "NCR",
+     "Phát hành ngay khi xác định; rà soát phương án khắc phục trong từ 01- 03 ngày làm việc; kiểm tra lại trong 24 giờ từ khi nhận đề nghị đầy đủ và tùy theo mức độ kỹ thuật.",
+     "Theo dõi thời hạn, bằng chứng khắc phục, kiểm tra lại và xác nhận đóng."
+    ]
+   ]
+  ],
+  [
+   "p",
+   "Khi cần ý kiến TVTK/CĐT/BQLDA, TVGS phải thông báo cho Nhà thầu nội dung đang chờ xử lý, ngày chuyển, đầu mối và thời hạn phản hồi dự kiến. Thời gian chờ được theo dõi riêng, không làm mất trách nhiệm chuyển hồ sơ, đôn đốc và báo cáo của TVGS. Khi quá hạn, TVGS báo cáo CĐT/BQLDA để xử lý."
+  ],
+  [
+   "p",
+   "Quá thời hạn phản hồi không được hiểu là mặc nhiên chấp thuận. Nhà thầu chỉ triển khai hoặc chuyển bước khi hồ sơ và điều kiện thi công đã được chấp thuận, nghiệm thu theo đúng thẩm quyền."
+  ],
+  [
+   "h",
+   "a. Nguyên tắc xác định thời hạn xử lý hồ sơ"
+  ],
+  [
+   "p",
+   "Thời hạn phản hồi 02–05 ngày làm việc trong bảng được xác định theo từng hồ sơ đầy đủ, hợp lệ và mức độ kỹ thuật phức tạp của hồ sơ. TEXO đề nghị CĐT/BQLDA thống nhất cách áp dụng thời hạn này đối với trường hợp nhiều hồ sơ được trình cùng một thời điểm, vì khối lượng kiểm tra, đối chiếu kỹ thuật và phối hợp liên bộ môn có thể không thể hoàn thành đồng thời trong cùng khoảng thời gian."
+  ],
+  [
+   "p",
+   "TEXO đề xuất cộng thêm từ 01 - 02 ngày làm việc cho mỗi hồ sơ tiếp theo trong cùng đợt tiếp nhận, căn cứ khối lượng, tính chất và mức độ kỹ thuật phức tạp của hồ sơ, thứ tự ưu tiên theo tiến độ thi công. TEXO lập danh mục hồ sơ tiếp nhận, đề xuất thứ tự kiểm tra và thời hạn phản hồi cho từng hồ sơ, gửi CĐT/BQLDA xem xét, thống nhất."
+  ],
+  [
+   "p",
+   "Các nội dung nêu trên là đề xuất của TEXO, không mặc nhiên điều chỉnh thời hạn hoặc nghĩa vụ theo hợp đồng. Thời hạn điều chỉnh chỉ áp dụng khi được các bên thống nhất, chấp thuận theo thẩm quyền; cách tính ngày làm việc căn cứ hợp đồng TVGS."
+  ],
+  [
+   "p",
+   "b. Trường hợp chưa thống nhất và các nguyên nhân ảnh hưởng đến thời hạn"
+  ],
+  [
+   "p",
+   "Trong thời gian chờ thống nhất, TEXO chủ động kiểm tra, phản hồi theo thứ tự ưu tiên và kịp thời thông báo bằng văn bản về hồ sơ có nguy cơ quá hạn, nêu rõ số lượng hồ sơ tiếp nhận đồng thời, nội dung cần kiểm tra, nguyên nhân và thời gian phản hồi đề xuất để CĐT/BQLDA xem xét. Khi thời gian xử lý bị ảnh hưởng bởi việc hồ sơ chưa đầy đủ, phải làm rõ thông tin, chờ ý kiến TVTK/CĐT hoặc các nguyên nhân khách quan không do lỗi TVGS, TEXO cung cấp căn cứ và đề nghị CĐT/BQLDA xem xét thời hạn, trách nhiệm tương ứng theo hợp đồng và pháp luật; việc điều chỉnh hoặc miễn trừ (nếu có) không tự động phát sinh."
+  ],
+  [
+   "h",
+   "c. Trách nhiệm đối với việc chậm phản hồi"
+  ],
+  [
+   "p",
+   "Khi hồ sơ đầy đủ, hợp lệ nhưng TVGS chậm phản hồi do lỗi chủ quan, TVGS giải trình, thực hiện biện pháp khắc phục và chịu trách nhiệm theo hợp đồng và quy định pháp luật. TEXO đề nghị việc đánh giá trách nhiệm và chế tài (nếu có) căn cứ thời hạn có hiệu lực, thời điểm nhận đủ hồ sơ, khối lượng hồ sơ trình đồng thời, mức độ phức tạp, các vướng mắc khách quan và lỗi thực tế của từng bên; không mặc nhiên quy toàn bộ thời gian chậm cho TVGS. Việc quá hạn không có nghĩa hồ sơ được chấp thuận."
+  ],
+  [
+   "h",
+   "Kiểm soát hồ sơ đi/đến"
+  ],
+  [
+   "p",
+   "Đăng ký số/mã, ngày nhận/phát hành, đơn vị gửi/nhận, tiêu đề, bộ môn, revision, mức độ ưu tiên, đầu mối xử lý, hạn phản hồi và trạng thái. Lưu bản gốc/bản phát hành cùng ý kiến rà soát, RFI, NCR, shopdrawing, vật liệu, thí nghiệm, WIR/MIR, chỉ thị hiện trường, nhật ký, nghiệm thu và hoàn công. Báo cáo tuần danh mục thiếu/quá hạn; báo cáo tháng tổng hợp tồn đọng, nguyên nhân, người chịu trách nhiệm và thời hạn hoàn thành. Nhật ký công trình ghi diễn biến, nhân lực/thiết bị, thời tiết, công việc/vị trí, vật liệu, nghiệm thu/thí nghiệm, chỉ đạo, sự cố và các bên xác nhận theo biểu mẫu/quy định áp dụng."
+  ],
+  [
+   "h",
+   "Quy trình xem xét biện pháp thi công/shopdrawing"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung thực hiện",
+     "Đơn vị thực hiện",
+     "Kết quả/đầu ra"
+    ],
+    [
+     "1",
+     "Nhà thầu lập biện pháp thi công/shopdrawing, tự kiểm tra và trình theo quy định quản lý hồ sơ dự án.",
+     "Nhà thầu",
+     "Hồ sơ trình duyệt"
+    ],
+    [
+     "2",
+     "Kiểm tra sự phù hợp với thiết kế được duyệt, chỉ dẫn kỹ thuật, điều kiện hiện trường, tiêu chuẩn và quy định an toàn.",
+     "Tư vấn giám sát TEXO",
+     "Ý kiến kỹ thuật/phiếu nhận xét"
+    ],
+    [
+     "3",
+     "Trường hợp nội dung làm thay đổi thiết kế hoặc cần làm rõ cơ sở thiết kế, phát hành RFI và chuyển TVTK/CĐT giải quyết theo thẩm quyền.",
+     "Tư vấn giám sát TEXO + TVTK + CĐT/Ban Quản lý dự án",
+     "RFI/phản hồi/thiết kế điều chỉnh khi cần"
+    ],
+    [
+     "4",
+     "Nhà thầu sửa đổi, phản hồi từng ý kiến và trình lại; TVGS kiểm tra việc hoàn tất xử lý ý kiến.",
+     "Nhà thầu + Tư vấn giám sát TEXO",
+     "Bản sửa đổi phù hợp"
+    ],
+    [
+     "5",
+     "Chỉ triển khai sau khi hồ sơ được chấp thuận đúng thẩm quyền; quản lý đúng phiên bản tại hiện trường.",
+     "Tư vấn giám sát TEXO + CĐT/Ban Quản lý dự án",
+     "Bản được phép sử dụng thi công"
+    ]
+   ]
+  ]
+ ],
+ "chuan_bi_thi_cong": [
+  [
+   "b",
+   "Quyết định phê duyệt dự án đầu tư."
+  ],
+  [
+   "b",
+   "Tiến độ thi công được duyệt."
+  ],
+  [
+   "b",
+   "Hợp đồng TVGS."
+  ],
+  [
+   "b",
+   "Các hợp đồng thi công thuộc phạm vi TVGS."
+  ],
+  [
+   "b",
+   "Hồ sơ thiết kế bao gồm: Bản vẽ thiết kế / Thuyết minh tính toán / Tiêu chí kỹ thuật của dự án."
+  ],
+  [
+   "b",
+   "Sơ đồ tổ chức / các quyết định bổ nhiệm và điều động nhân sự."
+  ],
+  [
+   "h",
+   "1.2. Các nội dung cần phối hợp thực hiện, thống nhất giữa TVGS, Nhà thầu thi công, Ban QLDA/Chủ đầu tư và Tư vấn thiết kế: Trước khi thi công toàn bộ công trình cũng như trước khi thi công mỗi hạng mục công trình, TVGS, Nhà thầu thi công, Chủ đầu tư và Tư vấn thiết kế trên công trường phải phối hợp thực hiện và thống nhất theo ma trận trách nhiệm và quy trình phối hợp được ban hành bởi Ban Quản lý dự án và Chủ đầu tư."
+  ],
+  [
+   "h",
+   "1.3. Các quy trình giai đoạn chuẩn bị thi công:"
+  ],
+  [
+   "h",
+   "Quy trình xem xét vật liệu/nhà cung cấp"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung thực hiện",
+     "Đơn vị thực hiện",
+     "Kết quả/đầu ra"
+    ],
+    [
+     "1",
+     "Nhà thầu lập hồ sơ đề nghị chấp thuận vật liệu/nhà cung cấp, kèm hồ sơ pháp lý, năng lực, catalogue, CO/CQ và mẫu (nếu yêu cầu).",
+     "Nhà thầu",
+     "Hồ sơ trình duyệt đầy đủ"
+    ],
+    [
+     "2",
+     "Kiểm tra tính đầy đủ, nguồn gốc, tiêu chuẩn áp dụng, sự phù hợp thiết kế và chỉ dẫn kỹ thuật.",
+     "Tư vấn giám sát TEXO",
+     "Phiếu nhận xét/ý kiến kỹ thuật"
+    ],
+    [
+     "3",
+     "Kiểm tra mẫu, lấy mẫu thí nghiệm và chứng kiến thí nghiệm theo ITP/đề cương được duyệt.",
+     "Nhà thầu + Tư vấn giám sát TEXO + đơn vị thí nghiệm",
+     "Biên bản lấy mẫu/kết quả thí nghiệm"
+    ],
+    [
+     "4",
+     "Tổng hợp đánh giá, ký xác nhận và trình Chủ đầu tư/Ban Quản lý dự án xem xét chấp thuận theo thẩm quyền.",
+     "Tư vấn giám sát TEXO",
+     "Hồ sơ được chấp thuận hoặc yêu cầu trình lại"
+    ],
+    [
+     "5",
+     "Cập nhật danh mục vật liệu được chấp thuận; kiểm soát lô nhập thực tế trước khi sử dụng.",
+     "Tư vấn giám sát TEXO",
+     "Material approval/MIR và register"
+    ]
+   ]
+  ]
+ ],
+ "ke_hoach_nghiem_thu": [
+  [
+   "t",
+   [
+    [
+     "TT",
+     "Nội dung công việc",
+     "Kế hoạch thực hiện",
+     "Ghi chú"
+    ],
+    [
+     "1",
+     "Xem xét, đánh giá tiến độ thi công từng hạng mục công trình",
+     "Trước ngày bắt đầu thi công hạng mục",
+     ""
+    ],
+    [
+     "2",
+     "Xem xét, đánh giá tiến độ thi công hàng tháng của Nhà thầu,và các vấn đề xử lý kỹ thuật tại công trường.",
+     "Chậm nhất là ngày 03 mỗi tháng",
+     "Nhà thầu lập tiến độ trình TVGS xem xét, đánh giá"
+    ],
+    [
+     "3",
+     "Xem xét/chấp thuận biện pháp thi công hạng mục công trình theo thẩm quyền",
+     "Trước ngày bắt đầu thi công hạng mục công trình",
+     "biện pháp thi công tầng hầm phải được thẩm tra."
+    ],
+    [
+     "4",
+     "Kiểm tra, đánh giá hồ sơ nhà thầu phụ, nhà cung cấp, đơn vị thí nghiệm vật liệu, v.v…",
+     "Theo tiến độ thi công, nhưng không trễ hơn thời gian bắt đầu của công việc tương ứng.",
+     "TVGS có trách nhiệm yêu cầu Nhà thầu thi công thực hiện đúng quy định."
+    ],
+    [
+     "5",
+     "Xem xét, đánh giá mẫu vật tư theo danh mục vật tư trong hợp đồng",
+     "Nhà thầu phải trình kế hoạch duyệt mẫu vật tư theo tiến độ thi công",
+     "Bảo đảm tất cả vật tư phải được duyệt mẫu trước khi nhập chính thức về công trường"
+    ],
+    [
+     "6",
+     "Họp giao ban công trường",
+     "Thời gian do Ban QLDA/CĐT quy định",
+     "CĐT/QLDA, TVGS, Nhà thầu"
+    ],
+    [
+     "7",
+     "Hội ý đánh giá KQ công việc trong ngày và kế hoạch thi công ngày tiếp theo",
+     "16h mỗi ngày",
+     "Ghi chép nhật ký công trình, nhật ký giám sát, ký shopdrawing."
+    ],
+    [
+     "8",
+     "Nghiệm thu vật liệu đầu vào",
+     "Nhà thầu phải gửi Phiếu yêu cầu nghiệm thu tối thiểu 2h trước thời điểm nghiệm thu.",
+     "Hồ sơ chất lượng vật liệu nhập về công trường"
+    ],
+    [
+     "9",
+     "Nghiệm thu công việc xây dựng",
+     "Nhà thầu phải gửi Phiếu yêu cầu nghiệm thu tối thiểu 2h trước thời điểm nghiệm thu.",
+     "Trừ một số công việc phải giám sát liên tục như thi công cọc, v.v…"
+    ],
+    [
+     "10",
+     "Nghiệm thu hạng mục công trình xây dựng",
+     "Nhà thầu phải gửi Phiếu yêu cầu nghiệm thu tối thiểu 03 ngày trước thời điểm nghiệm thu.",
+     "Thành phần tham gia theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026"
+    ],
+    [
+     "11",
+     "Nghiệm thu toàn bộ công trình đưa vào sử dụng",
+     "Nhà thầu phải gửi Phiếu yêu cầu nghiệm thu tối thiểu 01 tuần trước thời điểm nghiệm thu.",
+     "Thành phần tham gia theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026"
+    ],
+    [
+     "12",
+     "Xác nhận khối lượng hoàn thành theo tháng, theo giai đoạn thi công hoặc theo từng hạng mục",
+     "Theo các điều khoản hợp đồng thi công.",
+     "CĐT/QLDA, TVGS, Nhà thầu"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2.2. Công tác kiểm tra và nghiệm thu:"
+  ],
+  [
+   "t",
+   [
+    [
+     "Giai đoạn",
+     "Nội dung TVGS kiểm tra",
+     "Căn cứ kiểm soát",
+     "Kết quả"
+    ],
+    [
+     "Trước thi công",
+     "Điều kiện khởi công phần việc; hồ sơ thiết kế, shopdrawing; biện pháp; ITP/checklist; vật liệu; nhân lực, thiết bị; ATLĐ.",
+     "Thiết kế được duyệt, chỉ dẫn kỹ thuật, quy trình, biện pháp/ITP và quy định hiện hành.",
+     "Đủ điều kiện triển khai hoặc yêu cầu hoàn thiện."
+    ],
+    [
+     "Trong thi công",
+     "Kiểm tra trình tự, kích thước, cao độ, vật liệu, thông số kỹ thuật, thí nghiệm, công tác che khuất và an toàn.",
+     "ITP/checklist; tiêu chuẩn; hồ sơ được chấp thuận.",
+     "Biên bản kiểm tra/witness/phiếu ghi nhận sự không phù hợp (NCR) khi cần."
+    ],
+    [
+     "Sau thi công",
+     "Kiểm tra kết quả, dung sai, thí nghiệm, hoàn công, vệ sinh và điều kiện chuyển bước.",
+     "Tiêu chí nghiệm thu; bản vẽ hoàn công; kết quả thử.",
+     "Nghiệm thu hoặc yêu cầu khắc phục."
+    ]
+   ]
+  ]
+ ],
+ "quy_trinh_nghiem_thu": [
+  [
+   "h",
+   "2.3.1. Quy trình xem xét vật liệu/nhà cung cấp"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung kiểm tra/thực hiện",
+     "Đơn vị thực hiện",
+     "Hồ sơ/Kết quả"
+    ],
+    [
+     "1",
+     "Nhà thầu lập hồ sơ vật liệu/nhà cung cấp theo danh mục trình duyệt.",
+     "Nhà thầu",
+     "Hồ sơ trình duyệt"
+    ],
+    [
+     "2",
+     "TVGS kiểm tra nguồn gốc, tiêu chuẩn, thông số kỹ thuật, hồ sơ pháp lý/năng lực và sự phù hợp thiết kế, cam kết sử dụng vật tư, vật liệu theo hợp đồng.",
+     "Tư vấn giám sát TEXO",
+     "Phiếu nhận xét"
+    ],
+    [
+     "3",
+     "Kiểm tra mẫu, lấy mẫu/thí nghiệm theo ITP và đề cương được duyệt.",
+     "Nhà thầu + Tư vấn giám sát TEXO + LAS",
+     "Biên bản/kết quả thí nghiệm"
+    ],
+    [
+     "4",
+     "TVGS tổng hợp đánh giá và trình CĐT/Ban Quản lý dự án xem xét chấp thuận theo thẩm quyền.",
+     "Tư vấn giám sát TEXO",
+     "Kết quả trình duyệt"
+    ],
+    [
+     "5",
+     "Kiểm soát lô vật liệu nhập thực tế, truy xuất và bảo quản trước sử dụng.",
+     "Tư vấn giám sát TEXO",
+     "MIR/Register vật liệu"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2.3.2. Quy trình nghiệm thu cốt thép nhập về công trường"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung kiểm tra/thực hiện",
+     "Đơn vị thực hiện",
+     "Hồ sơ/Kết quả"
+    ],
+    [
+     "1",
+     "Đối chiếu nhà sản xuất, mác thép, đường kính, số heat/lô và số lượng với hồ sơ đã chấp thuận và cam kết sử dụng vật tư, vật liệu theo hợp đồng.",
+     "Nhà thầu + Tư vấn giám sát TEXO",
+     "MIR/CO/CQ"
+    ],
+    [
+     "2",
+     "Kiểm tra ngoại quan, nhãn bó, tình trạng bảo quản và truy xuất lô.",
+     "Tư vấn giám sát TEXO",
+     "Checklist/biên bản"
+    ],
+    [
+     "3",
+     "Lấy mẫu, niêm phong và chứng kiến thí nghiệm theo ITP.",
+     "Tư vấn giám sát TEXO + LAS",
+     "Biên bản lấy mẫu"
+    ],
+    [
+     "4",
+     "Đối chiếu kết quả với yêu cầu thiết kế/tiêu chuẩn; chỉ cho sử dụng lô đạt yêu cầu.",
+     "Tư vấn giám sát TEXO",
+     "Kết quả thí nghiệm/chấp thuận"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2.3.3. Quy trình nghiệm thu vật liệu nhập về công trường"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung kiểm tra/thực hiện",
+     "Đơn vị thực hiện",
+     "Hồ sơ/Kết quả"
+    ],
+    [
+     "1",
+     "Nhà thầu gửi yêu cầu nghiệm thu kèm chứng từ lô hàng, hồ sơ vật liệu đã được chấp thuận.",
+     "Nhà thầu",
+     "MIR và hồ sơ lô"
+    ],
+    [
+     "2",
+     "TVGS kiểm tra chủng loại, quy cách, số lượng, nhãn, chứng từ và tình trạng thực tế, cam kết sử dụng vật tư, vật liệu theo hợp đồng.",
+     "Tư vấn giám sát TEXO",
+     "Biên bản kiểm tra"
+    ],
+    [
+     "3",
+     "Lấy mẫu/thí nghiệm khi ITP hoặc chỉ dẫn kỹ thuật yêu cầu; cách ly lô chờ kết quả.",
+     "Tư vấn giám sát TEXO + LAS",
+     "Kết quả thí nghiệm"
+    ],
+    [
+     "4",
+     "Chấp nhận sử dụng khi đủ căn cứ; vật liệu không phù hợp phải cách ly và xử lý theo phiếu ghi nhận sự không phù hợp (NCR).",
+     "Tư vấn giám sát TEXO",
+     "MIR/phiếu ghi nhận sự không phù hợp (NCR)"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2.3.4. Quy trình nghiệm thu bê tông tại công trường"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung kiểm tra/thực hiện",
+     "Đơn vị thực hiện",
+     "Hồ sơ/Kết quả"
+    ],
+    [
+     "1",
+     "Kiểm tra phiếu giao bê tông, cấp phối được duyệt, thời gian xuất trạm/đến công trường và nhận dạng xe.",
+     "Tư vấn giám sát TEXO",
+     "Phiếu giao hàng"
+    ],
+    [
+     "2",
+     "Kiểm tra độ sụt và các chỉ tiêu bê tông tươi theo thiết kế/chỉ dẫn kỹ thuật.",
+     "Tư vấn giám sát TEXO + Nhà thầu",
+     "Phiếu kiểm tra bê tông tươi"
+    ],
+    [
+     "3",
+     "Lấy mẫu, đúc mẫu, đánh mã và bảo dưỡng mẫu theo kế hoạch thí nghiệm.",
+     "Tư vấn giám sát TEXO + LAS",
+     "Biên bản lấy mẫu/mẫu thử"
+    ],
+    [
+     "4",
+     "Giám sát đổ, đầm, mạch ngừng, hoàn thiện bề mặt và bảo dưỡng.",
+     "Tư vấn giám sát TEXO",
+     "Nhật ký/biên bản"
+    ],
+    [
+     "5",
+     "Đối chiếu kết quả cường độ; xử lý trường hợp không phù hợp theo quy trình phiếu ghi nhận sự không phù hợp (NCR)/kiểm định khi cần.",
+     "Tư vấn giám sát TEXO + CĐT/TVTK",
+     "Kết quả đánh giá/xử lý"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2.3.5. Quy trình nghiệm thu công việc xây dựng"
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Nội dung kiểm tra/thực hiện",
+     "Đơn vị thực hiện",
+     "Hồ sơ/Kết quả"
+    ],
+    [
+     "1",
+     "Nhà thầu tự kiểm tra, hoàn thành checklist và gửi yêu cầu nghiệm thu kèm hồ sơ.",
+     "Nhà thầu",
+     "Yêu cầu nghiệm thu"
+    ],
+    [
+     "2",
+     "TVGS kiểm tra bản vẽ hiệu lực, vật liệu, kết quả thí nghiệm và hiện trạng thực tế.",
+     "Tư vấn giám sát TEXO",
+     "Kết quả kiểm tra"
+    ],
+    [
+     "3",
+     "Đo kiểm các thông số trọng yếu; kiểm tra giao diện và công tác che khuất.",
+     "Tư vấn giám sát TEXO + Nhà thầu",
+     "Checklist/phiếu đo/ảnh"
+    ],
+    [
+     "4",
+     "Nếu không đạt: nêu rõ lý do, yêu cầu khắc phục/phiếu ghi nhận sự không phù hợp (NCR) và nghiệm thu lại.",
+     "Tư vấn giám sát TEXO",
+     "phiếu ghi nhận sự không phù hợp (NCR)/Punch list"
+    ],
+    [
+     "5",
+     "Nếu đạt: ký biên bản nghiệm thu và cho phép chuyển bước theo ITP.",
+     "Tư vấn giám sát TEXO + các bên theo quy định",
+     "Biên bản nghiệm thu"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2.3.6. Quy trình xử lý không phù hợp chất lượng"
+  ],
+  [
+   "p",
+   "Nhà thầu dừng phần việc không phù hợp, xác định nguyên nhân và trình biện pháp khắc phục. TVGS kiểm tra hiện trường, hồ sơ và kết quả sau khắc phục; nếu chưa đạt, yêu cầu tiếp tục xử lý. Khi đạt, TVGS xác nhận đóng NCR và kiến nghị chuyển bước hoặc thi công lại theo thẩm quyền."
+  ]
+ ],
+ "tien_do": [
+  [
+   "h",
+   "1. Tiến độ tổng thể được phê duyệt"
+  ],
+  [
+   "p",
+   "Trước khi khởi công, Nhà thầu trình tiến độ thi công tổng thể và chi tiết. TVGS kiểm tra sự phù hợp với hợp đồng, trình tự thi công, nguồn lực và các mốc hoàn thành; tổng hợp ý kiến, kiến nghị CĐT/BQLDA xem xét, phê duyệt theo thẩm quyền. Tiến độ phải đáp ứng các yêu cầu sau:"
+  ],
+  [
+   "b",
+   "Đúng với thời hạn hoàn thành theo hợp đồng và tổng tiến độ được duyệt."
+  ],
+  [
+   "b",
+   "Theo mẫu biểu của dự án."
+  ],
+  [
+   "b",
+   "Phân chia và nhóm các hạng mục thi công khác nhau một cách phù hợp để có thể theo dõi tiến độ thi công hằng ngày được hiệu quả."
+  ],
+  [
+   "b",
+   "Cần thể hiện rõ ràng những hạng mục sau:"
+  ],
+  [
+   "b",
+   "Hạng mục / công việc tạm - kết cấu tạm, những công việc phụ trợ từ khi huy động cho đến khi rời đi."
+  ],
+  [
+   "b",
+   "Quản lý và bảo đảm chất lượng - những quy định / điều kiện về công tác đệ trình để phê duyệt."
+  ],
+  [
+   "b",
+   "Đơn đặt hàng/giao hàng - quy định/điều kiện của tất cả các phân bổ vật tư được đặt hàng và giao hàng tới công trường."
+  ],
+  [
+   "b",
+   "Hạng mục thi công."
+  ],
+  [
+   "b",
+   "Nghiệm thu bàn giao, chỉnh sửa, thí nghiệm và giai đoạn đóng hồ sơ."
+  ],
+  [
+   "h",
+   "2. Tiến độ cập nhật hằng tuần"
+  ],
+  [
+   "p",
+   "Như là một phần trong báo cáo tuần của nhà thầu, những hạng mục sau sẽ được nhà thầu đệ trình trên quan điểm để theo dõi tiến độ và kế hoạch:"
+  ],
+  [
+   "b",
+   "Đường diễn biến được thể hiện trên tiến độ thi công đã được duyệt."
+  ],
+  [
+   "b",
+   "Danh sách những hạng mục công việc cần đạt được (kế hoạch tiếp theo) trong thời gian tới kèm theo phân bổ các nguồn lực (phản ánh những nhiệm vụ trong bản tiến độ ban đầu hoặc bất kỳ hạng mục nào cần phải bắt kịp trong trường hợp bị chậm trễ)."
+  ],
+  [
+   "b",
+   "Báo cáo về kế hoạch đạt được của tuần trước. Những hạng mục bị chậm trễ sẽ được TVGS trực tiếp theo dõi, nhắc nhở và những chỉ dẫn yêu cầu nhà thầu có biện pháp về nguồn lực, máy móc thiết bị và có thể sẽ được phát hành thư cảnh báo đến nhà thầu và báo cáo đến chủ đầu tư."
+  ],
+  [
+   "h",
+   "3. Kế hoạch thi công cuốn chiếu 3–4 tuần"
+  ],
+  [
+   "p",
+   "Nhà thầu lập kế hoạch cuốn chiếu 3–4 tuần và cập nhật hàng tuần, gắn với tiến độ tổng thể/mốc hợp đồng. Thể hiện khu vực, công việc, trình tự/giao diện, khối lượng, nhân lực, thiết bị, vật tư, bản vẽ/shopdrawing, biện pháp, nghiệm thu, ràng buộc và ngày cần quyết định. TVGS rà soát tính khả thi, nhận diện đường găng/rủi ro, cảnh báo sớm, yêu cầu người phụ trách và thời hạn xử lý vướng mắc; công việc chậm phải có biện pháp khôi phục, nguồn lực và mốc kiểm tra hiệu quả."
+  ],
+  [
+   "p",
+   "Khi có nguy cơ hoặc phát sinh chậm trễ, Nhà thầu phân tích nguyên nhân, trình biện pháp và nguồn lực khôi phục. TVGS kiểm tra tính khả thi, theo dõi thực hiện và báo cáo CĐT/BQLDA để xem xét theo thẩm quyền. Kế hoạch cuốn chiếu/khôi phục phục vụ điều hành, không tự thay đổi tiến độ hợp đồng hoặc phân định trách nhiệm chậm trễ."
+  ],
+  [
+   "h",
+   "Chu kỳ lập và kiểm soát kế hoạch"
+  ],
+  [
+   "p",
+   "Nhà thầu cập nhật kế hoạch cuốn chiếu theo tuần. TVGS so sánh với thực tế thi công ngoài hiện trường và mốc hợp đồng, cảnh báo sớm nguy cơ chậm; khi cần, rà soát biện pháp khắc phục để bù tiến độ bị chậm trễ và theo dõi hiệu quả. Kế hoạch điều hành không tự sửa tiến độ hợp đồng."
+  ],
+  [
+   "p",
+   "Giám sát quá trình thi công của nhà thầu phải đúng theo hồ sơ thiết kế được duyệt và quản lý khối lượng thi công của nhà thầu theo hợp đồng."
+  ],
+  [
+   "h",
+   "3. Cơ chế cảnh báo sớm nguy cơ chậm tiến độ:"
+  ],
+  [
+   "b",
+   "Căn cứ theo dõi: tiến độ tổng thể và tiến độ chi tiết đã được phê duyệt, đường găng, các mốc hợp đồng/mốc bàn giao, quan hệ giữa các công tác, khối lượng kế hoạch và thực hiện, nguồn lực, tình trạng hồ sơ/vật tư/thiết bị và các điểm nghẽn giao diện. Nhà thầu cập nhật dự báo hoàn thành theo dữ liệu thực tế; TVGS đối chiếu tại hiện trường và trong báo cáo định kỳ."
+  ],
+  [
+   "b",
+   "Kích hoạt cảnh báo khi công việc thực tế hoặc dự báo có nguy cơ làm chậm đường găng, mốc hợp đồng/mốc bàn giao hay công việc kế tiếp; khi tiến độ thực hiện lệch ngưỡng cảnh báo đã quy định trong tiến độ/kế hoạch quản lý tiến độ được duyệt; hoặc khi thiếu nhân lực, thiết bị, vật tư, hồ sơ, mặt bằng hay quyết định cần thiết có thể ảnh hưởng đến các mốc. Không áp dụng một tỷ lệ cảnh báo cố định nếu hợp đồng/kế hoạch được duyệt chưa quy định."
+  ],
+  [
+   "b",
+   "Phân loại và thông tin: ghi nhận nguy cơ ở mức cảnh báo sớm khi còn khả năng xử lý trong phạm vi kế hoạch hiện hành; nâng mức cảnh báo khi dự báo ảnh hưởng đường găng hoặc mốc cam kết, hoặc khi biện pháp ban đầu không hiệu quả. Nhà thầu phải thông báo ngay khi nhận diện nguy cơ ảnh hưởng mốc trọng yếu và cập nhật trong kỳ báo cáo gần nhất đối với các nguy cơ khác; TVGS kiểm tra, lập nhật ký/danh mục cảnh báo và báo cáo Chủ đầu tư/Ban Quản lý dự án theo quy trình dự án."
+  ],
+  [
+   "b",
+   "Mỗi cảnh báo phải nêu rõ công việc/mốc bị ảnh hưởng, tiến độ kế hoạch và dự báo, nguyên nhân, mức độ ảnh hưởng, bên chịu trách nhiệm xử lý, hành động cần thực hiện, người phụ trách và thời hạn. TVGS phối hợp các bên họp xử lý khi cần; yêu cầu nhà thầu phân tích nguyên nhân và trình kế hoạch phòng ngừa/khắc phục hoặc tiến độ khôi phục trong thời hạn do hợp đồng, Chủ đầu tư/Ban Quản lý dự án hoặc quy trình dự án quy định."
+  ],
+  [
+   "b",
+   "Biện pháp xử lý có thể gồm điều chỉnh trình tự/biện pháp thi công, bổ sung hoặc điều chuyển nhân lực và thiết bị, tổ chức thêm ca khi được phép, ưu tiên mua sắm/giao hàng, tháo gỡ vướng mắc mặt bằng/hồ sơ/giao diện và tăng cường kiểm soát năng suất. Mọi giải pháp phải bảo đảm chất lượng, an toàn, môi trường và tuân thủ hợp đồng; thay đổi phạm vi, thiết kế, chi phí hoặc mốc hợp đồng phải được cấp có thẩm quyền chấp thuận trước khi thực hiện."
+  ],
+  [
+   "b",
+   "Theo dõi trên danh mục cảnh báo và báo cáo tuần: cập nhật trạng thái, bằng chứng thực hiện, mức độ cải thiện và dự báo mốc sau mỗi kỳ; chỉ đóng cảnh báo khi nguyên nhân đã được xử lý, hành động hoàn tất và dự báo tiến độ không còn nguy cơ tương ứng. Nếu không đạt thời hạn hoặc nguy cơ tiếp tục tăng, TVGS kiến nghị Chủ đầu tư/Ban Quản lý dự án xem xét biện pháp xử lý theo hợp đồng và thẩm quyền."
+  ],
+  [
+   "h",
+   "4. Tiến độ khôi phục"
+  ],
+  [
+   "p",
+   "Trong trường hợp xảy ra sự chậm trễ đáng kể so với tiến độ tổng thể được phê duyệt;"
+  ],
+  [
+   "b",
+   "Giám sát, đánh giá tình hình điều động trang thiết bị, nhân công, khối lượng công việc hoàn tất trong tuần và tháng."
+  ],
+  [
+   "b",
+   "Đánh giá Khối lượng công việc bị trễ, các vấn đề phát sinh trong quá trình thi công, các mối đe dọa tiềm năng cũng như các đề xuất khắc phục đến Quản lý dự án, Chủ đầu tư."
+  ],
+  [
+   "b",
+   "Yêu cầu nhà thầu đệ trình tiến độ khắc phục bù tiến độ bị chậm trễ/Kế hoạch cam kết để bắt kịp tiến độ được duyệt, với những nội dung sau:"
+  ],
+  [
+   "b",
+   "Trình bày tất cả những nguyên nhân chậm trễ tiến độ và đề ra kế hoạch bắt kịp tiến độ."
+  ],
+  [
+   "b",
+   "Với mỗi công tác / hạng mục đẩy nhanh tiến độ cần thể hiện và trình bày rõ biện pháp thực hiện."
+  ],
+  [
+   "b",
+   "Theo dõi, đốc thúc quá trình thực hiện tiến độ khôi phục của nhà thầu."
+  ],
+  [
+   "b",
+   "Ghi chú: Tiến độ khôi phục là để kiểm soát các công việc thi công trên công trường để bắt kịp tiến độ thực tế, nhưng không hề có nghĩa là để xác định trách nhiệm đối với những chậm trễ. Tiến độ khôi phục được duyệt sẽ không mang bất kỳ ý nghĩa nào để làm miễn giảm trách nhiệm của bất kỳ bên nào đối với những chậm trễ so với tiến độ tổng thể được phê duyệt."
+  ]
+ ],
+ "khoi_luong": [
+  [
+   "h",
+   "1. Nguyên tắc xác nhận khối lượng hoàn thành:"
+  ],
+  [
+   "b",
+   "Phải có đầy đủ hồ sơ pháp lý và hồ sơ kỹ thuật theo quy định hiện hành."
+  ],
+  [
+   "b",
+   "Khối lượng thực tế đã hoàn thành và là khối lượng thành phẩm."
+  ],
+  [
+   "b",
+   "Việc kiểm tra, xác nhận khối lượng trước hết căn cứ hợp đồng thi công xây dựng và các phụ lục hợp đồng đã ký kết, có hiệu lực giữa CĐT và Nhà thầu; bao gồm phạm vi, bảng khối lượng, nguyên tắc đo bóc, nghiệm thu, xác nhận và thanh toán cùng các thỏa thuận điều chỉnh hợp lệ."
+  ],
+  [
+   "b",
+   "Khối lượng thi công phải phù hợp phạm vi hợp đồng, hồ sơ thiết kế được phê duyệt, shopdrawing được chấp thuận theo thẩm quyền, chỉ dẫn kỹ thuật, quy chuẩn và tiêu chuẩn áp dụng; được đối chiếu với thực tế thi công và hồ sơ nghiệm thu. Shopdrawing không mặc nhiên làm thay đổi thiết kế, phạm vi hay giá trị hợp đồng."
+  ],
+  [
+   "b",
+   "Trước khi thực hiện công việc phát sinh, Nhà thầu phải có chỉ thị/chấp thuận đúng thẩm quyền và hồ sơ kỹ thuật đủ điều kiện thi công. TVGS kiểm tra, xác nhận khối lượng theo nguyên tắc nêu trên; hồ sơ đơn giá, giá trị và thanh toán được xử lý theo hợp đồng."
+  ],
+  [
+   "b",
+   "Đối với khối lượng phát sinh ngoài phạm vi hợp đồng, chỉ thị công trường không tự xác lập đơn giá, giá trị thanh toán hoặc thay thế phụ lục hợp đồng. Việc triển khai và thanh toán thực hiện theo hợp đồng, phụ lục hợp đồng có hiệu lực và đúng thẩm quyền. Nhà thầu lập hồ sơ phát sinh; TVGS kiểm tra, ghi nhận khối lượng thực tế theo hồ sơ kỹ thuật hợp lệ, tài liệu đo đạc và hồ sơ nghiệm thu. Việc kiểm tra, ghi nhận không đồng nghĩa xác nhận đủ điều kiện thanh toán. CĐT hoặc người được ủy quyền hợp lệ xem xét, quyết định giá trị và ký phụ lục hợp đồng theo thẩm quyền; BQLDA kiểm tra, tổng hợp và tham mưu."
+  ],
+  [
+   "b",
+   "Khối lượng phát sinh được TVGS kiểm tra, xác nhận trên cơ sở chỉ thị hoặc văn bản chấp thuận của CĐT/BQLDA đúng thẩm quyền, hồ sơ kỹ thuật hợp lệ, kết quả nghiệm thu và số liệu thực tế. Trường hợp thay đổi thiết kế, phải hoàn thành thủ tục điều chỉnh thiết kế theo quy định trước khi thi công. Việc xác nhận khối lượng thực tế không đồng nghĩa với chấp thuận đơn giá, giá trị phát sinh hoặc điều kiện thanh toán; các nội dung này thực hiện theo hợp đồng và quyết định của cấp có thẩm quyền."
+  ],
+  [
+   "b",
+   "Khối lượng thi công hoàn thành được nghiệm thu và xác nhận theo kỳ làm cơ sở xem xét thanh toán theo hợp đồng, không phải quyết toán cuối cùng."
+  ],
+  [
+   "b",
+   "Giám sát viên phụ trách trực tiếp phải cập nhật khối lượng thực hiện trên công trường để làm cơ sở xác nhận khối lượng đợt, thi công nghiệm thu hoàn thành."
+  ],
+  [
+   "h",
+   "2. Tiến độ xác nhận khối lượng:"
+  ],
+  [
+   "b",
+   "Tiến độ xác nhận khối lượng phụ thuộc nhiều vào việc lập hồ sơ khối lượng của nhà thầu (độ chính xác của số liệu, sự phù hợp thực tế, không trùng lặp khối lượng…)."
+  ],
+  [
+   "b",
+   "Tư vấn giám sát sẽ thực hiện công tác kiểm tra khối lượng thông qua các phiếu giao nhận hồ sơ với nhà thầu. Nếu hồ sơ có những sai sót, Tư vấn giám sát sẽ giao trả lại cho nhà thầu và ghi rõ các nội dung yêu cầu chỉnh sửa vào phiếu theo dõi tiến trình giải quyết hồ sơ trong vòng từ 04 ngày theo mẫu CĐT ban hành."
+  ],
+  [
+   "b",
+   "Tiến độ xác nhận khối lượng được tính từ khi TVGS chính thức ký nhận hồ sơ để kiểm tra. Đối với công việc phát sinh, TVGS kiểm tra, ghi nhận khối lượng thực tế để đối chiếu và hoàn thiện hồ sơ. Việc xác nhận khối lượng phục vụ thanh toán chỉ thực hiện khi có đủ căn cứ theo hợp đồng, phụ lục hợp đồng có hiệu lực và hồ sơ nghiệm thu. CĐT hoặc người được ủy quyền hợp lệ quyết định đơn giá, giá trị phát sinh và ký phụ lục hợp đồng theo thẩm quyền; BQLDA kiểm tra, tham mưu và trình CĐT."
+  ],
+  [
+   "h",
+   "3. Quy trình kiểm tra và phê duyệt hồ sơ khối lượng:"
+  ],
+  [
+   "h",
+   "3.1 Mục đích"
+  ],
+  [
+   "p",
+   "Thiết lập cách thức thống nhất để tiếp nhận, kiểm tra, đối chiếu và xác nhận khối lượng hoàn thành; bảo đảm số liệu có căn cứ, phản ánh đúng hiện trường, thiết kế và hợp đồng, không tính trùng hoặc xác nhận phần chưa đủ điều kiện. Hồ sơ được kiểm tra có thể làm căn cứ cho nghiệm thu, thanh toán theo kỳ và quyết toán khi đáp ứng điều kiện hợp đồng. Việc TVGS kiểm tra hoặc xác nhận khối lượng không thay thế quyền phê duyệt thanh toán của Chủ đầu tư và không mở rộng thẩm quyền đã giao."
+  ],
+  [
+   "h",
+   "3.2 Phạm vi – đối tượng"
+  ],
+  [
+   "p",
+   "Áp dụng đối với hồ sơ khối lượng do nhà thầu lập cho các công việc xây dựng và lắp đặt thiết bị thuộc phạm vi hợp đồng, theo kỳ, giai đoạn, hạng mục hoặc hoàn thành; gồm khối lượng theo hợp đồng và khối lượng phát sinh được kiểm tra, ghi nhận theo căn cứ thực hiện hợp lệ; việc xác nhận khối lượng phát sinh phục vụ thanh toán phải đáp ứng điều kiện tại Mục G.1. Đối tượng kiểm tra gồm số liệu đo bóc/tính toán, xác nhận hiện trường, bản vẽ hoàn công, biên bản nghiệm thu, nhật ký, phiếu giao nhận, kết quả thí nghiệm/kiểm tra và hồ sơ thay đổi có liên quan."
+  ],
+  [
+   "p",
+   "Các bên tham gia gồm Nhà thầu lập và chịu trách nhiệm về tính trung thực, đầy đủ của hồ sơ; TVGS kiểm tra căn cứ, hiện trạng và xác nhận/kiến nghị trong phạm vi được giao; Chủ đầu tư/Ban Quản lý dự án xem xét, quyết định hoặc phê duyệt theo hợp đồng và thẩm quyền. Tư vấn thiết kế, nhà thầu phụ hoặc đơn vị đo đạc/thí nghiệm phối hợp khi nội dung cần làm rõ."
+  ],
+  [
+   "h",
+   "3.3 Giải thích và thuật ngữ"
+  ],
+  [
+   "h",
+   "1. CĐT: Là tất cả các phòng ban của {CDT} được lãnh đạo chỉ đạo thực hiện các công việc liên quan đến {DU_AN}"
+  ],
+  [
+   "h",
+   "2. TEXO: Đoàn Tư vấn Giám sát TEXO."
+  ],
+  [
+   "h",
+   "3. NT: Là đơn vị được Chủ đầu tư lựa chọn để thực hiện công việc theo hợp đồng (nhà thầu)."
+  ],
+  [
+   "h",
+   "4. Ngày: Ngày làm việc theo hợp đồng."
+  ],
+  [
+   "h",
+   "3.4 Nội dung a. Trách nhiệm thực hiện công tác kiểm tra hồ sơ khối lượng:"
+  ],
+  [
+   "t",
+   [
+    [
+     "Nội dung công việc",
+     "Nhà thầu/Tư vấn giám sát TEXO",
+     "CĐT/Ban Quản lý"
+    ],
+    [
+     "Lập hồ sơ khối lượng",
+     "Nhà thầu: Lập, tự kiểm tra và cung cấp hồ sơ chứng minh. TVGS TEXO: Kiểm tra tính phù hợp với thiết kế, nghiệm thu và hiện trạng.",
+     "Xem xét/phê duyệt theo hợp đồng và thẩm quyền."
+    ],
+    [
+     "Làm rõ sai khác",
+     "Nhà thầu: Giải trình, bổ sung đo đạc/hồ sơ. TVGS TEXO: Đối chiếu, yêu cầu làm rõ, xác nhận phần đủ điều kiện.",
+     "Quyết định nội dung vượt thẩm quyền TVGS."
+    ],
+    [
+     "Khối lượng phát sinh",
+     "Nhà thầu: Lập hồ sơ phát sinh, xác định khối lượng, đề xuất đơn giá/giá trị và hoàn thiện hồ sơ, thủ tục phụ lục hợp đồng trình Chủ đầu tư xem xét, ký kết theo quy định; cung cấp hồ sơ kỹ thuật, nghiệm thu và tài liệu chứng minh khối lượng thực tế. TVGS TEXO: Kiểm tra, xác nhận khối lượng thực tế trên cơ sở hồ sơ kỹ thuật và nghiệm thu; chỉ xác nhận khối lượng phát sinh phục vụ thanh toán khi có đủ căn cứ theo hợp đồng, phụ lục hợp đồng có hiệu lực và hồ sơ nghiệm thu, trình Ban QLDA",
+     "Kiểm tra, tổng hợp, tham mưu, trình Chủ đầu tư; Chủ đầu tư hoặc người được ủy quyền hợp lệ xem xét, phê duyệt giá trị phát sinh và ký phụ lục hợp đồng theo thẩm quyền."
+    ]
+   ]
+  ],
+  [
+   "b",
+   "(Có quyết định bổ nhiệm, ủy quyền hợp lệ - đại diện Pháp luật)"
+  ],
+  [
+   "p",
+   "b. Lưu đồ phê duyệt hồ sơ khối lượng."
+  ],
+  [
+   "p",
+   "c. Mô tả các bước thực hiện trong lưu đồ."
+  ],
+  [
+   "t",
+   [
+    [
+     "Bước",
+     "Công việc",
+     "Trách nhiệm",
+     "Kết quả"
+    ],
+    [
+     "1",
+     "Nhà thầu lập hồ sơ xác nhận khối lượng theo kỳ, kèm biên bản nghiệm thu và bản vẽ liên quan.",
+     "Nhà thầu",
+     "Hồ sơ khối lượng"
+    ],
+    [
+     "2",
+     "TVGS đối chiếu khối lượng với hợp đồng, phụ lục hợp đồng có hiệu lực, hồ sơ thiết kế, shopdrawing được chấp thuận, hồ sơ nghiệm thu và khối lượng thực tế. Đối với phát sinh, phân biệt ghi nhận khối lượng thi công với xác nhận khối lượng đủ điều kiện thanh toán theo Mục G.1.",
+     "Tư vấn giám sát TEXO",
+     "Bảng kiểm tra/ý kiến"
+    ],
+    [
+     "3",
+     "Các bên làm rõ phần sai khác; nhà thầu sửa và hoàn thiện hồ sơ.",
+     "Nhà thầu + Tư vấn giám sát TEXO",
+     "Hồ sơ hoàn chỉnh"
+    ],
+    [
+     "4",
+     "TVGS ký xác nhận phần đủ điều kiện và trình CĐT/Ban Quản lý dự án theo quy trình hợp đồng.",
+     "Tư vấn giám sát TEXO",
+     "Hồ sơ trình xác nhận/thanh toán"
+    ],
+    [
+     "5",
+     "CĐT/Ban Quản lý dự án xem xét và xử lý theo thẩm quyền.",
+     "CĐT/Ban Quản lý dự án",
+     "Kết quả phê duyệt/xác nhận"
+    ]
+   ]
+  ]
+ ],
+ "atld_rui_ro": [
+  [
+   "b",
+   "Giám sát công trường thực hiện một cách thường xuyên và liên tục vấn đề kiểm tra an toàn liên quan đến các hoạt động thi công ở công trường và các khu vực xung quanh công trường và lập báo cáo đề xuất đến Chủ đầu tư và Quản lý dự án. Chủ đầu tư/ QLDA là người cuối cùng đưa ra Quyết định đúng và phù hợp từng thời điểm tại công trường, theo hợp đồng và quy định hiện hành."
+  ],
+  [
+   "b",
+   "Giám sát công trường thực hiện một cách thường xuyên và liên tục vấn đề kiểm tra môi trường liên quan đến các hoạt động thi công ở công trường và các khu vực xung quanh công trường và lập báo cáo đề xuất đến Chủ đầu tư và Ban QLDA. Chủ đầu tư/ BQLDA là người cuối cùng đưa ra Quyết định đúng và phù hợp từng thời điểm tại công trường, theo hợp đồng và quy định hiện hành"
+  ],
+  [
+   "b",
+   "TVGS phải yêu cầu Nhà thầu thi công trình “Kế hoạch bảo đảm An toàn vệ sinh lao động, vệ sinh môi trường và PCCC và CNCH” cho toàn bộ dự án. Bảng kế hoạch này phải phù hợp với các quy định hiện hành và là cơ sở để TVGS giám sát tình hình thực hiện công tác an toàn, vệ sinh lao động, VSMT và PCCC và CNCH của nhà thầu thi công. TVGS có thể cung cấp biểu mẫu để nhà thầu lập kế hoạch."
+  ],
+  [
+   "b",
+   "Trách nhiệm chính trong việc bảo đảm an toàn, vệ sinh lao động, vệ sinh môi trường và PCCC và CNCH trên công trường xây dựng là của Nhà thầu thi công xây dựng. TVGS chịu trách nhiệm kiểm tra giám sát, theo dõi, đôn đốc nhắc nhở và lập biên bản vi phạm cũng như tạm dừng yêu cầu khắc phục nếu nhà thầu thi công không thực hiện đầy đủ bảo đảm các quy định về quản lý an toàn, vệ sinh lao động, vệ sinh môi trường và PCCC và CNCH theo Quy định hiện hành."
+  ],
+  [
+   "h",
+   "1. Quản lý rủi ro và kiểm soát môi trường"
+  ],
+  [
+   "p",
+   "TVGS phối hợp Nhà thầu lập và duy trì sổ đăng ký rủi ro theo giai đoạn, khu vực và công việc. Sổ theo dõi mã rủi ro, mối nguy/nguyên nhân, hậu quả, mức độ theo ma trận của dự án, biện pháp phòng ngừa/ứng cứu, đầu mối chịu trách nhiệm, thời hạn, dấu hiệu cảnh báo và trạng thái xử lý. Rà soát trước công việc nguy hiểm; cập nhật khi thay đổi thiết kế, biện pháp, trình tự hoặc điều kiện hiện trường và sau sự cố."
+  ],
+  [
+   "p",
+   "Giám sát môi trường theo hồ sơ môi trường được duyệt, điều kiện pháp lý và quy chuẩn áp dụng cho đúng nguồn thải, vị trí và đối tượng. Kiểm soát bụi tại nơi làm việc theo QCVN 02:2019/BYT khi thuộc phạm vi điều chỉnh; quy chuẩn này không thay thế yêu cầu kiểm soát chất lượng môi trường xung quanh. Các giới hạn bụi, tiếng ồn/rung, nước thải và chất thải thực hiện theo hồ sơ môi trường và yêu cầu được CĐT/BQLDA phát hành."
+  ],
+  [
+   "h",
+   "2. Trình tự nhận diện và kiểm soát rủi ro"
+  ],
+  [
+   "p",
+   "Nhận diện đánh giá nguy cơ rủi ro xảy ra theo khu vực, giai đoạn thi công, có biện pháp phòng ngừa kịp thời, không để nguy cơ rủi ro xảy ra."
+  ],
+  [
+   "p",
+   "Sổ rủi ro được cập nhật theo khu vực, giai đoạn và công việc. Khi biện pháp chưa hiệu lực, Nhà thầu điều chỉnh; TVGS kiểm tra lại và theo dõi đến khi rủi ro được kiểm soát."
+  ]
+ ],
+ "thay_doi_thiet_ke": [
+  [
+   "h",
+   "1. Thay đổi thiết kế do Chủ đầu tư:"
+  ],
+  [
+   "t",
+   [
+    [
+     "TT",
+     "Hạng mục/vị trí",
+     "Nội dung thay đổi",
+     "Căn cứ/Lý do",
+     "Văn bản chấp thuận",
+     "Tình trạng"
+    ],
+    [
+     "1",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   "b",
+   "Thay đổi thiết kế là những thay đổi so với Hồ sơ thiết kế đã được Chủ đầu tư phê duyệt (riêng các ý kiến của các bên liên quan về hồ sơ thiết kế trong giai đoạn triển khai công tác thiết kế không được gọi là các thay đổi thiết kế). Những thay đổi thiết kế do Chủ đầu tư là những thay đổi theo yêu cầu của Chủ đầu tư, xuất phát từ nhu cầu sử dụng hoặc nhu cầu phải thay đổi để nâng cao hiệu quả sử dụng của sản phẩm hay hiệu quả kinh doanh của dự án. Ví dụ:"
+  ],
+  [
+   "b",
+   "Thay đổi thiết kế bản vẽ thi công so với kỹ thuật, thiết kế cơ sở hoặc nhiệm vụ thiết kế đã được phê duyệt, theo yêu cầu của Chủ đầu tư;"
+  ],
+  [
+   "b",
+   "Chủ đầu tư yêu cầu thi công khác với Thiết kế bản vẽ thi công đã được phê duyệt,"
+  ],
+  [
+   "b",
+   "Với các hợp đồng Tổng thầu: Thiết kế và thi công, các thay đổi thiết kế có vai trò và trách nhiệm của tổng thầu."
+  ],
+  [
+   "b",
+   "Tất cả các thay đổi phải được Chủ đầu tư yêu cầu bằng văn bản, Quản lý dự án xem xét và làm việc với Tư vấn thiết kế xem xét ảnh hưởng của sự thay đổi đến kết cấu và khả năng an toàn, chịu lực của công trình. Tư vấn thiết kế có trách nhiệm thiết kế bản vẽ thay đổi và QLDA thực hiện các thủ tục theo quy định để đơn vị thi công triển khai thực hiện."
+  ],
+  [
+   "b",
+   "TVGS xem xét, đóng góp ý kiến, cảnh báo đến chủ đầu tư về các ảnh hưởng đến chất lượng, tiến độ, chi phí và các yếu tố khác do thay đổi thiết kế gây ra (nếu có)."
+  ],
+  [
+   "b",
+   "TVGS có trách nhiệm tập hợp, lập danh mục các thay đổi và các văn bản pháp lý liên quan cho từng hạng mục và cho toàn bộ công trình. Các thay đổi sẽ được báo cáo kịp thời trong các báo cáo tháng của QLDA. Danh mục thay đổi thiết kế theo yêu cầu của Chủ đầu tư"
+  ],
+  [
+   "h",
+   "2. Thay đổi thiết kế do nhà thầu thi công:"
+  ],
+  [
+   "t",
+   [
+    [
+     "TT",
+     "Hạng mục/vị trí",
+     "Nội dung thay đổi",
+     "Căn cứ/Lý do",
+     "Văn bản chấp thuận",
+     "Tình trạng"
+    ],
+    [
+     "1",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  ],
+  [
+   "b",
+   "Những thay đổi thiết kế so với Hồ sơ thiết kế được duyệt có nguyên nhân từ Nhà thầu thi công có thể là:"
+  ],
+  [
+   "b",
+   "Nhà thầu yêu cầu thay đổi thiết kế trước hoặc trong quá trình thi công để phù hợp với tình hình thực tế trên công trường, được Tư vấn thiết kế và Chủ đầu tư chấp thuận."
+  ],
+  [
+   "b",
+   "Nhà thầu sai sót trong quá trình thi công bắt buộc phải điều chỉnh thiết kế cho phù hợp, Ví dụ: như sai lệch vị trí cọc buộc phải mở rộng đài móng, v.v…"
+  ],
+  [
+   "b",
+   "Các lỗi thi công của Nhà thầu làm sai lệch giữa thực tế so với thiết kế nhưng không bắt buộc phải có biện pháp điều chỉnh thiết kế, được tư vấn thiết kế và chủ đầu tư chấp thuận."
+  ],
+  [
+   "b",
+   "Tất cả các thay đổi phải được lập biên bản hiện trường, Nhà thầu thi công lập phương án điều chỉnh thiết kế trình TVGS xem xét kiểm tra, đề xuất tới Tư vấn thiết kế tính toán và kiểm tra. Sau đó trình Chủ đầu tư/ Ban Quản lý dự án xem xét phê duyệt."
+  ],
+  [
+   "b",
+   "TVGS có trách nhiệm tập hợp, lập danh mục các thay đổi và các văn bản pháp lý liên quan cho từng hạng mục và cho toàn bộ công trình. Các thay đổi sẽ được báo cáo kịp thời trong các báo cáo tháng đến BQLDA. Danh mục thay đổi thiết kế có nguyên nhân từ Nhà thầu thi công."
+  ],
+  [
+   "h",
+   "3. Quản lý xung đột bộ môn, RFI và khối lượng"
+  ],
+  [
+   "p",
+   "Xung đột giữa kết cấu, kiến trúc, nội thất, MEP, PCCC, hạ tầng hoặc cảnh quan được ghi nhận theo vị trí và phiên bản bản vẽ; phát hành RFI và chuyển TVTK/bộ môn liên quan. Thay đổi phải nêu căn cứ, nguyên nhân, phạm vi, giải pháp và ảnh hưởng đến an toàn, chất lượng, công năng, tiến độ, khối lượng/chi phí. TVGS rà soát và kiến nghị; TVTK đánh giá/phát hành hồ sơ thiết kế điều chỉnh; CĐT/BQLDA quyết định theo phân quyền. Nhà thầu không thi công phần thay đổi trước khi có chấp thuận đúng thẩm quyền."
+  ],
+  [
+   "h",
+   "Luồng xử lý xung đột/thay đổi"
+  ],
+  [
+   "p",
+   "Phần thay đổi chỉ được triển khai sau khi TVTK đánh giá, TVGS rà soát và CĐT/BQLDA chấp thuận theo thẩm quyền; hồ sơ được phát hành và cập nhật trước khi thi công."
+  ],
+  [
+   "p",
+   "Khối lượng xác nhận theo kỳ đối chiếu hợp đồng, hồ sơ thiết kế/shopdrawing được chấp thuận, nghiệm thu, bản vẽ hoàn công và số liệu đo kiểm thực tế. Khối lượng phát sinh cần có chỉ thị/chấp thuận bằng văn bản đúng thẩm quyền; TVGS xác nhận phần thực tế, đủ căn cứ và nêu rõ căn cứ kèm theo. Xác nhận theo kỳ là cơ sở xem xét thanh toán theo hợp đồng, không phải quyết toán cuối cùng."
+  ],
+  [
+   "p",
+   "Việc kiểm tra, xác nhận khối lượng phát sinh thực hiện theo nguyên tắc và quy trình xác nhận khối lượng nêu trên. TVGS ghi rõ căn cứ chỉ thị/chấp thuận, hồ sơ kỹ thuật, nghiệm thu và số liệu thực tế kèm theo hồ sơ xác nhận."
+  ]
+ ],
+ "bao_cao": [
+  [
+   "h",
+   "1. Báo cáo của Đơn vị thi công:"
+  ],
+  [
+   "t",
+   [
+    [
+     "TT",
+     "Tên báo cáo",
+     "Nội dung",
+     "Thời điểm",
+     "Ghi chú"
+    ],
+    [
+     "1",
+     "Báo cáo ngày gửi TVGS, CĐT",
+     "Đầy đủ tình hình thi công trong ngày",
+     "Trước 09h mỗi ngày",
+     "Biểu mẫu"
+    ],
+    [
+     "2",
+     "Báo cáo tuần gửi TVGS, CĐT",
+     "Đầy đủ tình hình thi công trong tuần, đánh giá kết quả thực hiện kế hoạch tuần trước và kế hoạch thi công tuần tiếp theo.",
+     "Trước 17h ngày thứ năm hằng tuần",
+     "Biểu mẫu"
+    ],
+    [
+     "3",
+     "Báo cáo tháng gửi TVGS, CĐT",
+     "Đầy đủ tình hình thi công trong tháng, kế hoạch triển khai tháng tiếp theo,khối lượng hoàn thành và hồ sơ nghiệm thu",
+     "Chậm nhất ngày 05 tháng tiếp theo",
+     "Biểu mẫu"
+    ],
+    [
+     "4",
+     "Báo cáo hoàn thành hạng mục công trình gửi TVGS, CĐT",
+     "Đầy đủ nội dung theo quy định",
+     "Chậm nhất 07 ngày sau ngày nghiệm thu hạng mục",
+     "Biểu mẫu"
+    ],
+    [
+     "5",
+     "Báo cáo hoàn thành toàn bộ công trình gửi TVGS, CĐT",
+     "Đầy đủ nội dung theo quy định",
+     "Chậm nhất 15 ngày sau ngày nghiệm thu bàn giao toàn bộ công trình",
+     "Nhà thầu tự thiết kế biểu mẫu theo quy định"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "2. Báo cáo của TVGS"
+  ],
+  [
+   "t",
+   [
+    [
+     "TT",
+     "Tên báo cáo",
+     "Nội dung",
+     "Thời điểm",
+     "Ghi chú"
+    ],
+    [
+     "1",
+     "Báo cáo tuần TVGS gửi CĐT",
+     "Theo các nội dung giám sát, đính kèm BC tuần của nhà thầu",
+     "Trước 17h thứ năm hằng tuần",
+     "Biểu mẫu"
+    ],
+    [
+     "2",
+     "Báo cáo tháng TVGS gửi CĐT",
+     "Tình hình giám sát trong tháng, kế hoạch tháng tiếp theo",
+     "Từ ngày 01 đến ngày 03 tháng tiếp theo",
+     "Biểu mẫu"
+    ],
+    [
+     "3",
+     "Báo cáo hoàn thành hạng mục công trình của TVGS gửi CĐT",
+     "Đầy đủ nội dung theo quy định",
+     "Chậm nhất 05 ngày sau ngày nhận được báo cáo của Nhà thầu thi công",
+     "Theo biểu mẫu được Chủ đầu tư chấp thuận"
+    ],
+    [
+     "4",
+     "Báo cáo hoàn thành toàn bộ công trình của TVGS",
+     "Đầy đủ nội dung theo quy định",
+     "Chậm nhất 10 ngày sau ngày nhận được báo cáo của Nhà thầu",
+     "Theo biểu mẫu được Chủ đầu tư chấp thuận"
+    ]
+   ]
+  ]
+ ],
+ "giao_tiep": [
+  [
+   "p",
+   "Việc trao đổi thông tin giữa các bên được thực hiện bằng văn bản thông qua hình thức giao nhận trực tiếp, bưu điện, fax hoặc phương thức khác được các bên thống nhất. Trình tự trao đổi và xử lý thông tin thực hiện theo các quy định sau:"
+  ],
+  [
+   "h",
+   "1. Thông tin từ nhà thầu:"
+  ],
+  [
+   "b",
+   "Tất cả những vướng mắc, yêu cầu cung cấp thông tin của nhà thầu sẽ được gửi song song tới TVGS và Ban Quản lý dự án."
+  ],
+  [
+   "b",
+   "TVGS có trách nhiệm xử lý vấn đề theo sơ đồ ở các cấp, mức độ khác nhau."
+  ],
+  [
+   "b",
+   "Các vấn đề về kỹ thuật, không ảnh hưởng đến giá cả, Tư vấn giám sát sẽ báo cáo Ban Quản lý dự án phối hợp các bộ phận chuyên môn của đại diện Chủ đầu tư để xử lý gửi báo cáo đến CĐT nắm sự việc theo dõi quá trình."
+  ],
+  [
+   "b",
+   "Đối với các vấn đề có ảnh hưởng đến chi phí hoặc giá trị hợp đồng, Nhà thầu lập hồ sơ đề xuất và gửi BQLDA để kiểm tra, tổng hợp, trình CĐT xem xét, quyết định theo thẩm quyền. TVGS phối hợp kiểm tra, xác nhận các nội dung kỹ thuật và khối lượng thuộc phạm vi giám sát; việc triển khai thực hiện phải căn cứ hồ sơ được chấp thuận hợp lệ và các điều kiện hợp đồng có liên quan."
+  ],
+  [
+   "h",
+   "2. Thông tin từ TVGS:"
+  ],
+  [
+   "b",
+   "Chỉ thị công trường: Tư vấn giám sát sẽ gửi trực tiếp tới nhà thầu theo quy định hiện hành và sẽ gửi 01 bản sao cho Chủ đầu tư."
+  ],
+  [
+   "b",
+   "Phiếu yêu cầu cung cấp thông tin: Tư vấn giám sát sẽ gửi trực tiếp tới Ban Quản lý dự án và sẽ gửi 01 bản sao cho Chủ đầu tư."
+  ],
+  [
+   "h",
+   "3. Thông tin từ thiết kế:"
+  ],
+  [
+   "b",
+   "Những phản hồi từ bên thiết kế sẽ được gửi cho Ban Quản lý dự án và chuyển đến TVGS và cho nhà thầu, gửi 01 bản sao cho Chủ đầu tư."
+  ],
+  [
+   "h",
+   "4. Thông tin từ Đại diện Chủ đầu tư:"
+  ],
+  [
+   "b",
+   "Thông tin sẽ được gửi tới TVGS để TVGS phân phối tới những đơn vị liên quan."
+  ],
+  [
+   "b",
+   "Những vấn đề cần gấp có thể được xử lý thực hiện trong trường hợp Đại diện Chủ đầu tư thông tin bằng miệng, thư điện tử hoặc điện thoại, nhưng sau đó cần được bổ sung và xác nhận bằng văn bản."
+  ]
+ ],
+ "nghiem_thu_2026": [
+  [
+   "p",
+   "Nguyên tắc chung: Nhà thầu thi công tự kiểm tra và chịu trách nhiệm về chất lượng trước khi đề nghị nghiệm thu. TVGS kiểm tra theo hồ sơ thiết kế được duyệt, chỉ dẫn kỹ thuật, quy chuẩn/tiêu chuẩn áp dụng, hợp đồng, ITP và quy định hiện hành; ghi nhận kết quả, yêu cầu khắc phục và chỉ xác nhận trong phạm vi nhiệm vụ, ủy quyền."
+  ],
+  [
+   "p",
+   "Trình tự chung:"
+  ],
+  [
+   "p",
+   "(1) Nhà thầu gửi yêu cầu và hồ sơ;"
+  ],
+  [
+   "p",
+   "(2) TVGS rà soát căn cứ, điều kiện nghiệm thu và kế hoạch thí nghiệm;"
+  ],
+  [
+   "p",
+   "(3) kiểm tra tại hiện trường, đo đạc/lấy mẫu hoặc chứng kiến thử nghiệm theo ITP;"
+  ],
+  [
+   "p",
+   "(4) lập biên bản/kết luận đạt, không đạt hoặc yêu cầu bổ sung;"
+  ],
+  [
+   "p",
+   "(5) chỉ chuyển bước hoặc che khuất sau khi đối tượng liên quan được nghiệm thu đạt."
+  ],
+  [
+   "h",
+   "1. Công tác nghiệm thu vật liệu trên công trường:"
+  ],
+  [
+   "p",
+   "Tham chiếu: Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ."
+  ],
+  [
+   "h",
+   "1.1. Trách nhiệm của nhà thầu cung ứng sản phẩm xây dựng, vật liệu xây dựng đã là hàng hóa trên thị trường:"
+  ],
+  [
+   "p",
+   "Nhà thầu cung ứng có trách nhiệm theo khoản 1 Điều 14 Nghị định số 207/2026/NĐ-CP: a) Tổ chức thí nghiệm kiểm tra chất lượng; cung cấp cho bên giao thầu (bên mua) các chứng chỉ, chứng nhận, thông tin và tài liệu liên quan theo hợp đồng xây dựng và quy định pháp luật. b) Kiểm tra chất lượng, số lượng, chủng loại sản phẩm, vật liệu theo yêu cầu hợp đồng trước khi bàn giao cho bên giao thầu. c) Thông báo cho bên giao thầu các yêu cầu về vận chuyển, lưu giữ và bảo quản sản phẩm, vật liệu. d) Sửa chữa hoặc thay thế sản phẩm không đạt yêu cầu chất lượng theo cam kết bảo hành và hợp đồng."
+  ],
+  [
+   "p",
+   "Nhà thầu cung ứng chịu trách nhiệm về chất lượng sản phẩm, vật liệu so với yêu cầu của bên giao thầu và về tính chính xác, trung thực của tài liệu đã cung cấp theo khoản 3 Điều 14 Nghị định số 207/2026/NĐ-CP."
+  ],
+  [
+   "h",
+   "1.2. Hồ sơ và phê duyệt trước khi đưa vật liệu vào sử dụng:"
+  ],
+  [
+   "p",
+   "Nhà thầu trình danh mục vật liệu/thiết bị, nhà sản xuất và nguồn cung, mẫu được duyệt, tài liệu kỹ thuật, chứng nhận/chứng chỉ chất lượng và xuất xứ theo yêu cầu hợp đồng, hồ sơ thiết kế và quy định áp dụng; kèm kế hoạch kiểm tra, lấy mẫu/thí nghiệm và tiêu chí chấp nhận. Vật liệu thuộc diện bắt buộc chứng nhận/công bố hợp quy phải có hồ sơ tương ứng."
+  ],
+  [
+   "h",
+   "1.3. Kiểm tra khi vật liệu, thiết bị nhập công trường:"
+  ],
+  [
+   "p",
+   "Đối chiếu chủng loại, mã hiệu, quy cách, lô/số sê-ri, nhãn hàng, số lượng và tình trạng thực tế với hồ sơ đã duyệt; kiểm tra hư hỏng, hạn sử dụng (nếu có), điều kiện vận chuyển, bảo quản và khả năng truy xuất nguồn gốc. Việc kiểm tra bao gồm vật tư, thiết bị MEP và thiết bị lắp đặt vào công trình."
+  ],
+  [
+   "h",
+   "1.4. Lấy mẫu, thí nghiệm và xử lý vật liệu không phù hợp:"
+  ],
+  [
+   "p",
+   "Thực hiện lấy mẫu, thí nghiệm/kiểm định theo tần suất, phương pháp và tiêu chí trong thiết kế, chỉ dẫn kỹ thuật, tiêu chuẩn áp dụng và ITP được duyệt; mẫu phải được nhận diện, niêm phong và truy xuất theo lô. Vật liệu thiếu hồ sơ hoặc đang chờ kết quả phải nhận diện, cách ly và chưa được phép sử dụng. Lô không đạt phải lập biên bản, tách riêng, xử lý/hoàn trả theo chấp thuận; kiểm tra lại trước khi đưa vào sử dụng."
+  ],
+  [
+   "h",
+   "1.5. Hồ sơ nghiệm thu vật liệu tối thiểu:"
+  ],
+  [
+   "p",
+   "Phiếu yêu cầu/biên bản kiểm tra đầu vào; hồ sơ phê duyệt nguồn và mẫu; chứng từ giao nhận; chứng nhận/chứng chỉ và tài liệu xuất xứ/chất lượng theo yêu cầu; kết quả thí nghiệm/kiểm định; mã nhận diện lô; hồ sơ xử lý sai lệch và xác nhận chấp thuận sử dụng."
+  ],
+  [
+   "h",
+   "2. Công tác nghiệm thu công việc xây dựng"
+  ],
+  [
+   "h",
+   "2.1. Điều kiện đề nghị nghiệm thu:"
+  ],
+  [
+   "p",
+   "Nhà thầu hoàn thành công việc theo bản vẽ thi công/shopdrawing được duyệt, đã tự kiểm tra, vệ sinh và chuẩn bị điều kiện tiếp cận; cung cấp yêu cầu nghiệm thu, nhật ký, checklist, hồ sơ vật liệu, kết quả thí nghiệm/đo đạc/quan trắc và bản vẽ hoàn công phần việc (nếu áp dụng). Công việc bị che khuất phải được nghiệm thu trước khi che phủ."
+  ],
+  [
+   "h",
+   "2.2. Nội dung kiểm tra tại hiện trường:"
+  ],
+  [
+   "p",
+   "Đối chiếu vị trí, kích thước, cao độ, số lượng, cấu tạo, vật liệu, chất lượng bề mặt, dung sai và yêu cầu chức năng với hồ sơ được duyệt; kiểm tra kết quả thí nghiệm, kiểm tra và quan trắc liên quan. Thực hiện đo kiểm/chứng kiến thử nghiệm theo ITP; ghi nhận điều kiện, thiết bị đo và kết quả thực tế. Với công tác có điểm dừng hoặc yêu cầu giám sát liên tục, kiểm tra theo kế hoạch đã thống nhất."
+  ],
+  [
+   "h",
+   "2.3. Kết luận, biên bản và xử lý không phù hợp:"
+  ],
+  [
+   "p",
+   "Biên bản ghi tên công việc, thời gian/địa điểm, thành phần ký, căn cứ và hồ sơ kèm theo, kết quả kiểm tra, kết luận chấp nhận/không chấp nhận, điều kiện chuyển bước và yêu cầu sửa chữa (nếu có). Thành phần ký thực hiện theo Nghị định số 207/2026/NĐ- CP và loại hợp đồng áp dụng. Nếu không đạt, ghi nhận/phiếu ghi nhận sự không phù hợp (NCR), xác định phạm vi và biện pháp khắc phục; nghiệm thu lại sau khi sửa chữa và kiểm tra lại đạt."
+  ],
+  [
+   "p",
+   "Theo Điều 22 Nghị định số 207/2026/NĐ-CP, Tư vấn giám sát thực hiện nghiệm thu công việc trong thời hạn không quá 24 giờ kể từ khi nhận được đề nghị của Nhà thầu; nếu không chấp thuận thì thông báo lý do bằng văn bản. Nhà thầu không được chuyển bước hoặc che khuất công việc khi chưa được nghiệm thu đạt."
+  ],
+  [
+   "h",
+   "3. Công tác nghiệm thu giai đoạn"
+  ],
+  [
+   "p",
+   "Tham chiếu: Điều 23 Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ."
+  ],
+  [
+   "p",
+   "3.1 Căn cứ vào điều kiện cụ thể của từng công trình, chủ đầu tư và các nhà thầu có liên quan được tự thỏa thuận về việc tổ chức nghiệm thu giai đoạn thi công xây dựng hoặc bộ phận công trình xây dựng trong các trường hợp sau:"
+  ],
+  [
+   "p",
+   "Các bên thống nhất danh mục điểm dừng và giai đoạn/bộ phận cần nghiệm thu trong kế hoạch chất lượng, tiến độ và ITP; xác định trước phạm vi, điều kiện, thời điểm, thành phần tham gia, hồ sơ và tiêu chí chấp nhận. Có thể tổ chức tại mốc hoàn thành cọc/móng, kết cấu hầm, từng phân khu/tầng kết cấu, hệ thống MEP trước khi đóng trần/che khuất, hoàn thành thử nghiệm hệ thống hoặc kết thúc gói thầu khi phù hợp với thiết kế và thỏa thuận."
+  ],
+  [
+   "p",
+   "Trước nghiệm thu giai đoạn/bộ phận, rà soát biên bản nghiệm thu công việc, hồ sơ hoàn công, kết quả thí nghiệm/kiểm định/quan trắc/thử nghiệm/chạy thử và văn bản pháp lý liên quan trong phạm vi đó; kiểm tra hiện trường và đánh giá điều kiện chuyển bước theo tiêu chí đã thỏa thuận. Ghi rõ phạm vi, phần chưa hoàn thành, tồn tại, biện pháp khắc phục và điều kiện cho phép chuyển bước."
+  ],
+  [
+   "p",
+   "Kết quả được xác nhận bằng biên bản nghiệm thu giai đoạn/bộ phận có chữ ký của giám sát trưởng và các thành phần đã thỏa thuận. Nghiệm thu giai đoạn không thay thế nghiệm thu hoàn thành hạng mục/công trình."
+  ],
+  [
+   "h",
+   "4. Công tác nghiệm thu hoàn thành công trình đưa vào sử dụng:"
+  ],
+  [
+   "p",
+   "Tham chiếu: Điều 24 Nghị định số 207/2026/NĐ-CP; hồ sơ bàn giao tham chiếu Điều 30 Nghị định này."
+  ],
+  [
+   "p",
+   "Nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng: a) Các công việc xây dựng đã được thi công đầy đủ theo hồ sơ thiết kế được phê duyệt; b) Công tác nghiệm thu công việc xây dựng, bộ phận và giai đoạn đã thực hiện đầy đủ theo Điều 22 và Điều 23 Nghị định số 207/2026/NĐ-CP; c) Kết quả thí nghiệm, quan trắc, kiểm tra, kiểm định, thử nghiệm và chạy thử đáp ứng yêu cầu thiết kế; d) Tuân thủ quy định về phòng cháy, chữa cháy và cứu nạn, cứu hộ, môi trường và quy định chuyên ngành có liên quan."
+  ],
+  [
+   "h",
+   "4.1. Chuẩn bị nghiệm thu hoàn thành:"
+  ],
+  [
+   "p",
+   "Nhà thầu tổng hợp danh mục hoàn thành theo thiết kế và hợp đồng; hoàn tất nghiệm thu công việc/giai đoạn, khắc phục tồn tại, lập bản vẽ hoàn công và hồ sơ quản lý chất lượng. TVGS rà soát tính đầy đủ, tính thống nhất giữa hiện trường và hồ sơ; lập danh sách tồn tại, xác nhận hoàn thành sửa chữa và báo cáo Chủ đầu tư trước khi tổ chức nghiệm thu."
+  ],
+  [
+   "p",
+   "Kiểm tra thực tế công trình; đối chiếu thiết kế, chỉ dẫn kỹ thuật và hợp đồng; rà soát kết quả thí nghiệm, quan trắc, kiểm định, hiệu chỉnh, thử nghiệm và chạy thử. Tổng hợp hồ sơ các hạng mục xây dựng, chống thấm, hoàn thiện và MEP; kết quả chạy thử/liên động hệ thống theo thiết kế; hồ sơ PCCC/cứu nạn cứu hộ và môi trường theo quy định áp dụng. Thực hiện kiểm tra công tác nghiệm thu của cơ quan có thẩm quyền nếu công trình thuộc đối tượng phải kiểm tra."
+  ],
+  [
+   "p",
+   "Biên bản nghiệm thu hoàn thành nêu đối tượng, thời gian/địa điểm, thành phần, đánh giá điều kiện nghiệm thu và sự phù hợp thiết kế, kết quả và kết luận chấp thuận/không chấp thuận, yêu cầu bổ sung (nếu có), thời điểm và thời hạn bảo hành, chữ ký và phụ lục kèm theo; thành phần ký theo Điều 24 Nghị định số 207/2026/NĐ-CP."
+  ],
+  [
+   "h",
+   "4.2. Nghiệm thu có điều kiện, nghiệm thu từng phần công trình xây dựng: a) Chủ đầu tư được quyết định tổ chức nghiệm thu có điều kiện đưa hạng mục công trình, công trình xây dựng vào khai thác có điều kiện trong trường hợp việc thi công xây dựng cơ bản đã hoàn thành theo yêu cầu thiết kế, nhưng còn một số tồn tại về chất lượng mà không làm ảnh hưởng đến khả năng chịu lực, tuổi thọ, công năng của công trình và bảo đảm công trình đủ điều kiện khai thác an toàn và đáp ứng quy định của pháp luật chuyên ngành có liên quan. Kết quả nghiệm thu được xác nhận bằng biên bản theo các nội dung quy định tại khoản 5 Điều 24 Nghị định số 207/2026/NĐ-CP trong đó phải nêu rõ các tồn tại về chất lượng cần được khắc phục hoặc các công việc xây dựng cần được tiếp tục thực hiện và thời gian hoàn thành các nội dung này, yêu cầu về giới hạn phạm vi sử dụng công trình (nếu có). Chủ đầu tư tổ chức nghiệm thu hoàn thành công trình sau khi các tồn tại về chất lượng đã được khắc phục hoặc các công việc xây dựng còn lại đã được hoàn thành; b) Trường hợp một phần công trình xây dựng đã được thi công hoàn thành và đáp ứng các điều kiện quy định tại khoản 1 Điều 24 Nghị định số 207/2026/NĐ-CP, chủ đầu tư được quyết định việc tổ chức nghiệm thu phần công trình xây dựng này để đưa vào khai thác có điều kiện. Kết quả nghiệm thu được xác nhận bằng biên bản theo các nội dung quy định tại khoản 5 Điều 24 Nghị định số 207/2026/NĐ-CP trong đó phải nêu rõ về phần công trình được tổ chức nghiệm thu. Chủ đầu tư có trách nhiệm tiếp tục tổ chức thi công và nghiệm thu đối với các phần công trình, hạng mục công trình xây dựng còn lại theo thiết kế; quá trình tiếp tục thi công phải bảo đảm an toàn và không ảnh hưởng đến việc khai thác, vận hành bình thường của phần công trình xây dựng đã được nghiệm thu."
+  ],
+  [
+   "h",
+   "4.3. Điều kiện để đưa công trình, hạng mục công trình vào khai thác, sử dụng: a) Công trình, hạng mục công trình được nghiệm thu theo quy định tại khoản 1 và khoản 2 Điều 24 Nghị định số 207/2026/NĐ-CP; b) Đối với công trình thuộc đối tượng quy định tại khoản 1 Điều 25 Nghị định số 207/2026/NĐ-CP, phải được cơ quan có thẩm quyền theo khoản 4 Điều 57 Luật Xây dựng số 135/2025/QH15 kiểm tra công tác nghiệm thu và có văn bản chấp thuận kết quả nghiệm thu của Chủ đầu tư trước khi đưa vào khai thác, sử dụng. Đối với công trình thuộc dự án PPP, văn bản chấp thuận này là căn cứ để doanh nghiệp dự án lập hồ sơ đề nghị xác nhận hoàn thành công trình theo quy định pháp luật về PPP."
+  ],
+  [
+   "h",
+   "4.4. Bàn giao và đưa công trình vào sử dụng:"
+  ],
+  [
+   "p",
+   "Sau khi nghiệm thu hoàn thành và đáp ứng điều kiện đưa vào sử dụng, Chủ đầu tư tổ chức bàn giao cho chủ sở hữu/đơn vị quản lý sử dụng. Kiểm tra và bàn giao tối thiểu: bản vẽ hoàn công; hồ sơ chất lượng, kết quả thí nghiệm/kiểm định và biên bản nghiệm thu; quy trình vận hành, quy trình bảo trì; danh mục thiết bị, thông số và hướng dẫn sử dụng; phụ tùng/vật tư dự phòng theo hợp đồng; hồ sơ bảo hành, đầu mối xử lý sự cố; tài liệu đào tạo/hướng dẫn vận hành và tài sản bàn giao theo phạm vi hợp đồng."
+  ],
+  [
+   "p",
+   "Biên bản bàn giao ghi phạm vi, hiện trạng, tài liệu/thiết bị đã bàn giao, các tồn tại được phép theo biên bản nghiệm thu có điều kiện, trách nhiệm và thời hạn khắc phục, thời điểm bắt đầu bảo hành và chữ ký các bên. Việc lập và bàn giao hồ sơ phục vụ quản lý, sử dụng thực hiện theo Điều 30 Nghị định số 207/2026/NĐ-CP."
+  ],
+  [
+   "h",
+   "4.5. Xử lý khi chỉ tiêu kỹ thuật chủ yếu chưa đáp ứng yêu cầu:"
+  ],
+  [
+   "p",
+   "Nếu phát hiện chỉ tiêu hoặc thông số kỹ thuật chủ yếu không đạt thiết kế, không chấp thuận nghiệm thu và không đưa công trình vào sử dụng. Nhà thầu phải làm rõ nguyên nhân, đề xuất biện pháp xử lý; Tư vấn giám sát ghi nhận sai lệch, báo cáo Chủ đầu tư và lấy ý kiến Tư vấn thiết kế khi cần. Chỉ nghiệm thu lại sau khi biện pháp được chấp thuận, việc khắc phục hoàn tất và kết quả kiểm tra/thí nghiệm xác nhận đạt yêu cầu."
+  ]
+ ],
+ "ke_hoach_an_toan": [
+  [
+   "h",
+   "1. Chính sách an toàn tại TEXO:"
+  ],
+  [
+   "b",
+   "Văn hóa làm việc phối hợp là chính sách hàng đầu của TEXO."
+  ],
+  [
+   "b",
+   "Tại mỗi quốc gia đều có tính pháp lý và nghĩa vụ phải tuân thủ các yêu cầu về an toàn, sức khỏe và môi trường (HSE). Các công ty con của TEXO khi tham gia không những tuân thủ các luật định đó mà còn áp dụng hệ thống quản lý HSE của riêng mình."
+  ],
+  [
+   "b",
+   "Hệ thống quản lý HSE của TEXO là một phần trong hệ thống chất lượng. Các vấn đề chính mà mỗi nhân viên phải làm là:"
+  ],
+  [
+   "b",
+   "Hiểu được nhiệm vụ được giao;"
+  ],
+  [
+   "b",
+   "Theo dõi hệ thống và các quy trình;"
+  ],
+  [
+   "b",
+   "Báo cáo tất cả các sự cố và tai nạn theo mẫu phù hợp;"
+  ],
+  [
+   "b",
+   "Luôn chủ động về các vấn đề HSE."
+  ],
+  [
+   "h",
+   "2. Tổng quan kế hoạch quản lý an toàn:"
+  ],
+  [
+   "p",
+   "Diễn giải thực hiện:"
+  ],
+  [
+   "p",
+   "Nhà thầu: xác định mối nguy, đánh giá rủi ro, lập biện pháp và phương án ứng cứu."
+  ],
+  [
+   "p",
+   "TVGS: rà soát trách nhiệm, nguồn lực, hồ sơ và biện pháp kiểm soát."
+  ],
+  [
+   "p",
+   "CĐT/Ban Quản lý dự án xem xét theo thẩm quyền."
+  ],
+  [
+   "p",
+   "Nhà thầu phổ biến, huấn luyện, bố trí nhân lực và phương tiện; kiểm tra trước công việc."
+  ],
+  [
+   "p",
+   "Nhà thầu tự kiểm tra; TVGS kiểm tra, ghi nhận; xử lý vi phạm, tổng hợp báo cáo và cập nhật kế hoạch."
+  ],
+  [
+   "p",
+   "Không đạt: Nhà thầu bổ sung, sửa đổi; trình lại bước kiểm tra."
+  ],
+  [
+   "h",
+   "3. Đánh giá rủi ro và biện pháp kiểm soát:"
+  ],
+  [
+   "h",
+   "3.1 Các yếu tố liên quan đến mối nguy:"
+  ],
+  [
+   "t",
+   [
+    [
+     "CON NGƯỜI",
+     "- Hành vi cá nhân; - Thái độ đối với an toàn; - Năng lực và sức khỏe của người trực tiếp làm việc; - Hành vi người làm việc bên cạnh, khách tham quan, …"
+    ],
+    [
+     "THIẾT BỊ",
+     "Vị trí lắp đặt và các thiết bị phụ trợ, bao che bảo vệ, di chuyển, nâng hạ, chuyển động, các thiết bị khác xung quanh, nguồn điện cung cấp, dầu, nhớt, vận hành của thiết bị, cách thức thao tác thiết bị, tình trạng kiểm định, kiểm tra, bảo trì; áp lực cao; nguồn nhiên liệu …"
+    ],
+    [
+     "VẬT TƯ",
+     "Ảnh hưởng từ vật liệu sử dụng trực tiếp, để gần, bụi phát sinh trong hoạt động từ vật liệu; hóa chất sử dụng."
+    ],
+    [
+     "MÔI TRƯỜNG",
+     "Khu vực (vị trí, rộng hẹp), thoáng đãng, ánh sáng, gió, nhiệt độ, ồn, bụi, mùi hôi, độ ẩm, bức xạ; ngoài trời; tư thế làm việc; cường độ làm việc …"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "3.2 Biện pháp kiểm soát:"
+  ],
+  [
+   "p",
+   "Yêu cầu nhà thầu xây dựng kế hoạch an toàn lao động phải bảo đảm việc thực hiện các kế hoạch sau:"
+  ],
+  [
+   "t",
+   [
+    [
+     "Nhóm kiểm soát",
+     "Kế hoạch và quy trình",
+     "Đối tượng áp dụng"
+    ],
+    [
+     "1",
+     "Quy trình sử dụng; yêu cầu và hướng dẫn sử dụng.",
+     "Con người; thiết bị; vật tư; môi trường"
+    ],
+    [
+     "2",
+     "Kiểm tra, kiểm soát, bảo trì và bảo dưỡng.",
+     "Con người; thiết bị; vật tư; môi trường"
+    ],
+    [
+     "3",
+     "Ứng phó và diễn tập tình huống khẩn cấp.",
+     "Con người; thiết bị; vật tư; môi trường"
+    ]
+   ]
+  ],
+  [
+   "h",
+   "4. Yêu cầu pháp luật và các yêu cầu khác:"
+  ],
+  [
+   "p",
+   "Tất cả các yêu cầu pháp lý phải được xác định rõ, nắm rõ và tuân thủ theo. Sẽ cần phải đưa vào các luật liên quan đến quản lý và thiết kế thi công. Cụ thể là phải xem xét đến các nguyên tắc phòng ngừa chung sau:"
+  ],
+  [
+   "b",
+   "Tránh các rủi ro."
+  ],
+  [
+   "b",
+   "Đánh giá các rủi ro không thể tránh khỏi."
+  ],
+  [
+   "b",
+   "Giải quyết các rủi ro ngay tại nguồn."
+  ],
+  [
+   "b",
+   "Thích ứng với các công việc, nhất là thiết kế chỗ làm việc, chọn trang thiết bị làm việc và chọn cách làm việc và sản xuất để tránh các công việc rủi ro, đơn điệu, tẻ nhạt."
+  ],
+  [
+   "b",
+   "Thích ứng với tiến độ kỹ thuật."
+  ],
+  [
+   "b",
+   "Thay thế các tình huống nguy hiểm bằng các tình huống không nguy hiểm hoặc ít nguy hiểm hơn."
+  ],
+  [
+   "b",
+   "Thực hiện các chính sách ngăn ngừa bao gồm cả về mặt kỹ thuật, tổ chức thi công, điều kiện làm việc, mối quan hệ xã hội, và ảnh hưởng của các yếu tố liên quan đến môi trường làm việc."
+  ],
+  [
+   "b",
+   "Đưa ra các biện pháp bảo vệ tập thể ưu tiên hơn là các biện pháp bảo vệ cá nhân."
+  ],
+  [
+   "h",
+   "5. Mục tiêu và chương trình:"
+  ],
+  [
+   "b",
+   "Mục tiêu: 0 tai nạn tại dự án thi công."
+  ],
+  [
+   "b",
+   "Tất cả các vi phạm phải được xử lý và triệt tiêu. Tần suất vi phạm phải giảm dần qua mỗi tháng."
+  ],
+  [
+   "h",
+   "5.1 Giám sát và đo lường:"
+  ],
+  [
+   "p",
+   "Giám sát:"
+  ],
+  [
+   "b",
+   "Đi kiểm tra an toàn hằng ngày do Tư vấn trưởng, kỹ sư và nhân viên an toàn thực hiện."
+  ],
+  [
+   "b",
+   "Nhấn mạnh những điểm thiếu an toàn trong báo cáo hằng ngày."
+  ],
+  [
+   "b",
+   "Đi kiểm tra an toàn hằng tuần."
+  ],
+  [
+   "b",
+   "Do TVGS Trưởng TEXO, Chủ đầu tư và cán bộ an toàn của từng nhà thầu thực hiện tuần tra."
+  ],
+  [
+   "b",
+   "Báo cáo sau khi đi tuần tra công trường."
+  ],
+  [
+   "p",
+   "Đo lường:"
+  ],
+  [
+   "p",
+   "Việc thống kê vi phạm vào cuối mỗi tháng sẽ được thực hiện dựa trên việc thống kê qua các lần vi phạm trong tháng đó. Mục đích của việc thống kê vi phạm hằng tháng là để theo dõi tần suất vi phạm có chiều hướng tăng hoặc giảm nhằm có biện pháp xử lý thích hợp."
+  ],
+  [
+   "h",
+   "5.2 Năng lực, đào tạo và nhận thức"
+  ],
+  [
+   "h",
+   "5.2.1. Huấn luyện hệ thống quản lý"
+  ],
+  [
+   "p",
+   "Tất cả các trưởng bộ phận, người đứng đầu dự án của công ty TEXO sẽ được đào tạo và kiểm tra định kỳ về cách quản lý hệ thống an toàn, chất lượng cũng như các hệ thống kiểm soát khác. Công ty TEXO thiết lập bộ công cụ hướng dẫn quản lý an toàn áp dụng cho tất cả dự án bao gồm quy trình, kế hoạch, hồ sơ pháp lý, hướng dẫn, các biểu mẫu và xử lý vi phạm. Bộ công cụ quản lý này được áp dụng chung cho các dự án của TEXO. Tùy tính chất mỗi dự án mà các thành phần bao gồm Giám đốc dự án, Tư vấn trưởng và Trưởng ban an toàn sẽ thiết lập xây dựng cho phù hợp và huấn luyện cho toàn bộ nhân viên trong dự án áp dụng thực hiện."
+  ],
+  [
+   "h",
+   "a. Quy trình"
+  ],
+  [
+   "b",
+   "Quy trình kiểm soát con người."
+  ],
+  [
+   "b",
+   "Quy trình kiểm soát thiết bị vào công trường."
+  ],
+  [
+   "b",
+   "Quy trình kiểm soát biện pháp an toàn."
+  ],
+  [
+   "b",
+   "Quy trình xử lý vi phạm."
+  ],
+  [
+   "b",
+   "Quy trình thực hiện kiểm soát an toàn lao động."
+  ],
+  [
+   "h",
+   "b. Kế hoạch"
+  ],
+  [
+   "b",
+   "Kế hoạch bảo đảm chất lượng."
+  ],
+  [
+   "b",
+   "Kế hoạch kiểm soát an toàn lao động."
+  ],
+  [
+   "b",
+   "Kế hoạch ứng cứu khẩn cấp."
+  ],
+  [
+   "h",
+   "c. Hồ sơ pháp lý yêu cầu"
+  ],
+  [
+   "b",
+   "Hồ sơ nhân sự."
+  ],
+  [
+   "b",
+   "Hồ sơ an toàn lao động."
+  ],
+  [
+   "b",
+   "Hồ sơ PCCC."
+  ],
+  [
+   "b",
+   "Hồ sơ Sơ cứu."
+  ],
+  [
+   "b",
+   "Hồ sơ Chỉ dẫn an toàn."
+  ],
+  [
+   "b",
+   "Hồ sơ Cẩu tháp."
+  ],
+  [
+   "b",
+   "Hồ sơ Vận thăng."
+  ],
+  [
+   "b",
+   "Hồ sơ Sàn treo."
+  ],
+  [
+   "b",
+   "Hồ sơ thiết bị không yêu cầu nghiêm ngặt."
+  ],
+  [
+   "h",
+   "d. Hướng dẫn"
+  ],
+  [
+   "b",
+   "Hướng dẫn về các công tác tạm."
+  ],
+  [
+   "b",
+   "Hướng dẫn về an toàn."
+  ],
+  [
+   "h",
+   "e. Biểu mẫu"
+  ],
+  [
+   "b",
+   "Biểu mẫu an toàn lao động."
+  ],
+  [
+   "b",
+   "Biểu mẫu Tuần tra công trường hằng tuần & Biên bản họp."
+  ],
+  [
+   "b",
+   "Biểu mẫu Báo cáo không tuân thủ."
+  ],
+  [
+   "b",
+   "Biểu mẫu Thông báo công trường."
+  ],
+  [
+   "b",
+   "Biểu mẫu thanh tra nội bộ."
+  ],
+  [
+   "p",
+   "f. Quy định công trường và quy chế phạt."
+  ],
+  [
+   "b",
+   "Quy định công trường."
+  ],
+  [
+   "b",
+   "Quy chế phạt."
+  ],
+  [
+   "h",
+   "5.2.2. Huấn luyện về quy trình phối hợp kiểm soát tại dự án:"
+  ],
+  [
+   "p",
+   "Các Tư vấn trưởng và Trưởng bộ phận an toàn sẽ huấn luyện cho tất cả mọi người bao gồm kỹ sư, giám sát trong dự án nắm rõ các quy trình phối hợp kiểm soát con người, thiết bị, vật tư, biện pháp kiểm soát rủi ro, xử lý vi phạm và thực hiện giám sát an toàn trên công trường."
+  ],
+  [
+   "h",
+   "Quy trình kiểm soát con người"
+  ],
+  [
+   "p",
+   "Diễn giải lưu đồ: Nhà thầu lập danh sách nhân sự, phân công và cung cấp hồ sơ sức khỏe, huấn luyện, năng lực phù hợp công việc. Cán bộ ATVSLĐ kiểm tra hồ sơ, phổ biến nội quy, mối nguy và ứng cứu; cấp phương tiện bảo vệ cá nhân. TVGS kiểm tra. Chỉ huy trưởng và cán bộ ATVSLĐ xác nhận đủ điều kiện; bộ phận bảo vệ kiểm soát thẻ ra vào. Nhà thầu theo dõi tuân thủ, TVGS kiểm tra. Nếu chưa đạt, không bố trí làm việc; bổ sung hồ sơ, huấn luyện hoặc thay người rồi kiểm tra lại."
+  ],
+  [
+   "h",
+   "Quy trình kiểm soát thiết bị vào công trường"
+  ],
+  [
+   "p",
+   "Diễn giải lưu đồ: Nhà thầu trình danh mục, hồ sơ nguồn gốc, hướng dẫn vận hành/bảo trì, hồ sơ kiểm định khi thuộc diện và thông tin người vận hành. Nhà thầu kiểm tra thiết bị, cơ cấu an toàn, phụ kiện và vị trí lắp đặt; TVGS kiểm tra, ghi nhận. Chỉ huy trưởng và cán bộ ATVSLĐ xác nhận đủ điều kiện sử dụng. Nhà thầu bố trí người vận hành đủ năng lực, kiểm tra trước ca và thiết lập khu vực an toàn. Khi thiết bị hỏng, quá hạn hoặc mất an toàn, dừng, cách ly, sửa chữa/thay thế và kiểm tra lại; không vận hành khi chưa đạt."
+  ],
+  [
+   "h",
+   "Quy trình kiểm soát biện pháp an toàn"
+  ],
+  [
+   "p",
+   "Diễn giải lưu đồ: Nhà thầu lập biện pháp, JSA/RA, phương án cứu hộ và giấy phép công việc khi áp dụng; tự kiểm tra và trình theo quy trình dự án. TVGS rà soát rủi ro, điều kiện hiện trường và biện pháp bảo vệ; việc chấp thuận thực hiện theo phân cấp hợp đồng. Sau khi được chấp thuận, nhà thầu phổ biến, kiểm tra nhân lực, thiết bị, khu vực và giấy phép. Chỉ thi công khi đủ điều kiện. Khi điều kiện thay đổi hoặc không đạt, dừng việc, điều chỉnh biện pháp và trình kiểm tra lại."
+  ],
+  [
+   "p",
+   "Quy trình xử lý vi phạm và khắc phục"
+  ],
+  [
+   "p",
+   "Diễn giải thực hiện:"
+  ],
+  [
+   "p",
+   "Nhà thầu/TVGS ghi nhận vi phạm; dừng công việc nguy hiểm, cách ly và bảo vệ người trong khu vực."
+  ],
+  [
+   "p",
+   "TVGS/cán bộ ATLĐ lập biên bản, nêu vị trí, vi phạm, trách nhiệm và thời hạn; báo cáo CĐT/Ban Quản lý dự án khi cần."
+  ],
+  [
+   "p",
+   "Nhà thầu xử lý nguyên nhân, bổ sung biện pháp và báo cáo. TVGS kiểm tra bằng chứng, hiện trường: đã khắc phục đạt yêu cầu ?"
+  ],
+  [
+   "p",
+   "TVGS ghi nhận kết quả kiểm tra; việc thi công trở lại được quyết định theo thẩm quyền sau khi đủ điều kiện an toàn."
+  ],
+  [
+   "p",
+   "Lưu hồ sơ; cập nhật thống kê, chia sẻ bài học và theo dõi phòng ngừa tái diễn."
+  ],
+  [
+   "p",
+   "Chưa đạt: Tiếp tục dừng phần việc liên quan; yêu cầu khắc phục lại. Tái phạm/chậm xử lý: báo cáo CĐT/Ban Quản lý dự án xử lý theo hợp đồng."
+  ],
+  [
+   "p",
+   "Quy trình thực hiện kiểm soát an toàn lao động"
+  ],
+  [
+   "p",
+   "TVGS ghi nhận vị trí, nội dung vi phạm, trách nhiệm và thời hạn khắc phục; Nhà thầu thực hiện và báo cáo. TVGS kiểm tra hiện trường, hồ sơ/bằng chứng. Nếu chưa đạt, tiếp tục dừng phần việc liên quan và yêu cầu khắc phục lại; nếu đạt, đóng biên bản và chỉ cho phép thi công lại theo thẩm quyền khi đủ điều kiện an toàn. Vi phạm tái diễn hoặc chậm xử lý được báo CĐT/BQLDA xem xét theo hợp đồng. Hồ sơ được lưu và theo dõi biện pháp phòng ngừa tái diễn."
+  ],
+  [
+   "p",
+   "Quy trình kiểm soát an toàn tại hiện trường"
+  ],
+  [
+   "h",
+   "Diễn giải lưu đồ:"
+  ],
+  [
+   "p",
+   "Nhà thầu kiểm tra trước ca; chưa đủ điều kiện thì dừng và khắc phục. Khi đạt, thi công theo biện pháp/giấy phép được duyệt và duy trì kiểm soát. Kết thúc, thu dọn, khôi phục an toàn và đóng giấy phép; TVGS kiểm tra, ghi nhận."
+  ],
+  [
+   "h",
+   "5.2.3. Huấn luyện an toàn theo chủ đề, chia sẻ bài học kinh nghiệm:"
+  ],
+  [
+   "p",
+   "Sau mỗi sự cố, các tình huống nguy hiểm hoặc các rủi ro cao, bộ phận ATLĐ sẽ ban hành và chia sẻ các bài học kinh nghiệm cho tất cả các dự án của TEXO. Ngoài ra bộ phận ATLĐ công ty sẽ tổ chức huấn luyện cho toàn bộ nhân viên TEXO nhằm cập nhật kiến thức về ATLĐ, cập nhật những bài học kinh nghiệm rút ra sau mỗi sự cố."
+  ],
+  [
+   "h",
+   "6. Kiểm soát nội bộ:"
+  ],
+  [
+   "p",
+   "Chương trình kiểm soát nội bộ sẽ được thực hiện định kỳ hằng tháng. Ban Giám đốc công ty sẽ điều động chuyên viên an toàn thực hiện việc kiểm soát, đánh giá an toàn tất cả dự án vào định kỳ mỗi tháng. Hoạt động đánh giá này sẽ bao gồm các đánh giá dựa trên 01 khung chuẩn của TEXO về vấn đề an toàn lao động bao gồm 3 hạng mục chính:"
+  ],
+  [
+   "p",
+   "a. Tình hình vệ sinh công trường, các công tác tạm, việc tuân thủ sử dụng phương tiện bảo vệ cá nhân."
+  ],
+  [
+   "p",
+   "b. Tình hình kiểm soát các mối nguy trên công trường."
+  ],
+  [
+   "p",
+   "c. Tình hình hồ sơ pháp lý của nhà thầu và các hoạt động kiểm soát của TEXO."
+  ],
+  [
+   "h",
+   "7. Xem xét, cập nhật và cải tiến từ ban tổng giám đốc"
+  ],
+  [
+   "p",
+   "Hằng tháng lãnh đạo công ty sẽ theo dõi tình hình thực tế và cập nhật kế hoạch nhằm điều chỉnh và cải thiện cho thích hợp."
+  ]
+ ],
+ "tai_lieu_bat_buoc": [
+  [
+   "p",
+   "Ngoài hệ thống hồ sơ pháp lý dự án, TVGS cần phải lập và thường xuyên theo dõi, cập nhật thông tin đầy đủ, liên tục, có hệ thống vào các tài liệu sau:"
+  ],
+  [
+   "t",
+   [
+    [
+     "TT",
+     "Tên tài liệu",
+     "Ghi chú"
+    ],
+    [
+     "1",
+     "Nhật ký công trình (theo mẫu quy định)",
+     "Nhà thầu thi công ghi chép, TVGS ký xác nhận từng ngày và ghi ý kiến của TVGS về các vấn đề liên quan dự án."
+    ],
+    [
+     "2",
+     "Nhật ký duyệt mẫu vật tư và lấy mẫu thí nghiệm",
+     "Ghi chép quá trình duyệt mẫu vật tư, lấy mẫu thí nghiệm vật liệu trên công trường, người duyệt mẫu, người lấy mẫu, ngày thí nghiệm, người chứng kiến thí nghiệm, đã có kết quả thí nghiệm hay chưa, v.v… Trong nhật ký này nên đính kèm danh mục vật tư sử dụng cho công trình và tình trạng duyệt mẫu vật tư."
+    ],
+    [
+     "3",
+     "Danh mục hồ sơ dự án",
+     "Được lập bằng file mềm để dễ dàng truy xuất khi cần thiết, ghi chép đầy đủ danh mục hồ sơ - tài liệu liên quan đến dự án từ khi bắt đầu đến khi kết thúc dự án."
+    ],
+    [
+     "4",
+     "Sổ theo dõi các thay đổi thiết kế",
+     "Ghi chép đầy đủ các thay đổi thiết kế trước và trong quá trình thi công, văn bản chấp thuận của các bên liên quan, Bản vẽ minh họa, v.v…"
+    ]
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,272 @@
+{
+ "version": "1.0.0",
+ "ngay_cap_nhat": "2026-10-23",
+ "ghi_chu": "Danh mục căn cứ pháp lý dùng chung cho app Tạo và app Kiểm tra đề cương. Nguồn đối chiếu: đề cương TT02 (VNM, 10/2026) và TT09 (Harmonia Bay, 10/2026). Phòng Kỹ thuật cập nhật file này khi có văn bản mới – hai app tự đọc lại.",
+ "moc_hieu_luc": "2026-07-01",
+ "hien_hanh": [
+  {
+   "ky_hieu": "Luật Xây dựng số 135/2025/QH15",
+   "ngay": "10/12/2025",
+   "noi_dung": "Luật Xây dựng; hiệu lực từ 01/7/2026",
+   "nhom": "xd",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Nghị định số 207/2026/NĐ-CP",
+   "ngay": "15/6/2026",
+   "noi_dung": "Quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng",
+   "nhom": "xd",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Nghị định số 217/2026/NĐ-CP",
+   "ngay": "19/6/2026",
+   "noi_dung": "Quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng",
+   "nhom": "xd",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Nghị định số 212/2026/NĐ-CP",
+   "ngay": "17/6/2026",
+   "noi_dung": "Điều kiện năng lực hoạt động xây dựng và quản lý thông tin năng lực",
+   "nhom": "xd",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Nghị định số 209/2026/NĐ-CP",
+   "ngay": "15/6/2026",
+   "noi_dung": "Quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây dựng",
+   "nhom": "xd",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Nghị định số 206/2026/NĐ-CP",
+   "ngay": "15/6/2026",
+   "noi_dung": "Quy định chi tiết về quản lý chi phí đầu tư xây dựng",
+   "nhom": "xd",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Nghị định số 210/2026/NĐ-CP",
+   "ngay": "15/6/2026",
+   "noi_dung": "Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xây dựng về hợp đồng xây dựng",
+   "nhom": "xd",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Thông tư số 32/2026/TT-BXD",
+   "ngay": "22/6/2026",
+   "noi_dung": "Quy định chi tiết một số điều của Nghị định số 207/2026/NĐ-CP về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng",
+   "nhom": "xd",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Thông tư số 34/2026/TT-BXD",
+   "ngay": "25/6/2026",
+   "noi_dung": "Quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng",
+   "nhom": "xd",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Thông tư số 41/2026/TT-BXD",
+   "ngay": "26/6/2026",
+   "noi_dung": "Quản lý chất lượng sản phẩm, hàng hóa vật liệu xây dựng",
+   "nhom": "xd",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Thông tư số 42/2026/TT-BXD",
+   "ngay": "29/6/2026",
+   "noi_dung": "Kiểm định kỹ thuật an toàn máy, thiết bị, vật tư thuộc phạm vi quản lý của Bộ Xây dựng; hiệu lực từ 15/8/2026",
+   "nhom": "at",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Luật An toàn, vệ sinh lao động số 84/2015/QH13",
+   "ngay": "25/6/2015",
+   "noi_dung": "Kiểm soát an toàn, vệ sinh lao động, huấn luyện, thiết bị có yêu cầu nghiêm ngặt",
+   "nhom": "at",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "QCVN 18:2021/BXD",
+   "ngay": "",
+   "noi_dung": "Quy chuẩn kỹ thuật quốc gia về an toàn trong thi công xây dựng",
+   "nhom": "at",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15",
+   "ngay": "29/11/2024",
+   "noi_dung": "Phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+   "nhom": "at",
+   "mau": "B"
+  },
+  {
+   "ky_hieu": "Nghị định số 105/2025/NĐ-CP",
+   "ngay": "",
+   "noi_dung": "Quy định chi tiết Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ (và văn bản sửa đổi, bổ sung)",
+   "nhom": "at",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Luật Bảo vệ môi trường số 72/2020/QH14",
+   "ngay": "17/11/2020",
+   "noi_dung": "Bảo vệ môi trường trong thi công xây dựng",
+   "nhom": "at",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Nghị định số 347/2026/NĐ-CP",
+   "ngay": "",
+   "noi_dung": "Sửa đổi, bổ sung Nghị định số 105/2025/NĐ-CP về PCCC và CNCH",
+   "nhom": "at",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Thông tư số 36/2025/TT-BCA",
+   "ngay": "",
+   "noi_dung": "Hướng dẫn về phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+   "nhom": "at",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "Luật Điện lực số 61/2024/QH15",
+   "ngay": "",
+   "noi_dung": "Áp dụng cho công tác điện, trạm biến áp, an toàn điện (QCVN 25:2025/BCT, QCVN 26:2025/BCT)",
+   "nhom": "mep",
+   "mau": "N"
+  },
+  {
+   "ky_hieu": "QCVN 02:2019/BLĐTBXH (Thông tư số 42/2019/TT-BLĐTBXH)",
+   "ngay": "",
+   "noi_dung": "An toàn lao động đối với thang máy – kiểm định, nghiệm thu thang máy",
+   "nhom": "mep",
+   "mau": "N"
+  }
+ ],
+ "het_hieu_luc": [
+  {
+   "pat": "50/2014/QH13",
+   "ten": "Luật Xây dựng 50/2014/QH13",
+   "thay_the": "Luật Xây dựng số 135/2025/QH15 (hiệu lực 01/7/2026)"
+  },
+  {
+   "pat": "62/2020/QH14",
+   "ten": "Luật sửa đổi Luật Xây dựng 62/2020/QH14",
+   "thay_the": "Luật Xây dựng số 135/2025/QH15"
+  },
+  {
+   "pat": "06/2021/N[ĐD]-CP",
+   "ten": "Nghị định 06/2021/NĐ-CP",
+   "thay_the": "Nghị định số 207/2026/NĐ-CP (hiệu lực 01/7/2026)"
+  },
+  {
+   "pat": "10/2021/TT-BXD",
+   "ten": "Thông tư 10/2021/TT-BXD",
+   "thay_the": "Thông tư số 32/2026/TT-BXD"
+  },
+  {
+   "pat": "175/2024/N[ĐD]-CP",
+   "ten": "Nghị định 175/2024/NĐ-CP",
+   "thay_the": "Nghị định số 217/2026/NĐ-CP (quản lý hoạt động xây dựng) và Nghị định số 212/2026/NĐ-CP (điều kiện năng lực)"
+  },
+  {
+   "pat": "15/2021/N[ĐD]-CP",
+   "ten": "Nghị định 15/2021/NĐ-CP",
+   "thay_the": "Nghị định số 217/2026/NĐ-CP"
+  },
+  {
+   "pat": "46/2015/N[ĐD]-CP",
+   "ten": "Nghị định 46/2015/NĐ-CP",
+   "thay_the": "Nghị định số 207/2026/NĐ-CP"
+  },
+  {
+   "pat": "27/2001/QH10",
+   "ten": "Luật PCCC 27/2001/QH10",
+   "thay_the": "Luật PCCC và CNCH số 55/2024/QH15"
+  },
+  {
+   "pat": "40/2013/QH13",
+   "ten": "Luật sửa đổi Luật PCCC 40/2013/QH13",
+   "thay_the": "Luật PCCC và CNCH số 55/2024/QH15"
+  },
+  {
+   "pat": "136/2020/N[ĐD]-CP",
+   "ten": "Nghị định 136/2020/NĐ-CP (PCCC)",
+   "thay_the": "Nghị định số 105/2025/NĐ-CP"
+  },
+  {
+   "pat": "149/2020/TT-BCA",
+   "ten": "Thông tư 149/2020/TT-BCA (PCCC)",
+   "thay_the": "Thông tư số 36/2025/TT-BCA"
+  },
+  {
+   "pat": "50/2024/N[ĐD]-CP",
+   "ten": "Nghị định 50/2024/NĐ-CP (sửa NĐ 136/2020)",
+   "thay_the": "Nghị định số 105/2025/NĐ-CP (sửa đổi bởi NĐ 347/2026/NĐ-CP)"
+  }
+ ],
+ "can_ra_soat": [
+  {
+   "pat": "35/2023/N[ĐD]-CP",
+   "ten": "Nghị định 35/2023/NĐ-CP",
+   "ly_do": "Sửa đổi các nghị định cũ của Bộ Xây dựng – phần lớn nghị định gốc đã được thay thế từ 01/7/2026"
+  },
+  {
+   "pat": "06/2017/TT-BXD",
+   "ten": "Thông tư 06/2017/TT-BXD (thí nghiệm chuyên ngành)",
+   "ly_do": "Kiểm tra văn bản thay thế theo hệ thống văn bản 2026"
+  },
+  {
+   "pat": "62/2016/N[ĐD]-CP",
+   "ten": "Nghị định 62/2016/NĐ-CP (điều kiện hoạt động thí nghiệm)",
+   "ly_do": "Kiểm tra văn bản thay thế theo hệ thống văn bản 2026"
+  },
+  {
+   "pat": "26/2016/TT-BXD",
+   "ten": "Thông tư 26/2016/TT-BXD",
+   "ly_do": "Đã hết hiệu lực từ trước – kiểm tra lại"
+  },
+  {
+   "pat": "04/2017/TT-BXD",
+   "ten": "Thông tư 04/2017/TT-BXD (an toàn lao động)",
+   "ly_do": "Kiểm tra văn bản thay thế"
+  },
+  {
+   "pat": "22/2010/TT-BXD",
+   "ten": "Thông tư 22/2010/TT-BXD",
+   "ly_do": "Đã hết hiệu lực – kiểm tra lại"
+  },
+  {
+   "pat": "TCXDVN 371:2006",
+   "ten": "TCXDVN 371:2006",
+   "ly_do": "Tiêu chuẩn ban hành đã lâu – đối chiếu danh mục tiêu chuẩn dự án và tiêu chuẩn thay thế (nếu có)"
+  },
+  {
+   "pat": "TCVN 4453:1995",
+   "ten": "TCVN 4453:1995",
+   "ly_do": "Tiêu chuẩn ban hành đã lâu – đối chiếu danh mục tiêu chuẩn dự án và tiêu chuẩn thay thế (nếu có)"
+  },
+  {
+   "pat": "TCVN 5308:1991",
+   "ten": "TCVN 5308:1991",
+   "ly_do": "Tiêu chuẩn ban hành đã lâu – đối chiếu danh mục tiêu chuẩn dự án và tiêu chuẩn thay thế (nếu có)"
+  },
+  {
+   "pat": "TCVN 4091:1985",
+   "ten": "TCVN 4091:1985",
+   "ly_do": "Tiêu chuẩn ban hành đã lâu – đối chiếu danh mục tiêu chuẩn dự án và tiêu chuẩn thay thế (nếu có)"
+  },
+  {
+   "pat": "53/2016/TT-BL[ĐD]TBXH",
+   "ten": "Thông tư 53/2016/TT-BLĐTBXH",
+   "ly_do": "Danh mục máy, thiết bị có yêu cầu nghiêm ngặt về ATLĐ – đối chiếu văn bản thay thế hiện hành"
+  },
+  {
+   "pat": "21/2013/TTLT",
+   "ten": "Thông tư liên tịch 21/2013/TTLT",
+   "ly_do": "Kiểm tra hiệu lực"
+  }
+ ]
+}

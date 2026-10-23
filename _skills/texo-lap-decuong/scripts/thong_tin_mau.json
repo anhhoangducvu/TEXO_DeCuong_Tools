@@ -1,0 +1,43 @@
+{
+ "du_an": "Khu nhà ở cao tầng …",
+ "cong_trinh": "Tòa nhà CT1",
+ "goi_thau": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+ "dia_diem": "Phường …, TP. Hà Nội",
+ "chu_dau_tu": "Công ty Cổ phần …",
+ "dai_dien_cdt": "",
+ "hop_dong": "Số …/2026/HĐTV ngày …",
+ "nguon_von": "Vốn doanh nghiệp",
+ "trung_tam": "Trung tâm Tư vấn 10",
+ "tvgs_truong": "",
+ "thoi_gian": 18,
+ "ngay": "2026-10-23",
+ "loai_ct": "Dân dụng – nhà cao tầng",
+ "cap_ct": "II",
+ "so_tang": 15,
+ "so_ham": 1,
+ "dt_san": 18000,
+ "chieu_cao": 55,
+ "mong": [
+  "Cọc khoan nhồi"
+ ],
+ "ket_cau": [
+  "BTCT toàn khối"
+ ],
+ "noi_that": false,
+ "thang_may": true,
+ "tba": true,
+ "xlnt": false,
+ "ha_tang_ngoai_nha": true,
+ "cdt_yeu_cau_cao": false,
+ "mo_ta_quy_mo": "Khối đế 2 tầng dịch vụ\nTầng hầm để xe",
+ "cac_ben": [
+  [
+   "Tư vấn thiết kế",
+   "Công ty …"
+  ]
+ ],
+ "mau": "",
+ "hang_muc": [],
+ "nhan_su": [],
+ "_ghi_chu": "trung_tam chỉ để quản lý nội bộ – không in ra đề cương. Đề cương phát hành chỉ mang tên Công ty Cổ phần TEXO Tư vấn và Đầu tư."
+}
