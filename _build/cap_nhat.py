@@ -98,9 +98,8 @@ def dong_bo(noi_dung, muc="patch"):
     for sk in sorted(os.listdir(SKILLS)) if os.path.isdir(SKILLS) else []:
         sd = os.path.join(SKILLS, sk)
         dst = os.path.join(sd, "scripts", "core")
-        if os.path.isdir(dst):
-            shutil.rmtree(dst)
-        shutil.copytree(os.path.join(ROOT, "core"), dst, ignore=shutil.ignore_patterns("__pycache__", "ui.py"))
+        # chép đè (không xóa thư mục cũ) để chạy được cả khi thư mục chỉ cho phép ghi, không cho xóa
+        shutil.copytree(os.path.join(ROOT, "core"), dst, ignore=shutil.ignore_patterns("__pycache__", "ui.py"), dirs_exist_ok=True)
         open(os.path.join(sd, "VERSION"), "w").write(v["phien_ban"] + "\n")
         out = os.path.join(ROOT, sk + ".skill")
         with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:

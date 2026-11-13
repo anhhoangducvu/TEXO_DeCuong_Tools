@@ -1,6 +1,6 @@
 {
  "version": "1.0.0",
- "ngay_cap_nhat": "2026-10-23",
+ "ngay_cap_nhat": "2026-11-12",
  "ghi_chu": "Danh mục căn cứ pháp lý dùng chung cho app Tạo và app Kiểm tra đề cương. Nguồn đối chiếu: đề cương TT02 (VNM, 10/2026) và TT09 (Harmonia Bay, 10/2026). Phòng Kỹ thuật cập nhật file này khi có văn bản mới – hai app tự đọc lại.",
  "moc_hieu_luc": "2026-07-01",
  "hien_hanh": [
@@ -205,6 +205,66 @@
    "pat": "50/2024/N[ĐD]-CP",
    "ten": "Nghị định 50/2024/NĐ-CP (sửa NĐ 136/2020)",
    "thay_the": "Nghị định số 105/2025/NĐ-CP (sửa đổi bởi NĐ 347/2026/NĐ-CP)"
+  },
+  {
+   "pat": "53/2016/TT-BL[ĐD]TBXH",
+   "ten": "Thông tư 53/2016/TT-BLĐTBXH (danh mục máy, thiết bị nghiêm ngặt ATVSLĐ)",
+   "thay_the": "Thông tư số 36/2019/TT-BLĐTBXH (hiệu lực 01/3/2020)"
+  },
+  {
+   "pat": "28/2012/TT-BKHCN",
+   "ten": "Thông tư 28/2012/TT-BKHCN (công bố hợp chuẩn, hợp quy)",
+   "thay_the": "Thông tư số 14/2026/TT-BKHCN (hiệu lực 25/5/2026)"
+  },
+  {
+   "pat": "02/2017/TT-BKHCN",
+   "ten": "Thông tư 02/2017/TT-BKHCN (sửa TT 28/2012)",
+   "thay_the": "Thông tư số 14/2026/TT-BKHCN (hiệu lực 25/5/2026)"
+  },
+  {
+   "pat": "56/2014/TT-BCA",
+   "ten": "Thông tư 56/2014/TT-BCA (trang bị phương tiện PCCC)",
+   "thay_the": "Thông tư số 36/2025/TT-BCA"
+  },
+  {
+   "pat": "52/2014/TT-BCA",
+   "ten": "Thông tư 52/2014/TT-BCA (quản lý, bảo dưỡng phương tiện PCCC)",
+   "thay_the": "Thông tư số 36/2025/TT-BCA"
+  },
+  {
+   "pat": "150/2020/TT-BCA",
+   "ten": "Thông tư 150/2020/TT-BCA (trang bị phương tiện PCCC)",
+   "thay_the": "Thông tư số 36/2025/TT-BCA"
+  },
+  {
+   "pat": "17/2021/TT-BCA",
+   "ten": "Thông tư 17/2021/TT-BCA (quản lý, bảo dưỡng phương tiện PCCC)",
+   "thay_the": "Thông tư số 36/2025/TT-BCA"
+  },
+  {
+   "pat": "09/2021/N[ĐD]-CP",
+   "ten": "Nghị định 09/2021/NĐ-CP (quản lý vật liệu xây dựng)",
+   "thay_the": "Nghị định số 209/2026/NĐ-CP"
+  },
+  {
+   "pat": "QCVN\\s*16\\s*[:/]\\s*2019",
+   "ten": "QCVN 16:2019/BXD (sản phẩm, hàng hóa VLXD)",
+   "thay_the": "QCVN 16:2023/BXD"
+  },
+  {
+   "pat": "178/1999/Q[ĐD]-TTG",
+   "ten": "Quyết định 178/1999/QĐ-TTg (nhãn hàng hóa)",
+   "thay_the": "Nghị định số 43/2017/NĐ-CP (sửa đổi bởi NĐ 111/2021/NĐ-CP)"
+  },
+  {
+   "pat": "14/2005/TTLT",
+   "ten": "Thông tư liên tịch 14/2005/TTLT-BLĐTBXH-BYT-TLĐLĐVN (tai nạn lao động)",
+   "thay_the": "Nghị định số 39/2016/NĐ-CP và văn bản hướng dẫn hiện hành"
+  },
+  {
+   "pat": "06/2020/N[ĐD]-CP",
+   "ten": "\"Nghị định 06/2020/NĐ-CP\" (ghi nhầm của NĐ 06/2021/NĐ-CP)",
+   "thay_the": "Nghị định số 207/2026/NĐ-CP"
   }
  ],
  "can_ra_soat": [
@@ -221,7 +281,7 @@
   {
    "pat": "62/2016/N[ĐD]-CP",
    "ten": "Nghị định 62/2016/NĐ-CP (điều kiện hoạt động thí nghiệm)",
-   "ly_do": "Kiểm tra văn bản thay thế theo hệ thống văn bản 2026"
+   "ly_do": "Còn hiệu lực, đã sửa đổi bởi NĐ 35/2023/NĐ-CP và NĐ 14/2026/NĐ-CP (đổi tên: Nghị định quy định về thí nghiệm chuyên ngành xây dựng; VBHN 54/VBHN-BXD ngày 26/6/2026) – rà soát điều khoản viện dẫn"
   },
   {
    "pat": "26/2016/TT-BXD",
@@ -259,14 +319,14 @@
    "ly_do": "Tiêu chuẩn ban hành đã lâu – đối chiếu danh mục tiêu chuẩn dự án và tiêu chuẩn thay thế (nếu có)"
   },
   {
-   "pat": "53/2016/TT-BL[ĐD]TBXH",
-   "ten": "Thông tư 53/2016/TT-BLĐTBXH",
-   "ly_do": "Danh mục máy, thiết bị có yêu cầu nghiêm ngặt về ATLĐ – đối chiếu văn bản thay thế hiện hành"
-  },
-  {
    "pat": "21/2013/TTLT",
    "ten": "Thông tư liên tịch 21/2013/TTLT",
    "ly_do": "Kiểm tra hiệu lực"
+  },
+  {
+   "pat": "11/2021/TT-BXD",
+   "ten": "Thông tư 11/2021/TT-BXD",
+   "ly_do": "Thông tư hướng dẫn xác định chi phí đầu tư xây dựng (không phải thí nghiệm chuyên ngành) – kiểm tra lại viện dẫn và văn bản thay thế theo NĐ 206/2026/NĐ-CP"
   }
  ]
 }

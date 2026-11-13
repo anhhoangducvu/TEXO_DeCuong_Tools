@@ -23,8 +23,18 @@ FONT = "Times New Roman"
 BODY = 13
 
 
+_LOADED = {}
+
+
 def load(name):
-    return json.load(open(os.path.join(DATA, name), encoding="utf-8"))
+    """Nạp dữ liệu; thư viện nội dung được làm sạch bằng bộ quy tắc sua_loi_noi_dung.json (chính tả, pháp lý cũ, trình bày)."""
+    if name not in _LOADED:
+        d = json.load(open(os.path.join(DATA, name), encoding="utf-8"))
+        if name in ("thu_vien_hang_muc.json", "noi_dung_nang_cao.json"):
+            from . import sua_loi
+            d = sua_loi.ap_dung(d)
+        _LOADED[name] = d
+    return copy.deepcopy(_LOADED[name])
 
 
 # =====================================================================  GỢI Ý THEO QUY MÔ
@@ -264,7 +274,7 @@ class Doc:
         self.d.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 
     # ---- khối đoạn lấy từ thư viện nội dung (mẫu Nâng cao)
-    def snippet(self, items, width=9026, skip_heads=(), h4=True):
+    def snippet(self, items, width=9071, skip_heads=(), h4=True):
         for kind, val in items:
             if kind == "t":
                 rows = val
@@ -327,10 +337,12 @@ def _cover(D, approval=False):
         K.cp(r.cells[2], b.upper() if a in ("DỰ ÁN", "CÔNG TRÌNH", "GÓI THẦU") else b, 12.5, b=a in ("DỰ ÁN", "CÔNG TRÌNH", "GÓI THẦU"))
     if approval:
         D.p("", after=36)
-        t = K.new_table(d, [4513, 4513], rows=4)
+        # Ô TVGS rộng hơn để tên Công ty nằm trọn một dòng, không rơi chữ "ĐẦU TƯ" xuống dòng dưới
+        t = K.new_table(d, [3300, 5771], rows=4)
         for r in t.rows:
             for c in r.cells:
                 K._tc_borders(c, {})
+                K.margins(c, 40, 40)
         K.cp(t.cell(0, 0), "CHỦ ĐẦU TƯ", 12.5, b=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=0)
         K.cp(t.cell(1, 0), "PHÊ DUYỆT", 12.5, b=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=0)
         K.cp(t.cell(0, 1), "ĐẠI DIỆN TƯ VẤN GIÁM SÁT", 12.5, b=True, align=WD_ALIGN_PARAGRAPH.CENTER, after=0)
@@ -341,8 +353,25 @@ def _cover(D, approval=False):
     else:
         D.p("", after=90)
     ngay = f.get("ngay") or dt.date.today()
-    D.p(f"{(f.get('noi_lap') or 'Hà Nội').upper()}, THÁNG {ngay.month:02d}/{ngay.year}", align=WD_ALIGN_PARAGRAPH.CENTER, b=True, size=12.5)
+    p = D.p(f"{(f.get('noi_lap') or 'Hà Nội').upper()}, THÁNG {ngay.month:02d}/{ngay.year}", align=WD_ALIGN_PARAGRAPH.CENTER, b=True, size=12.5)
+    _ghim_cuoi_trang(p)
     D.page_break()
+
+
+def _ghim_cuoi_trang(p, width=9071):
+    """Ghim đoạn (địa điểm, tháng lập) sát lề dưới trang bằng khung đoạn (framePr) – luôn ở cuối trang bìa/tờ lót,
+    không trôi lên sát khối chữ ký khi nội dung phía trên ngắn hay dài."""
+    pPr = p._p.get_or_add_pPr()
+    fp = OxmlElement("w:framePr")
+    for k, v in (("w", str(width)), ("wrap", "around"), ("hAnchor", "margin"), ("vAnchor", "margin"),
+                 ("xAlign", "center"), ("yAlign", "bottom")):
+        fp.set(qn("w:" + k), v)
+    ps = pPr.find(qn("w:pStyle"))
+    if ps is not None:
+        ps.addnext(fp)
+    else:
+        pPr.insert(0, fp)
+    return p
 
 
 def _toc(D):
@@ -414,7 +443,7 @@ def _phan_1(D, modules, LIB, PL):
              ("Loại, cấp công trình", (f.get("loai_ct_ten") or f.get("loai_ct", "")) + (f"; cấp {f.get('cap_ct')}" if f.get("cap_ct") else "")),
              ("Hợp đồng TVGS", f.get("hop_dong")), ("Thời gian thực hiện", f"{f['thoi_gian']} tháng" if f.get("thoi_gian") else ""),
              ("Đơn vị TVGS", "Công ty Cổ phần TEXO Tư vấn và Đầu tư")]
-    K.meta_table(D.d, [(a, b) for a, b in pairs if b], 9026, 0.32)
+    K.meta_table(D.d, [(a, b) for a, b in pairs if b], 9071, 0.32)
     D.p("", after=4)
     D.h(2, "Quy mô và giải pháp thiết kế chính")
     qm = []
@@ -770,7 +799,7 @@ def _module(D, m, idx):
                 widths = [3200, 3826, 2000][:ncol]
             else:
                 widths = [2600, 3626] + [int(2800 / (ncol - 2))] * (ncol - 2)
-            widths[-1] += 9026 - sum(widths)
+            widths[-1] += 9071 - sum(widths)
             D.table(widths, head, body, size=9.5)
         for bp in (m.get("bang_phu") or [])[:3]:
             rows = [[" ".join(c) for c in r] for r in bp["rows"]]
@@ -778,8 +807,8 @@ def _module(D, m, idx):
             rows = [r + [""] * (ncol - len(r)) for r in rows]
             if len(rows) < 2:
                 continue
-            w = [9026 // ncol] * ncol
-            w[-1] += 9026 - sum(w)
+            w = [9071 // ncol] * ncol
+            w[-1] += 9071 - sum(w)
             D.sub(bp.get("ten") or "Bảng tham chiếu")
             D.table(w, rows[0], rows[1:], size=9.5)
 
@@ -844,8 +873,8 @@ def generate(info, level, modules, staff, out_path):
     d = D.d
     s0 = d.sections[0]
     s0.page_width, s0.page_height = Twips(11906), Twips(16838)
-    s0.left_margin = s0.right_margin = Twips(1440)
-    s0.top_margin, s0.bottom_margin = Twips(1300), Twips(1080)
+    s0.left_margin, s0.right_margin = Twips(1701), Twips(1134)  # lề trên 20 mm, dưới 20 mm, trái 30 mm, phải 20 mm
+    s0.top_margin, s0.bottom_margin = Twips(1134), Twips(1134)
     _cover(D, approval=False)
     _cover(D, approval=True)
     _toc(D)

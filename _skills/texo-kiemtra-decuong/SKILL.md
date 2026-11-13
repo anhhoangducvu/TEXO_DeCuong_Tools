@@ -1,11 +1,11 @@
 ---
-name: texo-kiemtra-decuong
+name: "texo-kiemtra-decuong"
 description: Kiểm tra đề cương tư vấn giám sát (TVGS) do các Trung tâm/đoàn TEXO lập theo khung chuẩn rút từ đề cương các Trung tâm – đủ phần, đủ hạng mục giám sát chi tiết, căn cứ pháp lý 2026, lẫn tên dự án, lộ tên đơn vị nội bộ – và xuất phiếu kiểm tra Word P.KT. Cũng dùng khi anh Vũ muốn cập nhật khung chuẩn, danh mục pháp lý hoặc thêm đề cương mẫu mới vào bộ công cụ.
 ---
 
 # TEXO – Kiểm tra đề cương Tư vấn giám sát
 
-Xưng "em", gọi "anh Vũ", giọng tích cực, ngắn gọn. Skill này dùng chung lõi (`scripts/core`) với app Kiểm tra đề cương, app Tạo đề cương và skill `texo-lap-decuong` (lập đề cương). Bản gốc của lõi nằm trong bộ công cụ `D:\Ktra HS\De cuong\TEXO_DeCuong_Tools\core`; skill chỉ giữ bản sao do lệnh đồng bộ chép sang.
+Xưng "em", gọi "anh Vũ", giọng tích cực, ngắn gọn. Skill này dùng chung lõi (`scripts/core`) với app Kiểm tra đề cương, app Tạo đề cương và skill `texo-lap-decuong` (lập đề cương). Bản gốc của lõi nằm trong bộ công cụ `D:\My Agents\TEXO_De cuong\TEXO_DeCuong_Tools\core`; skill chỉ giữ bản sao do lệnh đồng bộ chép sang.
 
 ## Quy tắc chung
 1. **Pháp lý mới nhất:** công cụ chỉ dò theo danh mục văn bản đang theo dõi (`core/data/phap_ly.json`). Mọi phiếu, câu trả lời đều nhắc: *bắt buộc rà soát văn bản pháp luật, tiêu chuẩn viện dẫn bằng công cụ TEXO Legal Reviewer trước khi trình ký*.
@@ -23,7 +23,7 @@ python3 kiem_tra.py <file1> [file2 …] --ten "<tên dự án>" --cdt "<chủ đ
 - `--hang-muc`: mã hạng mục công trình thực tế (`references/khung_chuan.md`); bỏ trống thì công cụ tự suy từ phần quy mô.
 - File không có đuôi vẫn đọc được (tự nhận PDF/Word theo nội dung).
 
-Kết quả: điểm khung /100, kết luận, việc phải xử lý, 66 tiêu chí, bảng hạng mục, văn bản hết hiệu lực, chỗ trống chờ điền (bỏ qua ô trống trong biểu mẫu biên bản), nghi lẫn tên dự án/CĐT, tên đơn vị nội bộ.
+Kết quả: điểm khung /100, kết luận, việc phải xử lý, 66 tiêu chí, bảng hạng mục, văn bản hết hiệu lực (nhận cả cách ghi lệch chuẩn như "NĐ 136/2020/CP", "40/2013/ QH13"), lỗi chính tả – gõ phím đã biết (`core/data/sua_loi_noi_dung.json`), chỗ trống chờ điền (bỏ qua ô trống trong biểu mẫu biên bản), nghi lẫn tên dự án/CĐT, tên đơn vị nội bộ.
 
 **Bước 2 – Em đọc thẩm định những điểm công cụ không chấm được:**
 1. Quy mô, cấp công trình, giải pháp móng – kết cấu có khớp hợp đồng/HSTK; mẫu Cơ bản có tương xứng quy mô (cấp I trở lên, có hầm, ≥ 9 tầng, ≥ 20.000 m² sàn → nên Nâng cao).
@@ -32,6 +32,7 @@ Kết quả: điểm khung /100, kết luận, việc phải xử lý, 66 tiêu 
 4. Điều khoản pháp lý viện dẫn đúng văn bản 2026 (Luật XD 135/2025/QH15, NĐ 207/2026, NĐ 217/2026, NĐ 212/2026, TT 32/2026/TT-BXD); nhắc chạy TEXO Legal Reviewer cho danh mục tiêu chuẩn.
 5. Cam kết vượt hợp đồng hoặc bất lợi cho TEXO (thời hạn phản hồi quá ngắn, nhận trách nhiệm thay nhà thầu…).
 6. Bìa, tờ lót, mục lục, header/footer; tên dự án/CĐT thống nhất; không có tên Trung tâm.
+7. Khối chữ ký tờ lót phê duyệt: tên "CÔNG TY CỔ PHẦN TEXO TƯ VẤN VÀ ĐẦU TƯ" phải nằm trọn một dòng (hoặc tách có chủ đích "ĐẠI DIỆN" / "TƯ VẤN GIÁM SÁT"), không để rơi chữ lẻ như "ĐẦU TƯ" xuống dòng dưới; hai ô ký cân đối; dòng địa điểm, tháng lập ("HÀ NỘI, THÁNG …") nằm ở chân trang bìa và tờ lót, không sát khối chữ ký. Thấy lỗi thì ghi vào việc cần xử lý vì anh em hay in ký luôn không đọc lại.
 
 **Bước 3 – Phiếu:** phiếu Word do script tạo theo mẫu `texo-mau-trinhbay` (A4, header 3 cột, KPI, khối ký "TRƯỞNG PHÒNG / KỸ THUẬT"). Phát hiện ở Bước 2 bổ sung vào mục 1 của phiếu; render kiểm tra (`soffice --headless --convert-to pdf`) trước khi giao.
 
@@ -46,6 +47,7 @@ Chi tiết: `references/CAP_NHAT.md`. Tóm tắt:
 | Cập nhật tiêu chuẩn hạng mục | Sửa `tieu_chuan`, `tieu_chuan_tham_chieu` của hạng mục trong `thu_vien_hang_muc.json` (hoặc nguồn trong `_build`) → `dong-bo` |
 | Thêm đề cương mẫu mới | Chép vào thư mục `De cuong` → `quet` (chấm, ghi sổ nguồn) → chọn phần tốt hơn thư viện hiện tại → khai báo nguồn trong `_build/build_library.py` (hoặc `thu_vien_bo_sung.json` cho PDF) → `dung-lai` → `dong-bo` |
 | Thêm/đổi tiêu chí khung | Sửa `core/data/khung_tieuchi.json` → chạy thử trên vài đề cương → `dong-bo` |
+| Báo lỗi chính tả, văn bản cũ | Xác minh, quét lỗi cùng kiểu → thêm vào `core/data/sua_loi_noi_dung.json` (và `phap_ly.json` nếu là văn bản) → áp dụng vào thư viện → `dong-bo` (mục e trong `CAP_NHAT.md`) |
 
 Lệnh (trong thư mục bộ công cụ): `python _build/cap_nhat.py quet | dung-lai | dong-bo "nội dung" [patch|minor|major]`. Lệnh `dong-bo` tăng phiên bản, ghi `CHANGELOG.md`, chép lõi sang cả hai skill trong `_skills/` và đóng gói lại `texo-kiemtra-decuong.skill`, `texo-lap-decuong.skill`. Sau đó cập nhật `NHAT_KY.md` và gửi anh hai file .skill mới.
 

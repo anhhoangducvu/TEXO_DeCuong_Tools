@@ -1,7 +1,7 @@
 {
- "phien_ban": "1.2.0",
- "ngay": "2026-10-23",
+ "phien_ban": "1.3.2",
+ "ngay": "2026-11-14",
  "nguoi_xay_dung": "Hoàng Đức Vũ – Trưởng phòng Kỹ thuật, Công ty Cổ phần TEXO Tư vấn và Đầu tư",
  "so_de_cuong_nguon": 16,
- "ghi_chu": "Bộ dữ liệu dùng chung cho app Tạo đề cương, app Kiểm tra đề cương, skill texo-lap-decuong và texo-kiemtra-decuong."
+ "ghi_chu": "Bộ dữ liệu dùng chung cho app Tạo đề cương, app Kiểm tra đề cương, skill texo-lap-decuong và texo-kiemtra-decuong. 1.3.0: sửa lỗi chính tả/gõ phím và văn bản hết hiệu lực trong thư viện; thêm bộ quy tắc sua_loi_noi_dung.json dùng chung (tạo: tự làm sạch; kiểm tra: soi lỗi chính tả); nhận diện văn bản cũ ghi lệch chuẩn. 1.3.1: sửa khối chữ ký tờ lót phê duyệt – ô TVGS rộng hơn để tên Công ty nằm trọn một dòng."
 }

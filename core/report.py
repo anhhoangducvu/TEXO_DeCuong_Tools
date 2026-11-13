@@ -31,6 +31,9 @@ def viec_phai_lam(res):
     cl = res["chat_luong"]
     if cl["nghi_lan_ten"]:
         out.append(("high", "Thông tin dự án/Chủ đầu tư không thống nhất", "; ".join(cl["nghi_lan_ten"][:3]), "Rà soát, sửa đúng tên dự án/CĐT của gói thầu (nghi chép từ đề cương khác)"))
+    if cl.get("so_loi_chinh_ta"):
+        vd = "; ".join(f"{x['sai']} → {x['dung']}" for x in cl["loi_chinh_ta"][:4])
+        out.append(("mid", "Lỗi chính tả, gõ phím, văn bản cũ", f"{cl['so_loi_chinh_ta']} lỗi: {vd}", "Sửa theo bảng mục 5 trước khi trình ký"))
     if cl["so_cho_trong"]:
         out.append(("mid", "Còn chỗ trống, ký hiệu chờ điền", f"{cl['so_cho_trong']} vị trí", "Điền đầy đủ thông tin hoặc xóa"))
     out.sort(key=lambda x: {"high": 0, "mid": 1}.get(x[0], 2))
@@ -132,7 +135,9 @@ def make_report(res, meta_info, out_path, nguoi_kiem_tra="", nguoi_duyet=None, a
         ["Quy mô tài liệu", f"{cl['so_tu']:,} từ · {cl['so_tieu_de']} tiêu đề · {cl['so_bang']} bảng · {cl['so_hinh']} hình/sơ đồ".replace(",", ".")],
         ["Tên dự án tìm thấy", "; ".join(cl["ten_du_an"]) or "—"], ["Chủ đầu tư tìm thấy", "; ".join(cl["chu_dau_tu"]) or "—"],
         ["Nghi lẫn tên dự án/CĐT khác", "; ".join(cl["nghi_lan_ten"]) or "Không"],
-        ["Chỗ trống chờ điền", (f"{cl['so_cho_trong']} vị trí: " + " | ".join(cl["cho_trong"][:6])) if cl["so_cho_trong"] else "Không"]], size=9.5)
+        ["Chỗ trống chờ điền", (f"{cl['so_cho_trong']} vị trí: " + " | ".join(cl["cho_trong"][:6])) if cl["so_cho_trong"] else "Không"],
+        ["Lỗi chính tả, gõ phím đã biết", (f"{cl['so_loi_chinh_ta']} lỗi: " + " | ".join(f"{x['sai']} → {x['dung']}" for x in cl["loi_chinh_ta"][:12]))
+         if cl.get("so_loi_chinh_ta") else "Không phát hiện (theo danh mục lỗi đã biết)"]], size=9.5)
     K.spacer(d, 10)
     nd = nguoi_duyet or ("TRƯỞNG PHÒNG KỸ THUẬT", K.ORG["signer"])
     signers = ([("NGƯỜI KIỂM TRA", nguoi_kiem_tra)] if nguoi_kiem_tra else []) + [(nd[0].upper(), nd[1])]

@@ -378,5 +378,10 @@ def deep(x):
     if isinstance(x, dict): return {k: (deep(v) if k not in ("id", "tu_khoa") else v) for k, v in x.items()}
     return x
 lib = deep(lib)
+# làm sạch lỗi chính tả, gõ phím, văn bản pháp lý cũ theo bộ quy tắc dùng chung core/data/sua_loi_noi_dung.json
+import sys as _sys
+_sys.path.insert(0, ROOT)
+from core import sua_loi as _SL
+lib = _SL.ap_dung(lib)
 json.dump(dict(version="1.0.0", ghi_chu="Thư viện nội dung giám sát chi tiết theo công tác – rút từ đề cương các Trung tâm; đã thay căn cứ NĐ 06/2021, NĐ 175/2024 bằng văn bản 2026.", hang_muc=lib),
           open(_os.path.join(DATA, "thu_vien_hang_muc.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

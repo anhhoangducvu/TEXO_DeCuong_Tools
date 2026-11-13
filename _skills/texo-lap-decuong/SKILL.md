@@ -1,11 +1,11 @@
 ---
-name: texo-lap-decuong
+name: "texo-lap-decuong"
 description: Lập đề cương tư vấn giám sát (TVGS) cho dự án mới theo khung chuẩn TEXO – mẫu Cơ bản hoặc Nâng cao phù hợp quy mô công trình, tự chọn hạng mục giám sát chi tiết (nền móng, kết cấu, hoàn thiện, MEP, hạ tầng, trạm xử lý nước thải, chuyên đề), căn cứ pháp lý 2026 – xuất Word mang tên Công ty TEXO, có bìa, tờ lót phê duyệt, mục lục.
 ---
 
 # TEXO – Lập đề cương Tư vấn giám sát
 
-Xưng "em", gọi "anh Vũ". Skill dùng chung lõi (`scripts/core`) với app Tạo đề cương, app Kiểm tra đề cương và skill `texo-kiemtra-decuong`; bản gốc lõi ở `D:\Ktra HS\De cuong\TEXO_DeCuong_Tools\core`.
+Xưng "em", gọi "anh Vũ". Skill dùng chung lõi (`scripts/core`) với app Tạo đề cương, app Kiểm tra đề cương và skill `texo-kiemtra-decuong`; bản gốc lõi ở `D:\My Agents\TEXO_De cuong\TEXO_DeCuong_Tools\core`.
 
 ## Quy tắc bắt buộc
 1. **Đề cương là tài liệu phát hành cho Chủ đầu tư → chỉ mang tên Công ty Cổ phần TEXO Tư vấn và Đầu tư.** Không đưa tên Trung tâm, VPĐT, Phòng Kỹ thuật, ghi chú nội bộ vào bìa, header, footer, thân bài. Trung tâm lập (01, 02, 03, 05–12, 18 – không có Trung tâm 04) chỉ ghi ở tên file lưu nội bộ hoặc nhật ký.
@@ -30,6 +30,7 @@ Xưng "em", gọi "anh Vũ". Skill dùng chung lõi (`scripts/core`) với app T
 - Loại công trình: dân dụng cao tầng; thấp tầng – công cộng; công nghiệp; hạ tầng kỹ thuật; **trạm xử lý nước thải – hạ tầng môi trường** (bể công nghệ, thử kín bể, đường ống công nghệ, thiết bị, PLC/SCADA, chạy thử – vận hành thử, ITP); gói chuyên đề cọc, khoan khảo sát, trắc đạc – quan trắc.
 
 ## Cập nhật
+Khi anh báo lỗi chính tả, gõ phím, văn bản cũ trong đề cương: xác minh từng lỗi, quét lỗi cùng kiểu, thêm vào `core/data/sua_loi_noi_dung.json` (lõi tự làm sạch thư viện khi nạp) – xem mục e) trong `references/CAP_NHAT.md`.
 Khi anh nhờ cập nhật pháp lý, tiêu chuẩn, thêm đề cương mẫu: làm theo `references/CAP_NHAT.md` (lệnh `python _build/cap_nhat.py quet | dung-lai | dong-bo`), sau đó gửi lại hai file .skill mới.
 
 ## Lưu ý

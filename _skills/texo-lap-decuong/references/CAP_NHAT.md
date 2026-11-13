@@ -10,6 +10,7 @@ Mọi cập nhật do anh Vũ chỉ đạo, Claude thực hiện. Một bộ d�
 | `core/data/khung_tieuchi.json` | 66 tiêu chí khung chuẩn (B bắt buộc, N nâng cao) |
 | `core/data/thu_vien_hang_muc.json` | 60 hạng mục giám sát chi tiết (sinh tự động – không sửa tay, sửa ở nguồn) |
 | `core/data/noi_dung_nang_cao.json` | Các mục của mẫu Nâng cao (sinh tự động) |
+| `core/data/sua_loi_noi_dung.json` | Bộ quy tắc sửa lỗi chính tả, gõ phím, trình bày, văn bản pháp lý cũ (sai → đúng); dùng chung: app/skill Tạo tự làm sạch thư viện khi nạp, app/skill Kiểm tra soi lỗi trong đề cương đoàn lập |
 | `_build/so_de_cuong_nguon.json` | Sổ các đề cương nguồn đã quét: đơn vị, mẫu, điểm, đã đưa vào thư viện chưa |
 | `_build/thu_vien_bo_sung.json` | Hạng mục soạn tay (từ đề cương PDF không bóc bảng tự động được) |
 | `CHANGELOG.md` | Lịch sử phiên bản |
@@ -27,13 +28,20 @@ Mọi cập nhật do anh Vũ chỉ đạo, Claude thực hiện. Một bộ d�
 - `dong-bo "Cập nhật tiêu chuẩn …"`.
 
 **c) Có đề cương mẫu mới của Trung tâm**
-1. Chép vào `D:\Ktra HS\De cuong` (đặt tên bắt đầu bằng mã Trung tâm, ví dụ `TT18 …`; bộ nhiều file thì để chung một thư mục con).
+1. Chép vào `D:\My Agents\TEXO_De cuong` (đặt tên bắt đầu bằng mã Trung tâm, ví dụ `TT18 …`; bộ nhiều file thì để chung một thư mục con).
 2. `python _build/cap_nhat.py quet` → xem `_build/BAO_CAO_NGUON.md` (điểm, mẫu, văn bản 2026, mới).
 3. Claude đọc đề cương mới, so với thư viện: hạng mục nào tốt hơn/mới (bảng rõ ràng, căn cứ 2026, có điểm HP/WP) thì khai báo nguồn trong `MODULES` của `_build/build_library.py`; mục quản lý nâng cao tốt hơn thì khai báo trong `_build/build_snippets.py`.
 4. `dung-lai` → chạy thử app Tạo và app Kiểm tra → `dong-bo "Thêm đề cương … vào thư viện" minor`.
 5. Đánh dấu `da_dua_vao_thu_vien` trong sổ nguồn, ghi `NHAT_KY.md`.
 
 **d) Thêm/đổi tiêu chí khung chuẩn** – sửa `khung_tieuchi.json`, chạy thử trên các đề cương trong sổ nguồn, `dong-bo`.
+
+**e) Có người báo lỗi chính tả, gõ phím, văn bản cũ trong đề cương/thư viện**
+1. Đối chiếu từng lỗi với thư viện (đúng mới sửa); quét thêm lỗi cùng kiểu ở các hạng mục khác.
+2. Thêm mỗi lỗi một dòng vào `thay_cum` của `core/data/sua_loi_noi_dung.json` (`loai`: chinh_ta | phap_ly | trinh_bay; cụm `sai` được khớp trọn từ, nên ghi đủ chữ, đủ dài để không trùng chữ đúng). Văn bản hết hiệu lực thì thêm cả vào `het_hieu_luc` của `phap_ly.json`.
+3. Áp dụng ngay vào dữ liệu: `python -c "import json,core.sua_loi as S; [json.dump(S.ap_dung(json.load(open(f,encoding='utf-8'))),open(f,'w',encoding='utf-8'),ensure_ascii=False,indent=1) for f in ['core/data/thu_vien_hang_muc.json','core/data/noi_dung_nang_cao.json']]"` (chạy trong thư mục chứa `core`).
+4. `dung-lai` vẫn an toàn: lõi tự áp bộ quy tắc mỗi khi nạp thư viện, nên lỗi đã khai báo không quay lại dù đề cương nguồn chưa sửa.
+5. `dong-bo "Sửa lỗi chính tả …" patch` (chạy trong bộ công cụ – app dùng thẳng `core` nên tự có bản mới) → khởi động lại app, gửi lại hai file .skill.
 
 ## 3. Lệnh
 ```bash

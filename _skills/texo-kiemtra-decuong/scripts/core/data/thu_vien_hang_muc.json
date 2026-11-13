@@ -49,7 +49,7 @@
      "muc": "Thiết bị thi công",
      "tc": [
       "Các tiêu chuẩn thi công và nghiệm thu liên quan.",
-      "Thông tư số 53/2016/TT-BLĐTBXH"
+      "Thông tư số 36/2019/TT-BLĐTBXH"
      ],
      "hs": [
       "Biểu mẫu kiểm tra hiện trường.",
@@ -95,7 +95,7 @@
       "Chứng nhận an toàn hoặc Thẻ an toàn lao động theo quy định",
       "Bảo hiểm cho người lao động",
       "Quyết định thành lập Ban ATLĐ kèm bằng cấp chứng chỉ của thành viên",
-      "Kế hoạch tổng hợp về an toàn theo Phụ lục III Nghị định 06/2020/NĐ-CP",
+      "Kế hoạch tổng hợp về an toàn theo quy định của Nghị định số 207/2026/NĐ-CP",
       "Nhật ký an toàn lao động ghi tình hình sự cố, tai nạn, biện pháp khắc phục và các biện pháp kỹ thuật an toàn lao động vệ sinh môi trường, tình hình chấp hành an toàn lao động trong quá trình triển khai thi công",
       "Quyết định thành lập mạng lưới AT vệ sinh viên (mỗi tổ công nhân 1 người được huấn luyện an toàn nhóm 6)"
      ]
@@ -185,7 +185,7 @@
       "Các thiết bị thí nghiệm đặt cố định tại trạm thí nghiệm hiện trường phải được kiểm định/hiệu chuẩn lại theo quy định của pháp luật về đo lường trước khi tiến hành các thí nghiệm.",
       "Trước khi tiến hành các hoạt động thí nghiệm và trong thời gian 01 tháng sau khi kết thúc các hoạt động của trạm thí nghiệm hiện trường, tổ chức hoạt động thí nghiệm chuyên ngành xây dựng phải thông báo bằng văn bản cho Sở Xây dựng tại địa phương nơi thực hiện dự án/công trình xây dựng.",
       "e) Quản lý công tác thí nghiệm tại hiện trường:",
-      "pChủ đầu tư có trách nhiệm kiểm tra điều kiện năng lực, chấp thuận phòng thí nghiệm, trạm thí nghiệm hiện trường do nhà thầu đề xuất đảm bảo đúng quy định của pháp luật và đủ các phép thử thực hiện các thí nghiệm chuyên ngành xây dựng phục vụ quản lý chất lượng công trình trước khi tổ chức thi công xây dựng.",
+      "Chủ đầu tư có trách nhiệm kiểm tra điều kiện năng lực, chấp thuận phòng thí nghiệm, trạm thí nghiệm hiện trường do nhà thầu đề xuất đảm bảo đúng quy định của pháp luật và đủ các phép thử thực hiện các thí nghiệm chuyên ngành xây dựng phục vụ quản lý chất lượng công trình trước khi tổ chức thi công xây dựng.",
       "Nhà thầu có trách nhiệm lập kế hoạch thí nghiệm theo quy định tại khoản 3 Điều này trình Chủ đầu tư chấp thuận trước khi tổ chức thi công xây dựng công trình",
       "Nhà thầu thí nghiệm có trách nhiệm thực hiện công tác thí nghiệm theo đúng kế hoạch thí nghiệm đã được chủ đầu tư chấp thuận. Trường hợp có thay đổi, điều chỉnh, nhà thầu lập kế hoạch thí nghiệm điều chỉnh trình chủ đầu tư chấp thuận trước khi tổ chức thực hiện."
      ]
@@ -248,7 +248,7 @@
    ],
    "tieu_chuan_tham_chieu": [],
    "tieu_chuan": [
-    "QCVN 16:2019",
+    "QCVN 16:2023/BXD",
     "TCVN 1651:2018",
     "QCVN 07",
     "TCVN 4453:1995",
@@ -264,11 +264,10 @@
      "hs": [],
      "pp": [
       "Luật Chất lượng sản phẩm hàng hóa",
-      "Nghị định 09/2021/NĐ-CP về quản lý vật liệu xây dựng",
-      "QCVN 16:2019-BXD. Về sản phẩm hàng hóa, vật liệu xây dựng",
-      "Thông tư 28/2012/TT-BKHCN Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật",
-      "Thông tư 02/2017/TT-BKHCN sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật",
-      "Nghị định số 105/2025/NĐ-CP hướng dẫn Luật Phòng cháy và chữa cháy và Luật Phòng cháy và chữa cháy sửa đổip",
+      "Nghị định số 209/2026/NĐ-CP về quản lý vật liệu xây dựng",
+      "QCVN 16:2023/BXD. Về sản phẩm hàng hóa, vật liệu xây dựng",
+      "Thông tư số 14/2026/TT-BKHCN Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật",
+      "Nghị định số 105/2025/NĐ-CP hướng dẫn Luật Phòng cháy và chữa cháy và Luật Phòng cháy và chữa cháy sửa đổi",
       "Các TCVN có liên quan đến các vật liệu, sản phẩm hàng hóa xây dựng hiện hành",
       "Các TCVN có liên quan đến thí nghiệm vật liệu",
       "Và các văn bản khác có liên quan"
@@ -279,7 +278,7 @@
      "muc": "Hợp chuẩn, hợp quy",
      "tc": [
       "Luật chất lượng sản phẩm hàng hóa",
-      "QCVN 16:2019/BXD",
+      "QCVN 16:2023/BXD",
       "Thông tư 28:2012/BKHCN"
      ],
      "hs": [
@@ -288,13 +287,13 @@
      "pp": [
       "HỢP CHUẨN",
       "Sản phẩm, hàng hóa vật liệu xây dựng sản xuất trong nước đưa ra thị trường phải đạt tiêu chuẩn đã công bố.",
-      "Những sản phẩm hàng hóa vật liệu xây dựng chưa có tiêu chuẩn quốc gia thì nhà sản xuất phải có trách nhiệm xây dựng và công bố tiêu chuẩn cở sở theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.",
+      "Những sản phẩm hàng hóa vật liệu xây dựng chưa có tiêu chuẩn quốc gia thì nhà sản xuất phải có trách nhiệm xây dựng và công bố tiêu chuẩn cơ sở theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.",
       "Hồ sơ hợp chuẩn gồm:",
       "Chứng nhận hợp chuẩn",
       "Công bố hợp chuẩn",
       "Thông báo tiếp nhận hồ sơ công bố hợp chuẩn",
       "HỢP QUY",
-      "Bắt buộc với các sản phẩm, hàng hóa vật liệu xây dựng nhóm 2 quy định trong bảng 1 QCVN 16/2019/BXD",
+      "Bắt buộc với các sản phẩm, hàng hóa vật liệu xây dựng nhóm 2 quy định trong bảng 1 QCVN 16:2023/BXD",
       "Giấy tờ hợp quy yêu cầu gồm:",
       "Chứng nhận hợp quy",
       "Công bố hợp quy",
@@ -316,7 +315,7 @@
       "Giấy tờ hợp chuẩn, hợp quy nếu thuộc diện bắt buộc",
       "Với hàng nhập khẩu kiểm tra thêm CO, Pakinglist, Billading (vận đơn), tờ khai hải quan, chứng thư giám định nếu yêu cầu",
       "Kiểm tra khối lượng nhập thực tế so với phiếu giao hàng",
-      "Kiểm tra tình trạng hòa hóa thực tế, chủng loại, thông số kỹ thuật theo Phê duyệt",
+      "Kiểm tra tình trạng hàng hóa thực tế, chủng loại, thông số kỹ thuật theo Phê duyệt",
       "Lập biên bản lấy mẫu để thí nghiệm theo “kế hoạch thí nghiệm” được CĐT phê duyệt.",
       "Kiểm tra kết quả thí nghiệm",
       "Đồng ý cho vật tư vào sử dụng khi thỏa mãn các điều kiện kiểm tra nêu trên."
@@ -330,7 +329,7 @@
       "QCVN 07/2019/BKHCN"
      ],
      "hs": [
-      "XXác nhận",
+      "Xác nhận",
       "Checklist kiểm tra vật liệu đầu vào",
       "Biên bản lấy mẫu thép hiện trường",
       "Biên bản chứng kiến thí nghiệm",
@@ -341,7 +340,7 @@
       "Cốt thép chịu lực CB300-V có Ry=3000kg/cm2",
       "Cốt thép chịu lực CB400-V có Ry=4000kg/cm2",
       "Cốt thép chịu lực CB500-V có Ry=5000 kg/cm2",
-      "Cốt thép tròn trơn có cường độ đàn hồi thấp nhât 240Mpa.",
+      "Cốt thép tròn trơn có cường độ đàn hồi thấp nhất 240Mpa.",
       "Thép làm thanh chốt (nếu có)",
       "Thép chốt cho khe lún và khe co giãn trong bê tông sẽ bao gồm thép tròn trơn, cường độ bé nhất 295N/mm2 được mạ kẽm theo chỉ báo có trong bản vẽ được phê duyệt của thiết kế.",
       "Các thanh chốt phải thẳng suốt, tự do từ gờ và những nơi không đều khác đồng thời bản thân chúng sẽ trượt.",
@@ -363,7 +362,7 @@
       "TCVN 9395:2012"
      ],
      "hs": [
-      "XXác nhận",
+      "Xác nhận",
       "Biên bản kiểm tra trạm trộn",
       "Biên bản lấy mẫu vật liệu cát, đá, xi, phụ gia, nước …",
       "Biểu chứng kiến duy trì sụt",
@@ -389,7 +388,7 @@
       "Kiểm tra Phiếu bê tông: Cấp độ bền bê tông, thời gian đạt mác, nhà sản xuất, cấp phối, phụ gia, thời gian kể từ lúc bê tông trộn xong đến khi tới công trường phải phù hợp với hồ sơ thiết kế, hồ sơ đơn vị cung cấp bê tông và cấp phối đã được phê duyệt.",
       "Sau khi kiểm tra Phiếu bê tông, sự nguyên vẹn của nẹp chì thì xả bê tông ra xe rùa. Kiểm tra kích thước cốt liệu, màu sắc không bất thường, bê tông đồng nhất. Sau đó kiểm tra độ sụt theo quy định trong TCVN 3106:2022",
       "Đặt côn lên nền ấm, cứng, phẳng, không thấm nước. Đứng lên gối đặt chân để giữ cho côn cố định trong cả quá trình đổ và đầm hỗn hợp bê tông trong côn.",
-      "Đỗ hỗn hợp bê tông qua phễu vào côn làm 3 lớp, mỗi lớp chiếm khoảng một phần ba chiều cao của côn. Sau khi đổ từng lớp dùng thanh thép tròn chọc đều trên toàn mặt hỗn hợp bê tông từ xung quanh vào giữa. Khu dùng côn N1 mỗi lớp chọc 25 lần, khi dùng côn N2 mỗi lớp chọc 56 lần. Lớp đầu chọc suốt chiều sâu, các lớp sau chọc xuyên sâu vào lớp trước 2-3cm. Ở lớp thứ ba, vừa chọc vừa cho thêm để giữ mức hỗn hợp luôn đầy hơn miệng côn.",
+      "Đổ hỗn hợp bê tông qua phễu vào côn làm 3 lớp, mỗi lớp chiếm khoảng một phần ba chiều cao của côn. Sau khi đổ từng lớp dùng thanh thép tròn chọc đều trên toàn mặt hỗn hợp bê tông từ xung quanh vào giữa. Khu dùng côn N1 mỗi lớp chọc 25 lần, khi dùng côn N2 mỗi lớp chọc 56 lần. Lớp đầu chọc suốt chiều sâu, các lớp sau chọc xuyên sâu vào lớp trước 2-3cm. Ở lớp thứ ba, vừa chọc vừa cho thêm để giữ mức hỗn hợp luôn đầy hơn miệng côn.",
       "Chọc xong lớp thứ ba, nhấc phễu ra, lấy tay gạt phẳng miệng côn và dọn sạch xung quanh đáy côn. Dùng tay ghì chặt côn xuống nền rồi thả chân khỏi gối đặt chân. Từ từ nhấc côn thẳng đứng trong khoảng thời gian 5÷10 giây.",
       "Đặt côn sang bên cạnh khối hỗn hợp vừa tạo hình và đo chênh lệch chiều cao giữa miệng côn với điểm cao nhất của khối hỗn hợp chính xác tới 0,5 cm.",
       "Thời gian thử tính từ lúc bắt đầu đổ hỗn hợp bê tông vào côn cho tới thời điểm nhấc côn khỏi khối hỗn hợp phải được tiến hành không ngắt quãng và khống chế không quá 150 giây.",
@@ -420,14 +419,14 @@
      ],
      "hs": [],
      "pp": [
-      "Tất cả các vật tư thiết bị có tên trong “Danh mục phương tiện phòng cháy chữa cháy” theo quy định tại Nghị định số 105/2025/NĐ-CP đều phải được kiểm định về chất lượng, chủng loại, mẫu mã theo quy định của Bộ Công an. (thường là cục cảnh sát phòng cháy chữa cháy, hoặc Trường đại học PCCC Bộ Công an – là cơ quan có quyền thẩm định các trang thiết vị này)",
+      "Tất cả các vật tư thiết bị có tên trong “Danh mục phương tiện phòng cháy chữa cháy” theo quy định tại Nghị định số 105/2025/NĐ-CP đều phải được kiểm định về chất lượng, chủng loại, mẫu mã theo quy định của Bộ Công an. (thường là cục cảnh sát phòng cháy chữa cháy, hoặc Trường đại học PCCC Bộ Công an – là cơ quan có quyền thẩm định các trang thiết bị này)",
       "Các vật tư thiết bị có yêu cầu về khả năng chịu lửa như ống thông gió, ống gen, cáp điện của hệ thống PCCC, cửa chống cháy... đều phải được kiểm định, thí nghiệm chỉ tiêu giới hạn chịu lửa được tiến hành bởi cơ quan có thẩm quyền đạt yêu cầu mới được nghiệm thu đưa và sử dụng.",
-      "Các doanh nghiệp, cơ sở sản xuất, lắp ráp phương tiện, thiết bị phòng cháy và chữa cháy phải đảm bảo các điều kiện về pháp lý theo Điều 41 NĐ 136/2020/CP"
+      "Các doanh nghiệp, cơ sở sản xuất, lắp ráp phương tiện, thiết bị phòng cháy và chữa cháy phải đảm bảo các điều kiện về pháp lý theo Nghị định số 105/2025/NĐ-CP"
      ]
     },
     {
      "nhom": "",
-     "muc": "Vật liệu sản xuất theo yêu cầu riêng của thết kế và đặc thù dự án",
+     "muc": "Vật liệu sản xuất theo yêu cầu riêng của thiết kế và đặc thù dự án",
      "tc": [],
      "hs": [],
      "pp": [
@@ -435,7 +434,7 @@
       "Bước 1: Kiểm tra năng lực cơ sở sản xuất về trang thiết bị, nhân lực, công suất đáp ứng …) trên hồ sơ năng lực",
       "Bước 2: Thăm kiểm tra đánh giá năng lực thực tế của cơ sở sản xuất, lấy mẫu vật liệu thí nghiệm đầu vào trực tiếp tại cơ sở",
       "Bước 3: Trong quá trình sản xuất cho dự án, tùy vào quy trình và thỏa thuận ban đầu đã thống nhất giữa các bên sẽ đi thăm kiểm tra xưởng từ 1 đến 2 lần ngẫu nhiên không định trước, nhằm đảm bảo tính khách quan và tăng mức độ kiểm soát ngay cả khi chất lượng sản phẩm do cơ sở sản xuất hoàn toàn chịu trách nhiệm.",
-      "Bước 4: Quá trình kiểm tra cơ sở sản xuất phải được lập thành biên bản khi kết thúc, có ý kiến, chữ ký xác nhận đầy đủ của các bên tham gia. Căn cứ kết quả kiểm tra TVGS sẽ ra báo cáo đánh giá năng lực cơ sở sản xuất đó có đảm bảo các yêu cầu và phù hợp đề cung cấp sản phẩm cho dự án hay không, trình Chủ đầu tư quyết định"
+      "Bước 4: Quá trình kiểm tra cơ sở sản xuất phải được lập thành biên bản khi kết thúc, có ý kiến, chữ ký xác nhận đầy đủ của các bên tham gia. Căn cứ kết quả kiểm tra TVGS sẽ ra báo cáo đánh giá năng lực cơ sở sản xuất đó có đảm bảo các yêu cầu và phù hợp để cung cấp sản phẩm cho dự án hay không, trình Chủ đầu tư quyết định"
      ]
     },
     {
@@ -504,7 +503,7 @@
       "Bảo đảm độ chính xác về tim, cốt của tất cả các công trình trong dự án, các hạng mục trong công trình, cấu kiện trong công trình.",
       "Công tác trắc địa phải phối hợp chặt chẽ với các phần thi công khác để đảm bảo việc định vị với công trình một cách chính xác.",
       "Kiểm tra công tác trắc địa hoàn công so với bản vẽ thi công ban đầu đã được duyệt.",
-      "Theo dõi chặt chẽ việc thi công lắp dựng các các cấu kiện đòi hỏi độ chính xác cao."
+      "Theo dõi chặt chẽ việc thi công lắp dựng các cấu kiện đòi hỏi độ chính xác cao."
      ]
     },
     {
@@ -513,7 +512,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Để thi công các công trình nhà thầu thi công cần có bộ phận kỹ thuật làm công tác trắc địa gồm các cán bộ kỹ thuật được đào tạo đúng chuyên ngành và có đủ kinh nghiệm để thực hiện các công tác Trắc địa hiện trường. Tổ chức TVSG cần điều tra, xác định tính phù hợp của nhà thầu thi công theo các tiêu chuẩn hịên hành của Nhà nước về pháp nhân nhà thầu thi công và theo hồ sơ dự thầu của nhà thầu."
+      "Để thi công các công trình nhà thầu thi công cần có bộ phận kỹ thuật làm công tác trắc địa gồm các cán bộ kỹ thuật được đào tạo đúng chuyên ngành và có đủ kinh nghiệm để thực hiện các công tác Trắc địa hiện trường. Tổ chức TVGS cần điều tra, xác định tính phù hợp của nhà thầu thi công theo các tiêu chuẩn hiện hành của Nhà nước về pháp nhân nhà thầu thi công và theo hồ sơ dự thầu của nhà thầu."
      ]
     },
     {
@@ -522,7 +521,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Việc kiểm tra các trang thiết bị của nhà thầu nhằm đảm khi mang vào sử dụng trên công trường chúng phải đáp ứng những chỉ tiêu kỹ thuật cần thiết. Việc kiểm chứng các thiết bị được thực hiện thông qua chứng chỉ kiểm định. Tất cả các thiết bị khi mang vào sử dụng trên công trình phải có chứng chỉ kiểm định còn hiệu lực. Chứng chỉ kiểm định các thiết bị phải do các cơ quan có chức năng kiểm định và có đầy đủ điều kiện kiểm định cấp. Việc kiểm tra thiết bị của nhà thầu cán bộ giám sát có thể tiến hành kiểm tra đột xuất không theo định kỳ để làm giảm sai số do máy đo gây ra."
+      "Việc kiểm tra các trang thiết bị của nhà thầu nhằm bảo đảm khi mang vào sử dụng trên công trường chúng phải đáp ứng những chỉ tiêu kỹ thuật cần thiết. Việc kiểm chứng các thiết bị được thực hiện thông qua chứng chỉ kiểm định. Tất cả các thiết bị khi mang vào sử dụng trên công trình phải có chứng chỉ kiểm định còn hiệu lực. Chứng chỉ kiểm định các thiết bị phải do các cơ quan có chức năng kiểm định và có đầy đủ điều kiện kiểm định cấp. Việc kiểm tra thiết bị của nhà thầu cán bộ giám sát có thể tiến hành kiểm tra đột xuất không theo định kỳ để làm giảm sai số do máy đo gây ra."
      ]
     },
     {
@@ -531,7 +530,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Trước khi triển khai các hạng mục từ bản vẽ thiết kế ra hiện trường cán bộ kỹ thuật của nhà thầu phải lập biện pháp thi công cụ thể để trình cho TVSG. Cán bộ KT giám sát sẽ xem xét các vấn đề sau:",
+      "Trước khi triển khai các hạng mục từ bản vẽ thiết kế ra hiện trường cán bộ kỹ thuật của nhà thầu phải lập biện pháp thi công cụ thể để trình cho TVGS. Cán bộ KT giám sát sẽ xem xét các vấn đề sau:",
       "Xem xét dung sai của hạng mục cần bố trí. Với các hạng mục đặc biệt dung sai có thể được ghi ngay trên bản vẽ trong hồ sơ thiết kế. Đối với các hạng mục thông thường dung sai thường được cho trong các tiêu chuẩn chuyên ngành.",
       "Xem xét sơ đồ triển khai có đủ điều kiện để đảm bảo việc triển khai với dung sai cho phép hay không.",
       "Xem xét thiết bị sử dụng để triển khai."
@@ -549,7 +548,7 @@
       "Xem xét các kết quả đo khi triển khai lưới chêm dày.",
       "Xem xét kết quả bình sai lưới chêm dày.",
       "Xem xét cấu tạo các mốc và vị trí của chúng ngoài hiện trường.",
-      "Giám sát quá trình thi công ngoài hiện trường: Cán bộ kỹ thuật có thể trực tiếp giám sát qua trình triển khai bản vẽ thiết kế ra hiện trường hoặc có thể chỉ kiểm tra kết quả cuối cùng là vị trí của các hạng mục ngoài mặt bằng"
+      "Giám sát quá trình thi công ngoài hiện trường: Cán bộ kỹ thuật có thể trực tiếp giám sát quá trình triển khai bản vẽ thiết kế ra hiện trường hoặc có thể chỉ kiểm tra kết quả cuối cùng là vị trí của các hạng mục ngoài mặt bằng"
      ]
     }
    ],
@@ -590,12 +589,12 @@
       "a) Máy trắc đạc:",
       "Máy trắc đạc phải có kiểm định của đơn vị có năng lực và phải dán tem kiểm định trên thân máy",
       "b) Máy ép cọc:",
-      "Công trình sửa dụng cọc bê tông ly tâm đường kính D350, máy ép cọc cần thoả mãn các yêu cầu sau:",
+      "Công trình sử dụng cọc bê tông ly tâm đường kính D350, máy ép cọc cần thoả mãn các yêu cầu sau:",
       "Công suất của thiết bị không nhỏ hơn 1.4 lần lực ép lớn nhất do thiết kế quy định;",
       "Lực ép của thiết bị phải đảm bảo tác dụng đúng dọc trục tâm cọc khi ép từ đỉnh cọc và tác dụng đều lên các mặt bên cọc khi ép ôm, không gây ra lực ngang lên cọc;",
       "Thiết bị phải có chứng chỉ kiểm định và bảng hiệu chỉnh lực kèm theo (đồng hồ, cần cẩu);",
       "Thiết bị ép cọc phải đảm bảo điều kiện vận hành và an toàn lao động khi thi công.",
-      "Lựa chọn hệ phản lực cho công tác ép cọc phụ thuộc vào đặc điểm hiện trường, đặc điểm công trình, đặc điểm địa chất công trình, năng lực của thiết bị ép. Có thể tạo ra hệ phản lực bằng neo xuắn chặt trong lòng đất, hoặc dàn chất tải bằng vật nặng trên mặt đất khi tiến hành ép trước, hoặc đặt sẵn các neo trong móng công trình để dùng trọng lượng công trình làm hệ phản lực trong phương pháp ép sau. Trong mọi trường hợp tổng trọng lượng hệ phản lực không nên nhỏ hơn 1.1 lần lực ép lớn nhất do thiết kế quy định. Khi sử dụng hệ phản lực bằng cách xếp các đối trọng, phải kiểm tra neo giữ an toàn các đối trọng.",
+      "Lựa chọn hệ phản lực cho công tác ép cọc phụ thuộc vào đặc điểm hiện trường, đặc điểm công trình, đặc điểm địa chất công trình, năng lực của thiết bị ép. Có thể tạo ra hệ phản lực bằng neo xoắn chặt trong lòng đất, hoặc dàn chất tải bằng vật nặng trên mặt đất khi tiến hành ép trước, hoặc đặt sẵn các neo trong móng công trình để dùng trọng lượng công trình làm hệ phản lực trong phương pháp ép sau. Trong mọi trường hợp tổng trọng lượng hệ phản lực không nên nhỏ hơn 1.1 lần lực ép lớn nhất do thiết kế quy định. Khi sử dụng hệ phản lực bằng cách xếp các đối trọng, phải kiểm tra neo giữ an toàn các đối trọng.",
       "c) Máy hàn mối nối cọc:",
       "Máy hàn mối nối cọc phải có giấy kiểm định của đơn vị có năng lực",
       "d) Bảo hiểm máy móc thiết bị."
@@ -649,7 +648,7 @@
       "Kiểm tra kích thước cọc",
       "Kiểm tra chứng chỉ xuất xưởng.",
       "Kết quả thí nghiệm bê tông cọc.",
-      "Kiểm tra kết quá thí nghiệm uốn cọc theo từng lô sản xuất",
+      "Kiểm tra kết quả thí nghiệm uốn cọc theo từng lô sản xuất",
       "Kiểm tra thời gian đúc đã đủ cường độ để tiến hành thi công ép cọc."
      ]
     },
@@ -797,13 +796,13 @@
       "Kiểm tra đề cương thí nghiệm phù hợp với yêu cầu thí nghiệm của đơn vị thiết kế và tiêu chuẩn TCVN 9393:2012",
       "Kiểm tra bề mặt cọc, mặt bằng kê gối đỡ tải thí nghiệm:",
       "Kiểm tra thiết bị thí nghiệm. Bao gồm:",
-      "Kích thủy lực: Giá trị lực kích tối đa và ồn định, kiểm định chất lượng còn hiệu lực (Tổng giá trị lực kích đạt 140% giá trị tải thí nghiệm).",
-      "Đồng hồ đo chuyền vị: Các đồng hồ đo chuyển vị phải đảm bảo độ chính xác 0,01mm và chiều dài tối đa là 50 mm",
+      "Kích thủy lực: Giá trị lực kích tối đa và ổn định, kiểm định chất lượng còn hiệu lực (Tổng giá trị lực kích đạt 140% giá trị tải thí nghiệm).",
+      "Đồng hồ đo chuyển vị: Các đồng hồ đo chuyển vị phải đảm bảo độ chính xác 0,01mm và chiều dài tối đa là 50 mm",
       "Máy thủy bình: Máy thủy bình phục vụ công tác kiểm tra chuyển vị của hệ dầm chuẩn.",
       "Câu lắp đỡ tải.",
       "Kiểm tra hệ dầm, tải thí nghiệm, gối kê, cọc chuẩn và dầm chuẩn: Phải tuân thủ đề cương được duyệt và tiêu chuẩn thí nghiệm.",
       "Kiểm tra các bảng biểu ghi chép của nhà thầu thí nghiệm: Phải tuân thủ đề cương được duyệt và tiêu chuẩn thí nghiệm.",
-      "Ghi chú: Kết quả kiểm tra sẽ được thể hiện trên biên bản kiêm tra được các bên xác nhận làm cơ sở tiễn hành thí nghiệm."
+      "Ghi chú: Kết quả kiểm tra sẽ được thể hiện trên biên bản kiểm tra được các bên xác nhận làm cơ sở tiến hành thí nghiệm."
      ]
     },
     {
@@ -814,7 +813,7 @@
      "pp": [
       "Kiểm tra công tác làm bằng bằng, gối kê và lắp dựng hệ tải trọng.",
       "Giám sát nhà thầu thực hiện quy trình thí nghiệm tuân thủ theo đề cương thí nghiệm và TCVN 9393:2012 Cọc - Phương pháp thí nghiệm hiện trường: Ghi chép số liệu theo bảng biểu khách quan, trung thực, cấp gia tải đúng đề cương được duyệt. Xác nhận các số liệu trong quá trình thí nghiệm",
-      "Kiểm tra công tác an toàn của hệ gia tải, gối kê: Kiểm tra độ nghiêng, biến đạng của nền đất để đảm bảo an toàn trong quá trình thí nghiệm.",
+      "Kiểm tra công tác an toàn của hệ gia tải, gối kê: Kiểm tra độ nghiêng, biến dạng của nền đất để đảm bảo an toàn trong quá trình thí nghiệm.",
       "Kiểm tra chuyển vị của hệ dầm chuẩn: Kiểm tra dịch chuyển của đầm chuẩn để phán ánh chính xác kết quả thí nghiệm.",
       "Ghi chú: Các công tác thí nghiệm trên hiện trường sẽ được lập thành biên bản và là cơ sở để kiểm tra báo cáo kết quả thí nghiệm sau này."
      ]
@@ -872,7 +871,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Kiểm soát định vị, độ thẳng đứng, đường kính, chiều sâu, địa tầng và nhật ký khoan. Kiểm tra casing, mực dung dịch, trình tự khoan cọc lân cận,báo cáo khi địa tầng hoặc hiện trạng khác hồ sơ."
+      "Kiểm soát định vị, độ thẳng đứng, đường kính, chiều sâu, địa tầng và nhật ký khoan. Kiểm tra casing, mực dung dịch, trình tự khoan cọc lân cận, báo cáo khi địa tầng hoặc hiện trạng khác hồ sơ."
      ]
     },
     {
@@ -1108,7 +1107,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Tổ chức nghiệm thu liên ngành trước đổ: xác nhận panel đúng vị trí/kích thước/chiều sâu; kết quả làm sạch đáy và dung dịch sau khi hạ lồng; lồng thép, Stop-End/CWS, ống siêu âm và chi tiết chôn sẵn đúng hồ sơ. Kiểm tra khối lượng, cấp phối và tính công tác bê tông theo hồ sơ được duyệt; năng lực trạm, số xe,thời gian vận chuyển, thiết bị dự phòng và khả năng đổ liên tục. Kiểm tra ống tremie kín nước, đường kính, chiều dài, mối nối, phễu và cao độ đầu ống; lập biên bản điểm dừng trước đổ."
+      "Tổ chức nghiệm thu liên ngành trước đổ: xác nhận panel đúng vị trí/kích thước/chiều sâu; kết quả làm sạch đáy và dung dịch sau khi hạ lồng; lồng thép, Stop-End/CWS, ống siêu âm và chi tiết chôn sẵn đúng hồ sơ. Kiểm tra khối lượng, cấp phối và tính công tác bê tông theo hồ sơ được duyệt; năng lực trạm, số xe, thời gian vận chuyển, thiết bị dự phòng và khả năng đổ liên tục. Kiểm tra ống tremie kín nước, đường kính, chiều dài, mối nối, phễu và cao độ đầu ống; lập biên bản điểm dừng trước đổ."
      ]
     },
     {
@@ -1193,9 +1192,9 @@
       "Đường hàn không thẳng, bề mặt mối hàn bị rỗ, không ngấu, quá nhiệt, có chảy loang, lẫn xỉ, bị nứt...",
       "1.3.3 Chỉ được tiếp tục hạ cọc khi đã kiểm tra mối nối hàn không có khuyết tật.",
       "1.4 Vật liệu cọc",
-      "1.4.1 Bê tông cọc phải đảm bảo mác thiết kế, cọc được nghiệm thu theo tiêu chuẩn TCVN 4453 : 1995",
+      "1.4.1 Bê tông cọc phải đảm bảo mác thiết kế, cọc được nghiệm thu theo tiêu chuẩn TCVN 4453:1995",
       "1.4.2 Kiểm tra cọc tại nơi sản xuất gồm các khâu sau đây:",
-      "Vật liệu :",
+      "Vật liệu:",
       "Chứng chỉ xuất xưởng của cốt thép, xi măng; kết quả thí nghiệm kiểm tra mẫu thép, và cốt liệu cát, đá (sỏi), xi măng, nước theo các tiêu chuẩn hiện hành;。",
       "Cấp phối bê tông;",
       "Kết quả thí nghiệm mẫu bê tông;",
@@ -1217,7 +1216,7 @@
       "Thiết bị phải có chứng chỉ kiểm định thời hiệu về đồng hồ đo áp và các van dầu cùng bảng hiệu chỉnh kích do cơ quan có thẩm quyền cấp;",
       "Thiết bị ép cọc phải đảm bảo điều kiện vận hành và an toàn lao động khi thi công ：",
       "Kiểm tra việc lựa chọn hệ phản lực cho công tác ép cọc:",
-      "Công tác lựa chọn hệ phản lực cho công tác ép cọc phụ thuộc vào đặc điểm hiện trường, đặc điểm công trình, đặc điểm địa chất công trình, năng lực của thiết bị ép. Có thể tạo ra hệ phản lực bằng neo xuắn chặt trong lòng đất, hoặc dàn chất tải bằng vật nặng trên mặt đất khi tiến hành ép trước, hoặc đặt sẵn các neo trong móng công trình để dùng trọng lượng công trình làm hệ phản lực trong phương pháp ép sau. Trong mọi trường hợp tổng trọng lượng hệ phản lực không nên nhỏ hơn 1.1 lần lực ép lớn nhất do thiết kế quy định.",
+      "Công tác lựa chọn hệ phản lực cho công tác ép cọc phụ thuộc vào đặc điểm hiện trường, đặc điểm công trình, đặc điểm địa chất công trình, năng lực của thiết bị ép. Có thể tạo ra hệ phản lực bằng neo xoắn chặt trong lòng đất, hoặc dàn chất tải bằng vật nặng trên mặt đất khi tiến hành ép trước, hoặc đặt sẵn các neo trong móng công trình để dùng trọng lượng công trình làm hệ phản lực trong phương pháp ép sau. Trong mọi trường hợp tổng trọng lượng hệ phản lực không nên nhỏ hơn 1.1 lần lực ép lớn nhất do thiết kế quy định.",
       "2.3 Kiểm tra trong khi thi công:",
       "2.3.1 Kiểm tra định vị và thăng bằng của thiết bị ép cọc gồm các khâu:",
       "Trục của thiết bị tạo lực phải trùng với tim cọc;",
@@ -1242,9 +1241,9 @@
       "Trong đó: Lmin, Lmax là chiều dài ngắn nhất và dài nhất của cọc được thiết kế dự báo theo tình hình biến động của nền đất trong khu vực, m;",
       "Lc là chiều dài cọc đã hạ vào trong đất so với cốt thiết kế;",
       "b) Lực ép trước khi dừng trong khoảng (Pep) min (Pep)KT (Pep)max",
-      "Trong đó : (Pep) min là lực ép nhỏ nhất do thiết kế quy định;",
+      "Trong đó: (Pep) min là lực ép nhỏ nhất do thiết kế quy định;",
       "(Pep)max là lực ép lớn nhất do thiết kế quy định;",
-      "(Pep)KT là lực ép tại thời điểm kết thúc ép cọc, trị số này được duy trì với vận tốc xuyên không quá 1cm/s trên chiều sâu không ít hơn ba lần đường kính ( hoặc cạnh) cọc.",
+      "(Pep)KT là lực ép tại thời điểm kết thúc ép cọc, trị số này được duy trì với vận tốc xuyên không quá 1cm/s trên chiều sâu không ít hơn ba lần đường kính (hoặc cạnh) cọc.",
       "Trong trường hợp không đạt hai điều kiện trên, Nhà thầu phải báo cho Thiết kế để có biện pháp xử lý.",
       "Việc ghi chép lực ép theo nhật ký ép cọc nên tiến hành cho từng m chiều dài cọc cho tới khi đạt tới (Pep) min, bắt đầu từ độ sâu này nên ghi cho từng 20 cm cho tới khi kết thúc, hoặc theo yêu cầu cụ thể của Tư vấn, Thiết kế.",
       "3.Giám sát và thi công ép cọc:",
@@ -1252,7 +1251,7 @@
       "3.2 Khi hạ cọc đến độ sâu thiết kế mà chưa đạt độ chối quy định thì Nhà thầu phải kiểm tra lại quy trình ép cọc của mình, có thể cọc đã bị xiên hoặc bị gãy, cần tiến hành ép bù sau khi cọc được “nghỉ” và các thí nghiệm kiểm tra độ nguyên vẹn của cọc (thí nghiệm PIT) và thí nghiệm phân tích sóng ứng suất (PDA) để xác định nguyên nhân, báo Thiết kế có biện pháp xử lý",
       "3.3 Khi ép cọc đạt lực ép tối đa quy định mà cọc chưa đạt độ sâu thiết kế thì có thể cọc đã gặp chướng ngại, điều kiện địa chất công trình thay đổi, đất nền bị đẩy trồi..., Nhà thầu cần xác định rõ nguyên nhân để có biện pháp khắc phục.",
       "Nghiệm thu công tác thi công cọc tiến hành dựa trên cơ sở các hồ sơ sau:",
-      "Hồ sơ thiết kế dược duyệt;",
+      "Hồ sơ thiết kế được duyệt;",
       "Biên bản nghiệm thu trắc đạc định vị trục móng cọc;",
       "Chứng chỉ xuất xưởng của cọc theo các điều khoản nêu trong phần 3 về cọc thương phẩm：",
       "Nhật ký hạ cọc và biên bản nghiệm thu từng cọc",
@@ -1322,9 +1321,9 @@
      "pp": [
       "Kiểm tra công tác Bảo quản cốt thép:",
       "Cốt thép tại công trường trước và sau khi gia công phải được che phủ, bảo quản đảm bảo không bị han gỉ, bám bẩn … Nếu cốt thép bị bám bẩn, han gỉ nhà thầu phải có biện pháp làm vệ sinh, đánh gỉ trước khi tổ chức nghiệm thu.",
-      "Kiểm tra công tác Gia công cốt thép :",
+      "Kiểm tra công tác Gia công cốt thép:",
       "Cốt thép phải được cắt uốn phù hợp với hình dáng, kích thước cửa thiết kế. Sản phẩm cốt thép đã cắt và uốn được tiến hành kiểm tra theo từng lô. Mỗi lô gồm 100 thanh thép từng loại đã cắt và uốn, cứ mỗi lô lấy 5 thanh bất kì để kiểm tra. Trị số sai lệch không vượt quá các giá trị ghi ở bảng 4 TCVN 4453:1995.",
-      "Kiểm tra Lắp dựng cốt thép bao gồm :",
+      "Kiểm tra Lắp dựng cốt thép bao gồm:",
       "Kiểm tra sự tuân thủ yêu cầu thiết kế về đường kính, số lượng.",
       "Kiểm tra các chi tiết đặt chờ.",
       "Kiểm tra chiều dày lớp bảo vệ theo quy định.",
@@ -1352,7 +1351,7 @@
       "Giám sát công tác lắp dựng giàn giáo, cốp pha.",
       "Nghiệm thu giàn giáo, cốp pha.",
       "Giám sát công tác tháo dỡ giàn giáo, cốp pha.",
-      "Lưu giữ tài liệu về giàn giáo, cốp pha: Tài liệu thiết kế giàn giáo, cốp pha, cácghi chép về sử dụng vật liệu, quá trình lắp dựng và tháo giàn giáo, cốp pha phải được lưu giữ cùng với hồ sơ hoàn công công trình.",
+      "Lưu giữ tài liệu về giàn giáo, cốp pha: Tài liệu thiết kế giàn giáo, cốp pha, các ghi chép về sử dụng vật liệu, quá trình lắp dựng và tháo giàn giáo, cốp pha phải được lưu giữ cùng với hồ sơ hoàn công công trình.",
       "b) Kiểm tra thiết kế giàn giáo, cốp pha:",
       "Giàn giáo, cốp pha phải được thiết kế. Mục đích của việc kiểm tra thiết kế giàn giáo, cốp pha là để khẳng định:",
       "Vật liệu: đủ cường độ và độ cứng, nhẹ và ổn định thể tích trong quá trình sử dụng;",
@@ -1408,7 +1407,7 @@
       "Giám sát bảo dưỡng và chuẩn bị mẫu.",
       "Giám sát thí nghiệm mẫu.",
       "Kiểm tra phiếu kết quả sau khi thử mẫu.",
-      "Các mẫu kiểm tra cường độ bê tông được lấy tại nơi đổ bê tông và được bảo dưỡng theo TCVN 3105 : 2022. Số lượng mẫu thử được lấy theo quy định như sau (TCVN 4453: 1995):",
+      "Các mẫu kiểm tra cường độ bê tông được lấy tại nơi đổ bê tông và được bảo dưỡng theo TCVN 3105:2022. Số lượng mẫu thử được lấy theo quy định như sau (TCVN 4453: 1995):",
       "Đối với bê tông khối lớn, cứ 500m3 lấy một tổ mẫu khi khối lượng bê tông trong một khối đổ lớn hơn 1000m3 và cứ 250m3 lấy một tổ mẫu khi khối lượng bê tông trong một khối đổ dưới 1000m3;",
       "Đối với các móng lớn, cứ 100m3 bê tông lấy một tổ mẫu nhưng không ít hơn một tổ mẫu cho mỗi khối móng.",
       "Đối với bê tông móng bệ máy có khối đổ lớn hơn 50m3 thì cứ 50m3 lấy một tổ mẫu nhưng vẫn lấy một tổ khi khối lượng ít hơn 50m3.",
@@ -1426,13 +1425,13 @@
       "Các mạch ngừng thi công được xử lý tốt;",
       "Đầm bê tông đảm bảo độ chặt và tính đồng nhất của bê tông, không được làm chảy nước ximăng hoặc làm hỏng khuôn hoặc sai lệch cốt thép.",
       "f) Giám sát hoàn thiện bề mặt bê tông:",
-      "Giám sát công tác hoàn thiện kết cấu bê tông cốt thép cần lưu ý :",
+      "Giám sát công tác hoàn thiện kết cấu bê tông cốt thép cần lưu ý:",
       "Trước khi tiến hành hoàn thiện bề mặt cần kiểm tra hiện trạng của kết cấu",
       "Để chứng tỏ rằng kết cấu đã được thi công đảm bảo chất lượng. Các khuyết tật nhìn thấy chỉ ở mặt ngoài và có thể khắc phục bằng công tác hoàn thiện.",
       "Trường hợp có khuyết tật ảnh hưởng đến chất lượng kết cấu thì phải có biện pháp kỹ thuật xử lý thích đáng, trước khi thực hiện công tác hoàn thiện.",
       "Công tác hoàn thiện phải đảm bảo sao cho không gây hiệu ứng xấu cho kết cấu như: gây ra các vết nứt, tạo ra các lớp hồ xi măng, tạo ra các vùng xốp trên bề mặt...",
       "g) Giám sát bảo dưỡng bê tông:",
-      "Giám sát công tác bảo dưỡng bê tông cần lưu ý : bảo dưỡng bê tông là yêu cầu bắt buộc nhằm để cho bê tông phát triển cường độ thuận lợi, chống nứt do co ngót.",
+      "Giám sát công tác bảo dưỡng bê tông cần lưu ý: bảo dưỡng bê tông là yêu cầu bắt buộc nhằm để cho bê tông phát triển cường độ thuận lợi, chống nứt do co ngót.",
       "Các tiêu chuẩn áp dụng để giám sát công tác bảo dưỡng bê tông được đưa trong phụ lục ở dưới."
      ]
     },
@@ -1444,8 +1443,8 @@
      ],
      "hs": [],
      "pp": [
-      "Mục đích của việc giám sát công tác dỡ giàn giáo, cốp pha là nhằm đảm bảo sao cho công tác dỡ giàn giáo, cốp pha không làm ảnh hưởng đến kết cấu và đảm bảo an toàn. Các nội dung giám sát cần tiến hành là :",
-      "Kiểm tra thiết kế biện pháp tháo dỡ giàn giáo, cốpha của nhà thầu;",
+      "Mục đích của việc giám sát công tác dỡ giàn giáo, cốp pha là nhằm đảm bảo sao cho công tác dỡ giàn giáo, cốp pha không làm ảnh hưởng đến kết cấu và đảm bảo an toàn. Các nội dung giám sát cần tiến hành là:",
+      "Kiểm tra thiết kế biện pháp tháo dỡ giàn giáo, cốp pha của nhà thầu;",
       "Kiểm tra cường độ bê tông trước khi nhà thầu tiến hành tháo dỡ giàn giáo, cốp pha;",
       "Tránh làm hư hỏng mặt ngoài, sứt mẻ bê tông; hư hỏng cốp pha;",
       "Tháo ván đứng trước, kiểm tra chất lượng bê tông xem có cần phải xử lý không;",
@@ -1453,12 +1452,12 @@
       "Phải tháo nêm hoặc hộp cát trước khi tháo cột chống;",
       "Tháo cột chống: phải theo chỉ dẫn thiết kế thi công. Phải tháo dỡ dần và kiểm tra biến hình của công trình, nếu không có hiện tượng nguy hiểm mới được dỡ bỏ hoàn toàn;",
       "Cần tu sửa, phân loại, bảo quản ngăn nắp cốp pha đã tháo dỡ, không làm ảnh hưởng đến thi công và an toàn lao động.",
-      "Biện pháp tháo dỡ giàn giáo, cốpha của nhà thầu chi được kỹ sư giám sát chấp nhận khi đảm bảo không làm ảnh hưởng đến kết cấu và an toàn.",
-      "Nhà thầu chỉ được phép tiến hành tháo dỡ giàn giáo, cốpha sau khi đã chứng minh đầy đủ các yêu kỹ thuật :",
+      "Biện pháp tháo dỡ giàn giáo, cốp pha của nhà thầu chỉ được kỹ sư giám sát chấp nhận khi đảm bảo không làm ảnh hưởng đến kết cấu và an toàn.",
+      "Nhà thầu chỉ được phép tiến hành tháo dỡ giàn giáo, cốp pha sau khi đã chứng minh đầy đủ các yêu kỹ thuật:",
       "Biện pháp tháo dỡ giàn giáo, cốp pha đã được kỹ sư giám sát chấp nhận;",
       "Cường độ bê tông đạt giá trị quy định theo biện pháp tháo dỡ;",
       "Có đầy đủ nhân công và phương tiện cần thiết.",
-      "Kiểm tra và giám sát nhà thầu thực hiện công tác tháo dỡ giàn giáo, cốpha theo đúng biện pháp đã được chấp nhận.",
+      "Kiểm tra và giám sát nhà thầu thực hiện công tác tháo dỡ giàn giáo, cốp pha theo đúng biện pháp đã được chấp nhận.",
       "Sau khi tháo dỡ cốp pha cần quan tâm đến việc cho phép chất tải lên kết cấu; đặc biệt, đối với các kết cấu nằm ngang như sàn, dầm. Nhà thầu phải có tính toán kiểm tra kết cấu cho các trường hợp chất tải này."
      ]
     },
@@ -1517,7 +1516,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Kiểm tra các hồ sơ thiết kế liên quan: Chống mỗi, chống thấm, cấp thoát nước…. để tiến hành thi công trước khi lấp đất hố móng.",
+      "Kiểm tra các hồ sơ thiết kế liên quan: Chống mối, chống thấm, cấp thoát nước…. để tiến hành thi công trước khi lấp đất hố móng.",
       "Đề cương tư vấn giám sát cho các hạng mục liên quan xem cụ thể từng công tác riêng."
      ]
     }
@@ -1663,7 +1662,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Kiểm tra vật liệu, điều kiện bề mặt,chiều dày, mối nối, chi tiết xuyên sàn/tường, waterstop và biện pháp bảo vệ lớp chống thấm trước khi che khuất."
+      "Kiểm tra vật liệu, điều kiện bề mặt, chiều dày, mối nối, chi tiết xuyên sàn/tường, waterstop và biện pháp bảo vệ lớp chống thấm trước khi che khuất."
      ]
     },
     {
@@ -1741,7 +1740,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Thép, bê tông, roăng chống thấm, vật liệu tăng cứng bề mặt…",
+      "Thép, bê tông, gioăng chống thấm, vật liệu tăng cứng bề mặt…",
       "Yêu cầu giám sát, kiểm soát như đã trình bày tại mục 3 “Giám sát vật liệu”"
      ]
     },
@@ -1770,13 +1769,13 @@
       "Biên bản nghiệm thu"
      ],
      "pp": [
-      "Kiểm tra công tác Bảo quản cốt thép :",
+      "Kiểm tra công tác Bảo quản cốt thép:",
       "Thép trước và sau gia công phải tập kết, bảo quản thép đúng biện pháp thi công, đúng yêu cầu kỹ thuật: Thép phải được kê lên các gối cao tối thiểu 40cm, phải có biện pháp che đậy, bảo quản, phải có biển cảnh báo…đảm bảo không bị han gỉ, bám bẩn …Nếu cốt thép bị bám bẩn, han gỉ nhà thầu phải có biện pháp làm vệ sinh, đánh gỉ trước khi tổ chức nghiệm thu.",
-      "Kiểm tra công tác Gia công cốt thép :",
+      "Kiểm tra công tác Gia công cốt thép:",
       "Cốt thép phải được cắt uốn phù hợp với hình dáng, kích thước của thiết kế, chỉ dẫn kỹ thuật. Sản phẩm cốt thép đã cắt và uốn được tiến hành kiểm tra theo từng lô. Mỗi lô gồm 100 thanh thép từng loại đã cắt và uốn, cứ mỗi lô lấy 5 thanh bất kì để kiểm tra. Trị số sai lệch không vượt quá các giá trị ghi ở bảng 4 TCVN 4453:1995.",
       "Kiểm tra chi tiết chờ",
       "Thép chờ móng, sàn tầng hầm trong tường vây phải được lấy ra và nắn thẳng. Trong trường hợp đứt gãy hoặc không đảm bảo kích thước, vị trí thì phải khoan cấy bổ sung.",
-      "Kiểm tra Lắp dựng cốt thép bao gồm :",
+      "Kiểm tra Lắp dựng cốt thép bao gồm:",
       "Kiểm tra sự tuân thủ yêu cầu thiết kế về đường kính, số lượng.",
       "Kiểm tra các chi tiết đặt chờ.",
       "Kiểm tra chiều dày lớp bảo vệ theo quy định.",
@@ -1857,7 +1856,7 @@
       "b) Khe co giãn",
       "Chế tạo như chi tiết thiết kế có xem xét đến các điểm gián đoạn của trong kết cấu bê tông, chất bịt khe sẽ được phủ lên khe và tại các cạnh cũng được bịt kín bằng chất bịt.",
       "c) Các khe kiểm tra",
-      "Định vị và chế tạo như trong bản vẽ thiết kế. Trừ trường hợp có chỉ dẫn khác, mọi hàng thép sẽ chạy liên tục qua khe kiểm tra. Nếu khe kiểm tra không được thể hiện trong bản vẽ thiết kế,nhà thầu sẽ chế tạo thi công phù hợp với các phương pháp kỹ thuật có sự phê chuẩn của tư vấn giám sát giám sát. Thông thường khi không có trong bản vẽ thiết kế, khe kiểm tra sẽ được đặt cách tâm 30mm",
+      "Định vị và chế tạo như trong bản vẽ thiết kế. Trừ trường hợp có chỉ dẫn khác, mọi hàng thép sẽ chạy liên tục qua khe kiểm tra. Nếu khe kiểm tra không được thể hiện trong bản vẽ thiết kế, nhà thầu sẽ chế tạo thi công phù hợp với các phương pháp kỹ thuật có sự phê chuẩn của tư vấn giám sát giám sát. Thông thường khi không có trong bản vẽ thiết kế, khe kiểm tra sẽ được đặt cách tâm 30mm",
       "d) Chất bịt khe nối",
       "Chất bịt khe nối sẽ được đặt ở các điểm như trong bản vẽ thi công. Chất bịt khe nối phải lấp đầy khe dàn đều (chia đều) trên mặt lộ ra của bề mặt bê tông.",
       "e) Băng cách nước",
@@ -1874,7 +1873,7 @@
       "Biểu kiểm tra trước khi đổ bê tông",
       "Bảng theo dõi đổ bê tông",
       "Biên bản lấy mẫu bê tông",
-      "Checklist kểm tra trong và sau đổ bê tông",
+      "Checklist kiểm tra trong và sau đổ bê tông",
       "Checklist kiểm tra công tác bảo dưỡng bê tông"
      ],
      "pp": [
@@ -1894,7 +1893,7 @@
       "Giám sát việc nhào trộn sao cho phát huy được các vật liệu thành phần và hỗn hợp bêtông được đồng nhất.",
       "c) Giám sát vận chuyển hỗn hợp bê tông:",
       "Nội dung giám sát vận chuyển hỗn hợp bê tông:",
-      "Kiểm tra phương án vận chuyển hỗn hợp bê tông :",
+      "Kiểm tra phương án vận chuyển hỗn hợp bê tông:",
       "Thời gian cho phép vận chuyển tuân thủ theo hồ sơ thiết kế cấp phối và quy định tại tiêu chuẩn TCVN 4453:1995.",
       "d) Kiểm tra hỗn hợp vữa BT tại công trường:",
       "Mục đích của kiểm tra là để khẳng định chất lượng bê tông trước khi đổ.",
@@ -1904,7 +1903,7 @@
       "Giám sát bảo dưỡng và chuẩn bị mẫu;",
       "Giám sát thí nghiệm mẫu;",
       "Kiểm tra phiếu kết quả sau khi thử mẫu.",
-      "Các mẫu kiểm tra cường độ bê tông được lấy tại nơi đổ bê tông và được bảo dưỡng theo TCVN 3105 : 2022. Số lượng mẫu thử được lấy theo quy định như sau (TCVN 4453: 1995):",
+      "Các mẫu kiểm tra cường độ bê tông được lấy tại nơi đổ bê tông và được bảo dưỡng theo TCVN 3105:2022. Số lượng mẫu thử được lấy theo quy định như sau (TCVN 4453: 1995):",
       "Đối với bê tông khối lớn, cứ 500m3 lấy một tổ mẫu khi khối lượng bê tông trong một khối đổ lớn hơn 1000m3 và cứ 250m3 lấy một tổ mẫu khi khối lượng bê tông trong một khối đổ dưới 1000m3;",
       "Đối với các móng lớn, cứ 100m3 bê tông lấy một tổ mẫu nhưng không ít hơn một tổ mẫu cho mỗi khối móng;",
       "Đối với bê tông móng bệ máy có khối đổ lớn hơn 50m3 thì cứ 50m3 lấy một tổ mẫu nhưng vẫn lấy một tổ khi khối lượng ít hơn 50m3;",
@@ -1922,13 +1921,13 @@
       "Các mạch ngừng thi công được xử lý tốt;",
       "Đầm bê tông đảm bảo độ chặt và tính đồng nhất của bê tông, không được làm chảy nước ximăng hoặc làm hỏng khuôn hoặc sai lệch cốt thép.",
       "f) Giám sát hoàn thiện bề mặt bê tông:",
-      "Giám sát công tác hoàn thiện kết cấu bê tông cốt thép cần lưu ý :",
+      "Giám sát công tác hoàn thiện kết cấu bê tông cốt thép cần lưu ý:",
       "Trước khi tiến hành hoàn thiện bề mặt cần kiểm tra hiện trạng của kết cấu.",
       "Để chứng tỏ rằng kết cấu đã được thi công đảm bảo chất lượng. Các khuyết tật nhìn thấy chỉ ở mặt ngoài và có thể khắc phục bằng công tác hoàn thiện.",
       "Trường hợp có khuyết tật ảnh hưởng đến chất lượng kết cấu thì phải có biện pháp kỹ thuật xử lý thích đáng, trước khi thực hiện công tác hoàn thiện.",
       "Công tác hoàn thiện phải đảm bảo sao cho không gây hiệu ứng xấu cho kết cấu như: gây ra các vết nứt, tạo ra các lớp hồ xi măng, tạo ra các vùng xốp trên bề mặt...",
       "g) Giám sát bảo dưỡng bê tông:",
-      "Giám sát công tác bảo dưỡng bê tông cần lưu ý : Bảo dưỡng bê tông là yêu cầu bắt buộc nhằm để cho bê tông phát triển cường độ thuận lợi, chống nứt do co ngót.",
+      "Giám sát công tác bảo dưỡng bê tông cần lưu ý: Bảo dưỡng bê tông là yêu cầu bắt buộc nhằm để cho bê tông phát triển cường độ thuận lợi, chống nứt do co ngót.",
       "Các tiêu chuẩn áp dụng để giám sát công tác bảo dưỡng bê tông được đưa trong phụ lục ở dưới."
      ]
     },
@@ -1943,8 +1942,8 @@
       "Kết quả chứng kiến thí nghiệm bê tông trước khi tháo giáo (nếu dự án yêu cầu và yêu cầu tiến độ tháo giáo gấp)"
      ],
      "pp": [
-      "Mục đích của việc giám sát công tác dỡ ván khuôn, cốp pha là nhằm đảm bảo sao cho công tác dỡ ván khuôn, cốp pha không làm ảnh hưởng đến kết cấu và đảm bảo an toàn. Các nội dung giám sát cần tiến hành là :",
-      "Kiểm tra thiết kế biện pháp tháo dỡ ván khuôn, cốpha của nhà thầu;",
+      "Mục đích của việc giám sát công tác dỡ ván khuôn, cốp pha là nhằm đảm bảo sao cho công tác dỡ ván khuôn, cốp pha không làm ảnh hưởng đến kết cấu và đảm bảo an toàn. Các nội dung giám sát cần tiến hành là:",
+      "Kiểm tra thiết kế biện pháp tháo dỡ ván khuôn, cốp pha của nhà thầu;",
       "Thí nghiệm, kiểm tra cường độ bê tông trước khi nhà thầu tiến hành tháo dỡ ván khuôn, cốp pha;",
       "Tránh làm hư hỏng mặt ngoài, sứt mẻ bê tông; hư hỏng cốp pha;",
       "Tháo ván đứng trước, kiểm tra chất lượng bê tông xem có cần phải xử lý không;",
@@ -1952,8 +1951,8 @@
       "Phải tháo nêm hoặc hộp cát trước khi tháo cột chống;",
       "Tháo cột chống: phải theo chỉ dẫn thiết kế thi công. Phải tháo dỡ dần và kiểm tra biến hình của công trình, nếu không có hiện tượng nguy hiểm mới được dỡ bỏ hoàn toàn;",
       "Cần tu sửa, phân loại, bảo quản ngăn nắp cốp pha đã tháo dỡ, không làm ảnh hưởng đến thi công và an toàn lao động.",
-      "Biện pháp tháo dỡ ván khuôn, cốp pha của nhà thầu chi được kỹ sư tư vấn giám sát chấp nhận khi đảm bảo không làm ảnh hưởng đến kết cấu và an toàn.",
-      "Nhà thầu chỉ được phép tiến hành tháo dỡ ván khuôn, cốp pha sau khi đã chứng minh đầy đủ các yêu kỹ thuật :",
+      "Biện pháp tháo dỡ ván khuôn, cốp pha của nhà thầu chỉ được kỹ sư tư vấn giám sát chấp nhận khi đảm bảo không làm ảnh hưởng đến kết cấu và an toàn.",
+      "Nhà thầu chỉ được phép tiến hành tháo dỡ ván khuôn, cốp pha sau khi đã chứng minh đầy đủ các yêu kỹ thuật:",
       "Biện pháp tháo dỡ ván khuôn, cốp pha đã được kỹ sư giám sát chấp nhận;",
       "Cường độ bê tông đạt giá trị quy định theo biện pháp tháo dỡ theo tiêu chuẩn TCVN 4453:1995;",
       "Có đầy đủ nhân công và phương tiện cần thiết.",
@@ -2083,7 +2082,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Xác nhận cường độ bê tông, hồ sơ nghiệm thu, thiết bị hiệu chuẩn, sơ đồ kéo và trình tự đã được chấp thuận; lập vùng cấm phía sau kích và kiểm soát an toàn. Kéo theo cấp lực,thứ tự và đối xứng (nếu thiết kế yêu cầu) trong hồ sơ được duyệt."
+      "Xác nhận cường độ bê tông, hồ sơ nghiệm thu, thiết bị hiệu chuẩn, sơ đồ kéo và trình tự đã được chấp thuận; lập vùng cấm phía sau kích và kiểm soát an toàn. Kéo theo cấp lực, thứ tự và đối xứng (nếu thiết kế yêu cầu) trong hồ sơ được duyệt."
      ]
     },
     {
@@ -2925,7 +2924,7 @@
       "Áp dụng với khu vực vệ sinh, seno, ban công, sàn mái bể nước, bể tự hoại",
       "Vật liệu chống thấm phải được pha trộn đúng tỷ lệ, đúng thành phần theo hướng dẫn của nhà sản xuất.",
       "Trước khi quét bề mặt phải được vệ sinh sạch và làm ẩm, nếu bề mặt nham nhở phải đục tẩy, trám vá bề mặt bằng vữa mác cao theo yêu cầu của quy trình chống thấm đã được phê duyệt.",
-      "Số lớp cần quét, thời gian chờ khô để quét lớp tiếp theo, đổ ẩm cần thiết để thi công tiếp tuân thủ HSTK hoặc chỉ dẫn kỹ thuật của nhà sản xuất xét thêm điều kiện thời tiết môi trường thực tế để điều chỉnh"
+      "Số lớp cần quét, thời gian chờ khô để quét lớp tiếp theo, độ ẩm cần thiết để thi công tiếp tuân thủ HSTK hoặc chỉ dẫn kỹ thuật của nhà sản xuất xét thêm điều kiện thời tiết môi trường thực tế để điều chỉnh"
      ]
     },
     {
@@ -3027,7 +3026,7 @@
       "Giấy giao nhận phải khớp ngày, khối lượng nhập về với thực tế",
       "Xi măng nhập về phải đảm bảo về chất lượng, vỏ bao còn khô, nguyên vẹn, bao xi măng mềm, không bị rón cục.",
       "Xi măng nhập về công trường phải được tập kết theo đúng biện pháp thi công, phải được bảo quản trong các kho bãi nền cao, sạch sẽ, có mái che chắc chắn và thuận lợi cho việc bốc xếp vận chuyển.",
-      "Xi măng được xếp trong kho bảo quản thành các chồng, mỗi chổng cao không quá 10 bao, được xếp cách tường tối thiểu 20cm, được kê cao so với nền đảm bảo tránh ẩm ướt.",
+      "Xi măng được xếp trong kho bảo quản thành các chồng, mỗi chồng cao không quá 10 bao, được xếp cách tường tối thiểu 20cm, được kê cao so với nền đảm bảo tránh ẩm ướt.",
       "TVGS kiểm tra khối lượng nhập về theo đợt, tần suất lấy mẫu không quá 50 tấn lấy 1 tổ mẫu đi thí nghiệm tại phòng thí nghiệm đã được chủ đầu tư phê duyệt. Chỉ tiêu thí nghiệm theo chỉ dẫn kỹ thuật hoặc theo tiêu chuẩn TCVN 6260:2020: kiểm tra khối lượng riêng, độ mịn, lượng sót trên sàn, độ dẻo tiêu chuẩn, thời gian đông kết, độ bền nén và các yêu cầu đặc biệt theo yêu cầu thiết kế.",
       "Xi măng chỉ được nghiệm thu khi các nội dung trên được kiểm tra đúng và kết quả thí nghiệm đạt"
      ]
@@ -3045,7 +3044,7 @@
       "Gạch nhập về phải có chứng chỉ chất lượng, biên bản bàn giao khớp khối lượng, ngày tháng với thực tế.",
       "Gạch xây nhập về phải đảm bảo sự đồng đều về chất lượng, hình dáng, không bị mốc, màu sắc đồng đều, không bị sứt mẻ, không bị vỡ.",
       "Mỗi đợt nhập về gạch phải được tập kết đúng vị trí, đúng biện pháp thi công, Tiến hành lấy mẫu đi thí nghiệm tại phòng thí nghiệm đã được chủ đầu tư phê duyệt",
-      "Quy cách lấy mẫu: Mẫu thử được lấy theo lô. Lô là số lượng gạch cùng loại, cùng kích thước và màu sắc, được sản xuất từ cùng loại nguyên vật liệu và cấp phối trong khoảng thời gian liên tục. Đối với gạch có kích thước tương đương thể tích lớn hơn 10 dm3/viên, cỡ lô quy định là 50000 viên; đối với gạch có kích thước tương đương thể tích lớn hơn 2 dm3/viên đến 10 dm3/viên, cỡ lô quy định là 100000 viên; đối với loại gạch có kích thước tương đương thể tích 2 dm3/viên hoặc nhỏ hơn, cỡ lô quy định là 200000 viên. Trong trường hợp không đủsố lượng tương ứng quy định trên thì vẫn coi là lô đủ.Lấy ngẫu nhiên 10 viên ở các vị trí khác nhau đại diện cho lô làm mẫu thử, đã đủ 28 ngày kể từ ngày sản xuất. Không lấy những viên bị hư hại do quá trình vận chuyển để làm mẫu thử",
+      "Quy cách lấy mẫu: Mẫu thử được lấy theo lô. Lô là số lượng gạch cùng loại, cùng kích thước và màu sắc, được sản xuất từ cùng loại nguyên vật liệu và cấp phối trong khoảng thời gian liên tục. Đối với gạch có kích thước tương đương thể tích lớn hơn 10 dm3/viên, cỡ lô quy định là 50000 viên; đối với gạch có kích thước tương đương thể tích lớn hơn 2 dm3/viên đến 10 dm3/viên, cỡ lô quy định là 100000 viên; đối với loại gạch có kích thước tương đương thể tích 2 dm3/viên hoặc nhỏ hơn, cỡ lô quy định là 200000 viên. Trong trường hợp không đủ số lượng tương ứng quy định trên thì vẫn coi là lô đủ.Lấy ngẫu nhiên 10 viên ở các vị trí khác nhau đại diện cho lô làm mẫu thử, đã đủ 28 ngày kể từ ngày sản xuất. Không lấy những viên bị hư hại do quá trình vận chuyển để làm mẫu thử",
       "Các chỉ tiêu thí nghiệm theo chỉ dẫn kỹ thuật, theo tiêu chuẩn TCVN 6477:2016 kiểm tra kích thước, cường độ nén uốn, độ hút nước và các yêu cầu đặc biệt theo yêu cầu thiết kế.",
       "Gạch chỉ được nghiệm thu khi các nội dung trên được kiểm tra đúng và kết quả thí nghiệm đạt"
      ]
@@ -3104,7 +3103,7 @@
       "Kiểm tra vị trí xây chân cơ tương ứng sử dụng loại gạch xây: gạch đất sét nung, gạch xi măng cốt liệu",
       "Kiểm tra quá trình xây tuân thủ biện pháp thi công nhà thầu:",
       "Công tác khoan và đặt râu thép liên kết với bê tông,",
-      "Kỹ thuật xây đảm bảo đúng tiêu chuẩn, tuân thủ hướng dẫn xây của gạch gạch xi măng cốt liệu của nhà sản xuất, chỉ dẫn của tư vấn thiết kế: đặt thép trong tường xây, khe co giãn, xây chèn đỉnh tường, chi tiết mép cửa, dạ cửa, chi tiết liên kết tường gạch xi măng cốt liệu và gạch đất sét nung …",
+      "Kỹ thuật xây đảm bảo đúng tiêu chuẩn, tuân thủ hướng dẫn xây của gạch xi măng cốt liệu của nhà sản xuất, chỉ dẫn của tư vấn thiết kế: đặt thép trong tường xây, khe co giãn, xây chèn đỉnh tường, chi tiết mép cửa, dạ cửa, chi tiết liên kết tường gạch xi măng cốt liệu và gạch đất sét nung …",
       "Biện pháp căng dây, nẹp đảm bảo khối xây phẳng và thẳng.",
       "Biện pháp lắp đặt lanh tô",
       "Biện pháp đảm bảo khả năng chịu lực khi xây tấm tường lớn",
@@ -3157,7 +3156,7 @@
       "Mặt trát phải thoả mãn các yêu cầu:",
       "Lớp vữa trát phải dính chắc với kết cấu, không bị bong bộp. Kiểm tra độ bám dính thực hiện bằng cách gõ nhẹ lên mặt trát. Tất cả những chỗ bộp phải phá ra trát lại.",
       "Mặt trát phẳng, không gồ ghề cục bộ.",
-      "Bề mặt vữa trát không được có vết rạn chân chim, không có vết vữa chẩy, vết hằn của dụng cụ trát, vết lồi lõm, không có các khuyết tật ở góc cạnh, gờ chân tường, gờ chân cửa, chỗ tiếp giáp với các vị trí đặt thiết bị, điện vệ sinh thoát nước ...",
+      "Bề mặt vữa trát không được có vết rạn chân chim, không có vết vữa chảy, vết hằn của dụng cụ trát, vết lồi lõm, không có các khuyết tật ở góc cạnh, gờ chân tường, gờ chân cửa, chỗ tiếp giáp với các vị trí đặt thiết bị, điện vệ sinh thoát nước ...",
       "Các đường gờ cạnh của tường phải thẳng, sắc nét. Các đường vuông góc phải kiểm tra bằng thước vuông. Các cạnh cửa sổ, cửa đi phải song song nhau. Mặt trên của bệ cửa có độ dốc theo thiết kế, Lớp vữa trát phải chèn sâu vào dưới nẹp khuôn cửa ít nhất là 10mm",
       "Dung sai của mặt trát không vượt quá các quy định trong bảng 4 tiêu chuẩn TCVN 9377-2:2012."
      ]
@@ -3182,7 +3181,7 @@
       "Ốp bằng giá đỡ, móc treo, bu lông, đinh vít... (ốp thang máy, sảnh…)",
       "Trước khi tiến hành ốp, cần hoàn thành việc lắp đặt các mạng kỹ thuật ngầm, các chi tiết có chỉ định đặt trong tường cho hệ thống cấp thoát nước, điện, điện thoại, truyền hình … và các công việc khác có liên quan để phòng tránh mọi va chạm, chấn động có thể gây nên hư hỏng hoặc ảnh hưởng đến chất lượng lớp ốp.",
       "Bề mặt kết cấu được ốp trang trí hay ốp bảo vệ theo phương thẳng đứng không được nghiêng lệch vượt quá giá trị cho phép quy định trong các tiêu chuẩn TCVN 4085:2011, TCVN 4453:1995, TCVN 9115:2019.",
-      "Ốp WC cần phải chống thấm sau đó trát phẳng bằng vữa xi măng cát. Phải tạo nhám trước khi ốp. Dùng xi măng tinh (hồ dầu) để dán gạch ốp vào lớp trát. Độ lồi lõm của nền ốp khi ốp bằng hồ dầu phải ≤ ± 3mm khi kiểm tra bằng thuớc dài 2m.",
+      "Ốp WC cần phải chống thấm sau đó trát phẳng bằng vữa xi măng cát. Phải tạo nhám trước khi ốp. Dùng xi măng tinh (hồ dầu) để dán gạch ốp vào lớp trát. Độ lồi lõm của nền ốp khi ốp bằng hồ dầu phải ≤ ± 3mm khi kiểm tra bằng thước dài 2m.",
       "Chỉ tiến hành ốp trên nền ốp có lớp vữa trát lót tạo phẳng khi cường độ của lớp vữa trát lót đã đạt tối thiểu bằng 75% của mác vữa thiết kế. Lớp vữa trát lót phải bảo đảm khả năng bám dính tốt với nền trát. Khi ốp bằng vữa xi măng cát, chỉ nên ốp cho các loại gạch ốp có trọng lượng ≤ 20kg/m2",
       "Nếu không có chỉ dẫn cụ thể của thiết kế, trước khi ốp cần tính toán và xác định hợp lý vị trí của các viên ốp sao cho số lượng bị cắt là nhỏ nhất và được bố trí ở các vị trí dễ che khuất. Nếu vật liệu ốp có hoa văn cần lựa chọn vị trí của viên ốp sao cho phù hợp với hoa văn và mầu sắc trang trí.",
       "Ốp đá thang máy bằng đá thiên nhiên hay nhân tạo có kích thước lớn và có trọng lượng lớn, nên dùng các móc kim loại hay hệ thống giá treo có đinh vít, bu lông điều chỉnh để gắn chặt vào mặt ốp.",
@@ -3203,7 +3202,7 @@
       "Kiểm tra liên kết của đá với bê tông (nếu có).",
       "Độ phẳng của mặt ốp",
       "Độ đặc chắc và bám dính của nền ốp với vật liệu ốp.",
-      "Độ đồng đều của của mặt ốp về màu sắc, hoa văn, các mạch ốp, chi tiết trang trí, sép.",
+      "Độ đồng đều của mặt ốp về màu sắc, hoa văn, các mạch ốp, chi tiết trang trí, sép.",
       "Các yêu cầu đặc biệt khác của thiết kế",
       "b. Mặt ốp phải thoả mãn các yêu cầu:",
       "Tổng thể mặt ốp phải đảm bảo đúng hình dáng, kích thước hình học theo yêu cầu của thiết kế.",
@@ -3260,12 +3259,12 @@
       "Lớp láng thường được thực hiện trên nền gạch, bê tông cốt thép. Cấu tạo chung gồm lớp vữa đệm và lớp láng mặt. Lớp vữa láng có chiều dày từ 2-3cm, dùng vữa láng xi măng cát vàng mác #75÷100. Dụng cụ để láng cũng như trát gồm: bay, bàn xoa, thước, nivô, dây dọi … Vật liệu dùng để láng cũng như trát là hỗn hợp vữa xi măng và cát vàng phải đảm bảo:",
       "Làm sạch bề mặt lớp láng, những nơi vữa khó bám phải đánh sờm bề mặt và tưới nước xi măng. Lấy cốt cao độ và đắp mốc nơi nào cần độ dốc phải tuân thủ theo thiết kế. Thường xuyên dùng thước tầm 3m và nivô kiểm tra độ ngang bằng và độ dốc theo chỉ dẫn thiết kế của lớp láng. Đảm bảo độ dốc thoát nước theo thiết kế. Sau khi láng xong 1 ngày phải bảo dưỡng lớp láng bằng bao tải ẩm, không được để cho nước chảy qua mặt láng, sau ít nhất 3 ngày mới được đi lại trên mặt lớp láng. Trước khi láng kết cấu phải ổn định và phẳng, vệ sinh thật sạch kết cấu cần láng, thông thường nền nhà rộng ta phải chia ô đánh mốc từng khu vực để láng, cao độ mặt nền sàn phải được kiểm tra rồi căn cứ vào tường, các góc xung quanh thiết lập lên mạng lưới các mốc phù hợp với chiều dài thước khi láng.",
       "Khi láng xong phải chú ý bảo quản bề mặt láng (che đậy cẩn thận) tránh đi lại tuỳ tiện muốn đi phải lót ván vào lớp mới láng xong.",
-      "Chú ý công tác dưỡng hộ cho lớp láng nhằm giúp làm tăng chất lượng bề mặt láng vì vậy từ 7÷10 ngày đầu sau khi láng cong phải tưới nước dưỡng hộ.",
+      "Chú ý công tác dưỡng hộ cho lớp láng nhằm giúp làm tăng chất lượng bề mặt láng vì vậy từ 7÷10 ngày đầu sau khi láng xong phải tưới nước dưỡng hộ.",
       "Dung sai trên mặt láng không vượt quá các giá trị yêu cầu của tiêu chuẩn TCVN 9377-1:2012",
       "* Yêu cầu của công tác láng:",
       "Lớp láng thực hiện trên nền gạch, bê tông các loại hay bê tông cốt thép: trước khi láng, kết cấu nền phải ổn định và phẳng, cọ sạch các vết dầu, rêu và bụi bẩn.",
       "Độ để bảo đảm độ bám dính tốt giữa lớp vữa láng và nền nếu mặt nền khô phải tưới nước và băm nhám bề mặt. Nếu có lớp lót thì mặt phải khía ô có cạnh từ 10 đến 15cm.",
-      "Lớp láng cuối cùng bằng vữa xi măng cát với kích thước hạt cốt liệu lớn nhất không quá 2mm, xoa phẳng mặt theo độ dốc thiết kế. Tùy thuộc vào thời tiết, độ ẩm và nhiệt độ không khí… Sau khi láng xong lớp vữa cuối cùng khoảng từ 4 đến 6 giờ mới có thể tiến hành đánh bóng bề mặt láng bằng cách rải đều một lớp bột xi măng hay lớp mỏng hỗi măng.",
+      "Lớp láng cuối cùng bằng vữa xi măng cát với kích thước hạt cốt liệu lớn nhất không quá 2mm, xoa phẳng mặt theo độ dốc thiết kế. Tùy thuộc vào thời tiết, độ ẩm và nhiệt độ không khí… Sau khi láng xong lớp vữa cuối cùng khoảng từ 4 đến 6 giờ mới có thể tiến hành đánh bóng bề mặt láng bằng cách rải đều một lớp bột xi măng hay lớp mỏng hồ xi măng.",
       "Mặt láng phải bảo đảm độ bóng theo thiết kế. Quá trình mài bóng được tiến hành đồng thời với việc vá các vết lõm cục bộ và các vết xước gợn trên bề mặt.",
       "Công việc kẻ chỉ thực hiện ngay sau khi vừa đánh màu xong. Đường kẻ chỉ cần đều về chiều rộng, chiều sâu và sắc nét. Nếu dùng quả lăn có hạt chống trơn cũng lăn ngay khi lớp xi măng màu chưa rắn.",
       "Láng hè dài hoặc mặt lối đi dài, cứ mỗi đoạn dài 3÷4m lại làm một khe co dãn ở lớp láng bằng cách cắt đứt ngang lớp láng. Chiều rộng khe co dãn là 20mm được chèn bằng nhựa bitum số 3.",
@@ -3778,7 +3777,7 @@
         "Sử lý tiếp giáp giữa hai kết cấu bằng vật liệu khác nhau"
        ],
        [
-        "Dán lưới chống nưt (nếu có)"
+        "Dán lưới chống nứt (nếu có)"
        ],
        [],
        [],
@@ -3786,10 +3785,10 @@
       ],
       [
        [
-        "Đánh mốc gém định vị bề mặt trát"
+        "Đánh mốc ghém định vị bề mặt trát"
        ],
        [
-        "Số lượng mốc tổi thiểu 9 mốc trên một khoảng tường dài 3m, khoảng nhỏ dưới 1m cần 4 mốc",
+        "Số lượng mốc tối thiểu 9 mốc trên một khoảng tường dài 3m, khoảng nhỏ dưới 1m cần 4 mốc",
         "Các phần bê tông phình cao hơn mốc phải đục tẩy trước khi trát"
        ],
        [],
@@ -4226,7 +4225,7 @@
         "Độ phẳng bề mặt / khe hở khi ốp thước 3m"
        ],
        [
-        "TCVN 9377-1-2012 / mục 6.1.2 Mặt láng phải phẳng, không ghồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 3 của tiêu chuẩn.",
+        "TCVN 9377-1-2012 / mục 6.1.2 Mặt láng phải phẳng, không gồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 3 của tiêu chuẩn.",
         "TCVN 9377-1-2012 / mục 5.1.3.2 / bảng 3",
         "± 3mm / Tất cả các vật liệu láng."
        ],
@@ -4530,7 +4529,7 @@
         "Độ phẳng bề mặt / Khe hở khi ốp thước 3m"
        ],
        [
-        "TCVN 9377-1-2012 / mục 6.1.2 Mặt lát phải phẳng, không ghồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 1 của tiêu chuẩn.",
+        "TCVN 9377-1-2012 / mục 6.1.2 Mặt lát phải phẳng, không gồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 1 của tiêu chuẩn.",
         "TCVN 9377-1-2012 / mục 4.1.3.7 / bảng 1",
         "± 3mm / Gạch lát xi măng, granito, ceramic, granite, đá nhân tạo, đá tự nhiên không mài mặt",
         "± 4cm / Gạch lát đất sét nung",
@@ -5453,7 +5452,7 @@
       "Gỗ trước khi nhập về phải được Chủ đầu tư phê duyệt chủng loại: Khuôn, cánh, xương",
       "Gỗ nhập về phải đầy đủ các giấy tờ: giấy phép của kiểm lâm.",
       "Gỗ phải được ngâm tẩm sấy tránh hiện tượng nứt co ngót do khô, chống mối mọt.",
-      "Gỗ về phải được tập kết đúng vị trí, đúng biện pháp thi công, bảo quản đúng kỹ thuật, tránh cong vênh, khô thoáng nước, tránh tiếp xúc nước. Đợt đầu tiên sẽ tiến hành lập biên bản lấy mẫu đi thí nghiệm tại phòng thí nghiệm được phê duyệt. Chỉ tiêu thí nghiệm theo HSTK hoặc theo TCVN 8044:2014 như tiết diện, độ ẩm, khối lượng thể tích, độ bề uốn tĩnh, độ bền cắt song thớ, độ bền uốn và đập, độ cứng va đập, độ cứng tĩnh, độ co rút thể tích … Tiến hành lấy mẫu các đợt tiếp theo theo yêu cầu hoặc nghi ngờ chất lượng."
+      "Gỗ về phải được tập kết đúng vị trí, đúng biện pháp thi công, bảo quản đúng kỹ thuật, tránh cong vênh, khô thoáng nước, tránh tiếp xúc nước. Đợt đầu tiên sẽ tiến hành lập biên bản lấy mẫu đi thí nghiệm tại phòng thí nghiệm được phê duyệt. Chỉ tiêu thí nghiệm theo HSTK hoặc theo TCVN 8044:2014 như tiết diện, độ ẩm, khối lượng thể tích, độ bền uốn tĩnh, độ bền cắt song thớ, độ bền uốn và đập, độ cứng va đập, độ cứng tĩnh, độ co rút thể tích … Tiến hành lấy mẫu các đợt tiếp theo theo yêu cầu hoặc nghi ngờ chất lượng."
      ]
     },
     {
@@ -6120,8 +6119,8 @@
       "Bề mặt phủ hoàn thiện được sơn tĩnh điện.",
       "Kính chống cháy nếu có",
       "Phụ kiện đi kèm gồm: bản lề, tay cầm, khóa, thanh kéo mở khẩn cấp, nắp che ổ khóa, tấm gắn chữ, tấm đẩy cửa, bộ phận trượt, thiết bị đóng mở, bộ phận điện, dây dẫn, v.v. có thể được lắp hoặc phải lắp vào cụm cửa.",
-      "Trước khi sản xuất đại trà TVGS, CĐT, nhà thầu sẽ tiến hành tổ chức kiểm tra xưởng sản xuất đánh giá năng lực, điều kiện vật chấp và khả năng đáp ứng yêu cầu của dự án cũng như lấy mẫu vật tư tiến thành thí nghiệm kiểm chứng trước khi sản xuất đại trà.",
-      "Lô cửa được chế tạo phải đem đi kiểm tra đảm bảo các yêu cầu về bậc chịu lửa, thời gian chịu lửa 60, 90 hay 120 phút… tùy yêu câu của thiết kế và hồ sơ thẩm duyệt PCCC trước khi chuyển về công trường"
+      "Trước khi sản xuất đại trà TVGS, CĐT, nhà thầu sẽ tiến hành tổ chức kiểm tra xưởng sản xuất đánh giá năng lực, điều kiện vật chất và khả năng đáp ứng yêu cầu của dự án cũng như lấy mẫu vật tư tiến thành thí nghiệm kiểm chứng trước khi sản xuất đại trà.",
+      "Lô cửa được chế tạo phải đem đi kiểm tra đảm bảo các yêu cầu về bậc chịu lửa, thời gian chịu lửa 60, 90 hay 120 phút… tùy yêu cầu của thiết kế và hồ sơ thẩm duyệt PCCC trước khi chuyển về công trường"
      ]
     },
     {
@@ -6235,9 +6234,9 @@
       "Chỉ thi công các lớp sơn khi nhiệt độ bề mặt cần được sơn và nhiệt độ môi trường từ 100C đến 350C. Không thi công sơn khi độ ẩm tương đối vượt quá 85%; hoặc các bề mặt ẩm ướt.",
       "Kiểm tra công tác bả",
       "Nước để pha bột phải là nước sạch, thời gian đánh bột khảng 3 phút, tỉ lệ pha khoảng 1.1:3 (1,1 lít nước / 3kg bột)",
-      "Kiểm tra các lớp bả phải đồng đều, phẳng nhẵn bề mặt không bị bị gợn bóng khi soi dưới ánh sáng bóng đèn.",
+      "Kiểm tra các lớp bả phải đồng đều, phẳng nhẵn bề mặt không bị gợn bóng khi soi dưới ánh sáng bóng đèn.",
       "Kiểm tra các góc cạnh: phải vuông, thẳng và sắc nét",
-      "Kiểm tra bề mặt các lơp bả không được còn bọt khí, không có vết dụng cụ",
+      "Kiểm tra bề mặt các lớp bả không được còn bọt khí, không có vết dụng cụ",
       "Kiểm tra nghiệm thu theo từng lớp bả có ghi rõ ngày tháng.",
       "Kiểm tra bề mặt sau khi xả nhám chuẩn bị trước khi sơn.",
       "Kiểm tra công tác sơn",
@@ -6535,7 +6534,7 @@
       ],
       [
        [
-        "Bề mặt kết cấu đã được nghiêm thu"
+        "Bề mặt kết cấu đã được nghiệm thu"
        ],
        [
         "TCVN 5674:1992 / mục 8.10. sạch bụi bẩn, các vết dầu mỡ, vôi vữa, đã được mài nhám.",
@@ -6802,7 +6801,7 @@
         "HSTK / So sánh với bức tường mẫu",
         "TCVN 5674:1992 / mục 8.19",
         "- Đồng màu, min bóng.",
-        "- Không lộ màu của lơp sơn lót phía dưới",
+        "- Không lộ màu của lớp sơn lót phía dưới",
         "- Không được có vết ố, vết chảy, tụ sơn hay đứt đoạn về màu sắc, độ dày mỏng và vết chổi sơn…"
        ],
        [],
@@ -7119,7 +7118,7 @@
       ],
       [
        [
-        "Mối gép, giáp lai, độ kín khít của tấm"
+        "Mối ghép, giáp lai, độ kín khít của tấm"
        ],
        [
         "HSTK",
@@ -7217,7 +7216,7 @@
      ],
      "pp": [
       "Việc thi công phòng chống mối phải tuân thủ đúng theo hồ sơ thiết kế, chỉ dẫn của nhà sản xuất đối với sản phẩm",
-      "Trước khi tiên hành phun thuốc phòng chống mối, nhà thầu thi công phải mời các bên kiểm tra định mức pha trộn thuốc",
+      "Trước khi tiến hành phun thuốc phòng chống mối, nhà thầu thi công phải mời các bên kiểm tra định mức pha trộn thuốc",
       "Xử lý chống mối ngoài nhà: Tạo hỗn hợp thuốc với đất làm thành mảng chướng ngại vật thẳng đứng bao quanh liên tục theo chân tường mỏng phía ngoài công trình nhằm ngăn ngừa mối từ các vùng lân cận xâm nhập vào công trình. Ở độ cao mặt sân tiếp giáp với phần ngoài công trình đào một lớp đất sâu từ 5 cm đến 10 cm rộng 50 cm, sau đó tạo lỗ đường kính từ 1 cm đến 2 cm sâu 30 cm đến 40 cm, số lượng từ 15 lỗ đến 20 lỗ trên 1 m2 của rãnh, hàng lỗ thứ nhất cách chân tường mỏng 5 cm (nếu là đất cát, đất xốp, thuốc có thể tự thấm xuống không phải đào lỗ), đổ dung dịch thuốc đều trên bề mặt hào và các lỗ rồi lấp đất, sau cùng tưới hoặc phun lên trên mặt hàng rào một lớp dung dịch thuốc.",
       "Xử lý chống mối trong nhà: Tạo hỗn hợp thuốc với đất lập thành mảng chướng ngại vật theo phương thẳng đứng bao quanh liên tục lên tường móng phía trong công trình, nhằm bổ sung, ngăn ngừa mối từ dưới đất lên công trình. Đào rãnh sát chân tường rộng 30 cm, sâu 10 cm, tạo lỗ sâu từ 15 cm đến 25 cm, số lượng lỗ từ 15 lỗ đến 20 lỗ trên 1m2 của rãnh, hàng lỗ thứ nhất cách chân tường móng 5 cm (Nếu là đất cát, đất xốp thuốc có thể tự thấm xuống, không phải tạo lỗ) sau đó đổ dung dịch thuốc xuống mặt rãnh và lỗ rồi lấp lại",
       "Xử lý chống mối mặt nền: Dùng thuốc phòng chống mối tạo thành lớp chướng ngại vật theo phương nằm ngang trên mặt đất nền nhằm ngăn ngừa mối từ dưới đất chui lên hoặc chui xuống trú ngụ làm tổ. Tưới hoặc phun dung dịch thuốc đều trên mặt nền đất trước khi đổ vữa bê tông."
@@ -7366,7 +7365,7 @@
       "Biên bản nghiệm thu công việc xây dựng"
      ],
      "pp": [
-      "Bề mặt sau khi lát phải đảm bảo phẳng, khít,chắc chắn, đi lại trên bề mặt không có tiếng cọt kẹt.",
+      "Bề mặt sau khi lát phải đảm bảo phẳng, khít, chắc chắn, đi lại trên bề mặt không có tiếng cọt kẹt.",
       "Bề mặt sau khi lát phải đảm bảo sạch sẽ, bóng đẹp, không xước xát.",
       "Mặt lát phải được bảo vệ, không để đi lại hoặc va chạm trong giai đoạn thi công làm bong xước mặt hoặc mất bóng."
      ]
@@ -7525,7 +7524,7 @@
         "Độ phẳng bề mặt / Khe hở khi ốp thước 3m"
        ],
        [
-        "TCVN 9377-1-2012 / mục 6.1.2 Mặt lát phải phẳng, không ghồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 1 của tiêu chuẩn.",
+        "TCVN 9377-1-2012 / mục 6.1.2 Mặt lát phải phẳng, không gồ ghề, lồi lõm cục bộ, sai số về cao độ và độ dốc không vượt quá các giá trị trong Bảng 1 của tiêu chuẩn.",
         "TCVN 9377-1-2012 / mục 4.1.3.7 / bảng 1",
         "± 3mm / Các loại tấm lát định hình"
        ],
@@ -8666,7 +8665,7 @@
      "pp": [
       "Kiểm tra thông số kỹ thuật ghi trên vỏ, bao bì của vật tư, thiết bị; Kiểm tra kích thước, chủng loại.",
       "Kiểm tra tình trạng kỹ thuật: Mới 100%, không có hiện tượng hư hỏng.",
-      "Kiểm tra nhãn mác, tem: Nhãn mác hàng hóa rõ ràng, đầy đủ theo quy định số 178/1999/QĐ-TTG của Thủ tướng chính phủ.",
+      "Kiểm tra nhãn mác, tem: Nhãn mác hàng hóa rõ ràng, đầy đủ theo Nghị định số 43/2017/NĐ-CP về nhãn hàng hóa (sửa đổi, bổ sung bởi Nghị định số 111/2021/NĐ-CP).",
       "Kiểm tra về số lượng, khối lượng"
      ]
     }
@@ -8693,7 +8692,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Máy laser, máy cắt, máy khoan, máy đục bê tông, lò xo uốn ốn, búa, thước mét,"
+      "Máy laser, máy cắt, máy khoan, máy đục bê tông, lò xo uốn ống, búa, thước mét,"
      ]
     },
     {
@@ -8713,7 +8712,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Tất cả ống phải nằm trong tường, không được nồi khỏi bề mặt tường. Hộp âm phải nằm sâu từ 2-3mm so với mặt hoàn thiện.",
+      "Tất cả ống phải nằm trong tường, không được nổi khỏi bề mặt tường. Hộp âm phải nằm sâu từ 2-3mm so với mặt hoàn thiện.",
       "Đối với trường hợp âm tường thi vết cắt trên tường phải rộng hơn khoảng cách giữa 2 mép ngoài của ống 10mm để đảm bảo công tác chèn vữa sau này tránh gây các vết nứt sau này.",
       "Ngoài ra để tránh gây nứt tường, yêu cầu phải đóng lưới (thông thường từ 02 ống tại cùng vị trí trở lên yêu cầu đóng lưới), chiều rộng của lưới yêu cầu tối thiểu lớn hơn 50mm về mỗi bên so với mép cát để định vị lưới, yêu cầu trát kín vữa trước khi đóng lưới.",
       "Chi tiết điển hình ống đi trong tường và nổi trên trần",
@@ -8753,7 +8752,7 @@
       "Ống cho hệ chiếu sáng: màu xanh dương",
       "Ống cho hệ thống ổ cắm, cấp nguồn khu vực máy bơm: màu Xanh lá cây.",
       "Ống cho hệ điện nhẹ (điện thoại, mạng và hệ thống âm thanh…): màu Vàng.",
-      "Ống cho hệ hệ thống Camera: màu Cam.",
+      "Ống cho hệ thống Camera: màu Cam.",
       "Ống cho hệ thống truyền hình: màu Đen.",
       "Ống cho hệ thống Emercency và hệ thống Exit: màu Nâu"
      ]
@@ -8807,7 +8806,7 @@
         "Sử dụng sơn/mực đánh dấu bọ kẹp ống với ống đi nổi"
        ],
        [
-        "Để phân biệt các lộ tuyến hoặc hệ ống điện chiếu sáng, điện công tắc ổ cắn, điện phân phối động lực, điện nhẹ, báo cháy …",
+        "Để phân biệt các lộ tuyến hoặc hệ ống điện chiếu sáng, điện công tắc ổ cắm, điện phân phối động lực, điện nhẹ, báo cháy …",
         "TCVN 9207:2012",
         "4.2.1. Hệ thống đường dẫn điện phải được bố trí và đánh dấu sao cho có thể nhận biết để kiểm tra, thử nghiệm, sửa chữa hoặc thay đổi hệ thống lắp đặt"
        ],
@@ -8822,7 +8821,7 @@
        [
         "Số lượng, khoảng cách theo Biện pháp",
         "TCVN 9207:2012 Bảng 7:",
-        "- Khoảng cách kiẹp từ 0.8-1m",
+        "- Khoảng cách kẹp từ 0.8-1m",
         "- Ở hai bên hộp nối cáp điện. Cách hộp nối, đầu cáp điện hoặc chỗ bịt đầu cáp điện không quá 100 mm.",
         "- Điểm cuối mỗi đoạn cáp điện. Điểm cuối của đoạn cáp điện uốn cong, nếu cáp điện lớn thì cần đặt kẹp ở giữa đoạn uốn cong."
        ],
@@ -8881,7 +8880,7 @@
        [
         "Không lồi ra khỏi tường",
         "TCVN 9207:2012",
-        "Bảng 4: đảm bảo lớp vữa trám có chiều dày không dưới 10mmm"
+        "Bảng 4: đảm bảo lớp vữa trám có chiều dày không dưới 10mm"
        ],
        [],
        [],
@@ -8947,7 +8946,7 @@
         "Tình trạng vệ sinh đường ống"
        ],
        [
-        "Các rãnh đục gạch được làm sạch không còn bụi bẩn, vữa thừa làm giảm kết dính cửa lớp vữa trám ngoài sau này"
+        "Các rãnh đục gạch được làm sạch không còn bụi bẩn, vữa thừa làm giảm kết dính của lớp vữa trám ngoài sau này"
        ],
        [],
        [],
@@ -9054,11 +9053,11 @@
      "pp": [
       "Kiểm tra vị trí lắp đặt, kích thước ống luồn dây, lắp đặt các phụ kiện đầy đủ: Vị trí lắp đặt chính xác theo hồ sơ thiết kế hoặc bản vẽ triển khai thi công được phê duyệt, các mối nối đầy đủ, chắc chắn, đảm bảo độ kín, có bảo vệ chống ẩm, chống ăn mòn trong môi trường ẩm thấp. Góc uốn của ống không được nhỏ hơn 900 và không được quá 4 điểm uốn trong 1 tuyến. Bán kính uốn cong đảm bảo theo tiêu chuẩn >10 lần đường kính ngoài của ống. Hệ thống ống dẫn khi lắp đặt phải đảm bảo tính mỹ thuật và sự an toàn cho chống cháy của công trình.",
       "Kiểm tra kích thước, vị trí, máng cáp, rãnh cáp, khoảng cách giữa các hố luồn cáp. Biện pháp bảo vệ.",
-      "Kiểm tra công tác chuẩn bị, bảo vệ tuyến ống, rãnh cáp, mương cáp trước khi chôn lấp hay đổ bê tông: Trước khi chôn lấp hay đổ bê tông, các đầu ống phải được hòan chỉnh và chắc chắn không để cho đất cát hoặc bê tông lấp kín đường ống. Có đặt sẵn dây mồi để kéo, luồn cáp vào ống. Dây mồi phải đảm bảo chắc chắn, bằng thép. Có biện pháp bảo vệ cáp không làm hỏng cách điện của cáp.",
-      "Kiểm tra biện pháp chống gỉ, ẩm, ăn mòn cho các mối nối . Biện pháp thóat nước cho rãnh và mương cáp.",
-      "Kiểm tra công tác nối đất, nối không máng, ống luồn dây: Trước khi chôn lấp, ống luồn cáp bằng kim lọai phải bảo đảm đã được nối chắc chắn với hệ thống nối đất, tiếp tiếp đất an tòan. Tiết diện dây nối và mối nối , điện trở nối đất phải đảm bảo theo quy định.",
+      "Kiểm tra công tác chuẩn bị, bảo vệ tuyến ống, rãnh cáp, mương cáp trước khi chôn lấp hay đổ bê tông: Trước khi chôn lấp hay đổ bê tông, các đầu ống phải được hoàn chỉnh và chắc chắn không để cho đất cát hoặc bê tông lấp kín đường ống. Có đặt sẵn dây mồi để kéo, luồn cáp vào ống. Dây mồi phải đảm bảo chắc chắn, bằng thép. Có biện pháp bảo vệ cáp không làm hỏng cách điện của cáp.",
+      "Kiểm tra biện pháp chống gỉ, ẩm, ăn mòn cho các mối nối. Biện pháp thoát nước cho rãnh và mương cáp.",
+      "Kiểm tra công tác nối đất, nối không máng, ống luồn dây: Trước khi chôn lấp, ống luồn cáp bằng kim loại phải bảo đảm đã được nối chắc chắn với hệ thống nối đất, tiếp đất an toàn. Tiết diện dây nối và mối nối, điện trở nối đất phải đảm bảo theo quy định.",
       "Kiểm tra nghiệm thu tuyến ống trước khi thực hiện công tác chôn lấp, đổ bê tông bảo vệ cho ống luồn dây, rãnh cáp.",
-      "Kiểm tra nghiệm thu công tác xây, đổ bê tông cho rãnh cáp , mương cáp theo quy định .",
+      "Kiểm tra nghiệm thu công tác xây, đổ bê tông cho rãnh cáp, mương cáp theo quy định.",
       "Kiểm tra công tác đánh dấu tuyến cáp ngầm."
      ]
     }
@@ -9106,12 +9105,12 @@
       "Một số chi tiết lắp đặt máng điển hình (minh họa)",
       "Lắp thang, máng cáp",
       "Máng được lắp khi đã kiểm tra cao độ giá đỡ đạt yêu cầu",
-      "Các cạnh của thang, máng đặc biệt tại cá mép nối phải được mài nhẵn ba via, không còn các cạnh sắc nhọn để tránh làm xước cáp khi kéo rải sau này. Những đoạn thang máng cong vênh không đạt chuẩn phải được loại bỏ",
-      "Giữa 2 đoạn thang, máng cáp nối với nhau phải có dây nối đất sọc xanh vàng (E)2.5mm2-Cu/PVChoặc dùng thanh đồng liên kết.",
-      "Bu lông nối phải được xiết chắc chắc",
+      "Các cạnh của thang, máng đặc biệt tại các mép nối phải được mài nhẵn ba via, không còn các cạnh sắc nhọn để tránh làm xước cáp khi kéo rải sau này. Những đoạn thang máng cong vênh không đạt chuẩn phải được loại bỏ",
+      "Giữa 2 đoạn thang, máng cáp nối với nhau phải có dây nối đất sọc xanh vàng (E)2.5mm2-Cu/PVC hoặc dùng thanh đồng liên kết.",
+      "Bu lông nối phải được xiết chắc chắn",
       "Hai đầu thang hoặc máng nối phải khớp nhau, bằng phẳng không vênh nhau để tránh làm trầy vỏ cáp khi kéo.",
       "Tại những vị trí máng cáp kết nối xuống tủ máng cáp được đi bên trên tủ và kết nối từ trên xuống.",
-      "Khi kiểm tra nghiệm thu chú ý cá vị trí co, ngã ba, ngã tư, vị trí thay đổi cao độ là những điểm hay mắc sai sót về chất lượng.",
+      "Khi kiểm tra nghiệm thu chú ý các vị trí co, ngã ba, ngã tư, vị trí thay đổi cao độ là những điểm hay mắc sai sót về chất lượng.",
       "Máng phải được cố định vào hệ giá đỡ đảm bảo không bị xê dịch",
       "Một số hình ảnh minh họa"
      ]
@@ -9184,7 +9183,7 @@
         "Sơn, nhãn, bề mặt"
        ],
        [
-        "Không lồi lõm, bong tróc sơn vỏ. Các đường gờ sắc cạnh và các vị trí có gờ sắc phải được che phủ bởi các vật liệu phù hơp."
+        "Không lồi lõm, bong tróc sơn vỏ. Các đường gờ sắc cạnh và các vị trí có gờ sắc phải được che phủ bởi các vật liệu phù hợp."
        ],
        [],
        [],
@@ -9372,7 +9371,7 @@
       "Biên bản nghiệm thu công việc xây dựng."
      ],
      "pp": [
-      "Kiểm tra lại công tác hoàn thiện lắp đặt tuyến, hệ thống ống luồn dấy.",
+      "Kiểm tra lại công tác hoàn thiện lắp đặt tuyến, hệ thống ống luồn dây.",
       "Kiểm tra, giám sát công tác kéo rải cáp. Điện trở cách điện của cáp, biện pháp bảo vệ cáp, đầu cáp chờ, chiều dài cáp, số lượng cáp, đánh dấu cáp. trước và sau kéo dải cáp. Cụ thể:",
       "Kiểm tra việc đánh dấu lộ cáp",
       "Kiểm tra thông mạch từng lộ cáp",
@@ -9392,13 +9391,13 @@
       "Biên bản nghiệm thu công việc xây dựng"
      ],
      "pp": [
-      "Khỏang cách giữa các cáp đảm bảo điều kiện tản nhiệt, cáp xếp ngay ngắn và được cố định chắc chắn. Khỏang cách cáp lực với cáp tín hiệu, cáp của hệ thống điện tử, thông tin, cáp của hệ thống sự cố phải đảm bảo quy định thiết kế và tiêu chuẩn.",
-      "Chiều cáp điện phải lớn hơn chiều dài của tuyến ống để đảm bảo cáp điện liên tục không có mối nối . Các hộp nối cáp, mối nối phát sinh phải được đồng ý văn bản của tư vấn giám sát.Chiều dài đầu cáp chờ dự phòng từ 0,5 đến 1 m.",
-      "Điện trỏ cách điện của cáp hạ áp, giữa các lõi cáp với nhau, giữa các lõi cáp với đất không nhỏ 5 MOhm . Với cáp trung áp, điện trở cách điện không nhỏ hơn 90% giá trị cách điện trong biên bản thí nghiệm.",
-      "Đánh dấu mạch dây dẫn, cáp bằng thanh đánh số hoặc bằng thẻ cáp (Ghi đầy đủ các thông số của cáp, mạch xuất phát, điểm đầu, điểm cuối ).",
+      "Khoảng cách giữa các cáp đảm bảo điều kiện tản nhiệt, cáp xếp ngay ngắn và được cố định chắc chắn. Khoảng cách cáp lực với cáp tín hiệu, cáp của hệ thống điện tử, thông tin, cáp của hệ thống sự cố phải đảm bảo quy định thiết kế và tiêu chuẩn.",
+      "Chiều cáp điện phải lớn hơn chiều dài của tuyến ống để đảm bảo cáp điện liên tục không có mối nối. Các hộp nối cáp, mối nối phát sinh phải được đồng ý văn bản của tư vấn giám sát.Chiều dài đầu cáp chờ dự phòng từ 0,5 đến 1 m.",
+      "Điện trở cách điện của cáp hạ áp, giữa các lõi cáp với nhau, giữa các lõi cáp với đất không nhỏ 5 MOhm. Với cáp trung áp, điện trở cách điện không nhỏ hơn 90% giá trị cách điện trong biên bản thí nghiệm.",
+      "Đánh dấu mạch dây dẫn, cáp bằng thanh đánh số hoặc bằng thẻ cáp (Ghi đầy đủ các thông số của cáp, mạch xuất phát, điểm đầu, điểm cuối).",
       "Sau khi kéo dải cáp, miệng ống tại các vị trí xuyên tầng, xuyên tường phái được bịt kín bằng vật liệu không cháy có cấp chịu lửa phù hợp, không có hại cho cách điện của cáp.",
-      "Kiểm tra khoảng cách an tòan giữa các máng cáp, giữa cáp điện lực và cáp điều khiển.",
-      "Kiểm tra các biện pháp an tòan khi kéo dải cáp."
+      "Kiểm tra khoảng cách an toàn giữa các máng cáp, giữa cáp điện lực và cáp điều khiển.",
+      "Kiểm tra các biện pháp an toàn khi kéo dải cáp."
      ]
     }
    ],
@@ -9588,7 +9587,7 @@
       "Trong trường hợp tủ điện đặt tại nơi có khả năng ngập nước như tủ điện trong trạm bơm thì đòi hỏi tủ điện phải là loại chống nước.",
       "Lắp thiết bị điện:",
       "Thiết bị điện đặt trong nhà yêu cầu có cách điện tốt. Chất cách điện phải khó cháy, chịu ẩm, không hút nước, không hư hỏng và biến dạng do các tác động liên tục của nhiệt độ cao hơn 25% so với nhiệt độ cho phép của thiết bị trong điều kiện làm việc bình thường.",
-      "Trong mọi trường hợp trên vỏ thiết bị phải ghi các chỉ số kỹ thuật cần thiết của dòng điện đi qua thiết bị như : cường độ, điện áp, công suất... Nếu thiết bị có nhiều bộ phận thì từng bộ phận phải ghi các chỉ số cần thiết.",
+      "Trong mọi trường hợp trên vỏ thiết bị phải ghi các chỉ số kỹ thuật cần thiết của dòng điện đi qua thiết bị như: cường độ, điện áp, công suất... Nếu thiết bị có nhiều bộ phận thì từng bộ phận phải ghi các chỉ số cần thiết.",
       "Mọi ổ cắm đều phải đặt xa các bộ phận kim loại có tiếp xúc với đất như ống dẫn nước, chậu tắm, các miếng kim loại ít nhất là 0,50 mét.",
       "Các loại động cơ sử dụng trong công trình như máy bơm, máy điều hoà không khí cũng như các thiết bị bảo vệ của chúng phải đặt ở nơi thuận tiện cho sử dụng và phải có người có chuyên môn phục vụ mới được sử dụng."
      ]
@@ -9766,13 +9765,13 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Bàn giao phòng máy cho đơn vị lắp lắp đặt",
+      "Bàn giao phòng máy cho đơn vị lắp đặt",
       "Khảo sát thực tế trước khi tiến hành thi công.",
-      "Mặt bằng đặt máy phải đúng vị trí và đảm bảo sự trùng khớp và tương tác giữa các bộ phận và các máy với nhau, không để sai lêch ảnh hưởng đến quá trình vận hành.",
+      "Mặt bằng đặt máy phải đúng vị trí và đảm bảo sự trùng khớp và tương tác giữa các bộ phận và các máy với nhau, không để sai lệch ảnh hưởng đến quá trình vận hành.",
       "Mặt bằng đặt máy phải thăng bằng để quá trình vận hành không gây lực phụ tác động vào các chi tiết máy ngoài mong muốn.",
-      "Trước khi tiến hành thi công, nhà thầu phải nộp TVGS biện pháp thi công lắp đặt, chuẩn bị máy móc thiêt bị phục vụ công tác lắp đặt. Biện pháp thi công phải được phê duyệt mới triển khai thi công.",
+      "Trước khi tiến hành thi công, nhà thầu phải nộp TVGS biện pháp thi công lắp đặt, chuẩn bị máy móc thiết bị phục vụ công tác lắp đặt. Biện pháp thi công phải được phê duyệt mới triển khai thi công.",
       "Bên nhà thầu lắp đặt cần nhận đầy đủ hồ sơ về máy, chỉ dẫn lắp đặt của người chế tạo máy từ phía Chủ đầu tư. Kiểm tra các hồ sơ, giấy tờ và nghiên cứu trước hồ sơ lắp đặt máy.",
-      "Đối chiếu giữa hồ sơ thiết kế và thực địa, nếu phát hiện sai lệc và điều chỉnh sai lệch cho phù hợp với hồ sơ, mọi sai lệch và cách khắc phục đều được lập thành văn bản và có xác nhận của các bên liên quan (Chủ đầu tư, TVGS, TVTK, nhà thầu lắp đặt, nhà cung cấp...)"
+      "Đối chiếu giữa hồ sơ thiết kế và thực địa, nếu phát hiện sai lệch và điều chỉnh sai lệch cho phù hợp với hồ sơ, mọi sai lệch và cách khắc phục đều được lập thành văn bản và có xác nhận của các bên liên quan (Chủ đầu tư, TVGS, TVTK, nhà thầu lắp đặt, nhà cung cấp...)"
      ]
     },
     {
@@ -9811,23 +9810,23 @@
       "Các thông số kĩ thuật cần kiểm tra:",
       "Điện áp, tốc độ động cơ",
       "Công suất máy, nhiệt độ",
-      "nghiệm thu tổ máy đã được lắp đặt vào vị trí theo đúng thiết kế (lắp đặt máy phát , lắp đặt tủ ATS, đấu nối cáp điện cho tổ máy phát điện với phụ tải yêu cầu).",
+      "nghiệm thu tổ máy đã được lắp đặt vào vị trí theo đúng thiết kế (lắp đặt máy phát, lắp đặt tủ ATS, đấu nối cáp điện cho tổ máy phát điện với phụ tải yêu cầu).",
       "nghiệm thu chạy thử đơn động không tải:",
       "thời gian 15 phút",
-      "Cho máy phát chạy thử đơn động không tải , xông điện hệ thống ATS, kiểm tra thông số chạy thử ( điện áp, tốc độ động cơ, áp lực dầu bôi trơn, tần số, nhiệt độ làm việc của động cơ và kiểm tra an toàn điện khi chạy thử đơn động thiết bị).",
+      "Cho máy phát chạy thử đơn động không tải, xông điện hệ thống ATS, kiểm tra thông số chạy thử (điện áp, tốc độ động cơ, áp lực dầu bôi trơn, tần số, nhiệt độ làm việc của động cơ và kiểm tra an toàn điện khi chạy thử đơn động thiết bị).",
       "Lập biên bản nghiệm thu chạy thử đơn động không tải thiết bị và tiến hành cho bước tiếp theo chạy thử lien động không tải",
       "Nghiệm thu chạy thử liên động không tải:",
       "Thời gian chạy thử 30 phút",
-      "Khởi động máy phát cho thông điện với hệ thống điên, tủ ATS, kiểm tra các chế độ làm việc của tổ máy, kiểm tra chức năng làm việc chuyển đổi nguồn, các chức năng bảo vệ khi làm việc liên động các thiết bị, kiểm tra thông số kỹ thuật khi chạy thử ( điện áp, tốc độ động cơ, áp lực dầu bôi trơn, tần số, nhiệt độ làm việc của động cơ và kiểm tra an toàn điện khi chạy thử đơn động thiết bị)",
+      "Khởi động máy phát cho thông điện với hệ thống điên, tủ ATS, kiểm tra các chế độ làm việc của tổ máy, kiểm tra chức năng làm việc chuyển đổi nguồn, các chức năng bảo vệ khi làm việc liên động các thiết bị, kiểm tra thông số kỹ thuật khi chạy thử (điện áp, tốc độ động cơ, áp lực dầu bôi trơn, tần số, nhiệt độ làm việc của động cơ và kiểm tra an toàn điện khi chạy thử đơn động thiết bị)",
       "Lập biên bản nghiệm thu chạy thử liên động không tải thiết bị và cho tiến hành chạy thử liên động có tải thiết bị",
       "Cho máy phát chạy thử đơn động không tải, xông điện hệ thống ATS, kiểm tra thông số chạy thử (điện áp, tốc độ động cơ, áp lực dầu bôi trơn, tần số, nhiệt độ làm việc của động cơ và kiểm tra an toàn điện khi chạy thử đơn động thiết bị).",
       "Nghiệm thu chạy thử liên động có tải:",
       "Thời gian chạy thử 45 phút",
       "Khởi động máy phát cho thông điện với hệ thống điên, tủ ATS, kiểm tra các chế độ làm việc của tổ máy, kiểm tra chức năng làm việc chuyển đổi nguồn, các chức năng bảo vệ khi làm việc liên động các thiết bị",
       "Đóng tải cho máy phát kiểm tra thông số kỹ thuật khi mang tải ở các chế độ vận hành (công suất đạt được khi mang tải, điện áp, tốc độ động cơ, áp lực dầu bôi trơn, tần số, nhiệt độ làm việc của động cơ và kiểm tra an toàn điện khi chạy thử thiết bị)",
-      "Lập biên bản nghiệm thu chạy thử liên động có tải thiết bị, và cho tiến hành thực hiện nghiệm thu tổ máy phát để dưa vào sử dụng.",
+      "Lập biên bản nghiệm thu chạy thử liên động có tải thiết bị, và cho tiến hành thực hiện nghiệm thu tổ máy phát để đưa vào sử dụng.",
       "Nghiệm thu tổ máy phát điện đưa vào sử dụng.",
-      "Nghiêm thu căn cứ vào các biên bản chạy thử đã thực hiện.",
+      "Nghiệm thu căn cứ vào các biên bản chạy thử đã thực hiện.",
       "Nghiệm thu tổng hợp đủ điều kiện để đưa tổ máy đi vào sử dụng.",
       "Lập biên bản nghiệm thu tổ máy phát điện đưa vào sử dụng."
      ]
@@ -9864,7 +9863,7 @@
       "Biên bản nghiệm thu công việc xây dựng"
      ],
      "pp": [
-      "Kiểm tra vật tư, vật liệu thi công: Vật tư, vật liệu sử dụng đúng chủng chủng lọai, kích thước phù hợp so với thiết kế.",
+      "Kiểm tra vật tư, vật liệu thi công: Vật tư, vật liệu sử dụng đúng chủng loại, kích thước phù hợp so với thiết kế.",
       "Kiểm tra vị trí, kích thước rãnh, hố hoặc lỗ khoan của các điện cực nối đất, dây nối đất.",
       "Kiểm tra mối nối hàn các điện cực tiếp đất. Hàn nối các điện cực tiếp đất, dây tiếp đất: Mối hàn không có khuyết tật. Chiều dài mối hàn tuân thủ theo tiêu chuẩn TCVN 9385:2012",
       "Kiểm tra độ dẫn điện của các mối nối.",
@@ -9883,9 +9882,9 @@
       "Biên bản nghiệm thu công việc xây dựng"
      ],
      "pp": [
-      "Kiểm tra vật tư, vật liệu sử dụng khi thi công: Vật tư, vật liệu sử dụng đúng chủng chủng lọai, kích thước phù hợp so với thiết kế.",
+      "Kiểm tra vật tư, vật liệu sử dụng khi thi công: Vật tư, vật liệu sử dụng đúng chủng loại, kích thước phù hợp so với thiết kế.",
       "Kiểm tra kích thước, vị trí, lắp đặt dây nối, kim thu sét, giá đỡ, hộp kiểm tra: Vị trí lắp đặt chính xác, chắc chắn, đảm bảo khoảng cách an toàn, đảm bảo cách điện.",
-      "Kiểm tra các mối nối, mối hàn liên kết. Đặc biệt giữa gián mái kim lọai với dây thoát sét:",
+      "Kiểm tra các mối nối, mối hàn liên kết. Đặc biệt giữa gián mái kim loại với dây thoát sét:",
       "Mối hàn không có khuyết tật. Chiều dài mối hàn tuân thủ theo tiêu chuẩn TCVN 9385:2012",
       "Mối nối bằng bulông phải được liên kết chắc chắn, tiếp xúc tốt. Điện trở tiếp xúc đảm bảo theo quy định.",
       "Kiểm tra độ dẫn điện của các mối nối."
@@ -9903,9 +9902,9 @@
      "pp": [
       "Kiểm tra vật tư, vật liệu sử dụng khi thi công.",
       "Chống cảm ứng tĩnh điện: Kiểm tra nối đẳng áp các tầng của công trình và nối với hệ thống nối đất bảo vệ, nối không của thiết bị điện. ..",
-      "Chống cảm ứng điện từ: Kiểm tra việc nối tất cả các đường ống kim lọai, bộ phận kết cấu kim lọai dài, đai và vỏ kim lọai của các đường cáp với nhau.",
+      "Chống cảm ứng điện từ: Kiểm tra việc nối tất cả các đường ống kim loại, bộ phận kết cấu kim loại dài, đai và vỏ kim loại của các đường cáp với nhau.",
       "Chống sét lan truyền:",
-      "Kiểm tra sự kết nối các đường ống ngầm kim lọai, vỏ kim lọai của các đường dây cáp điện, thông tin tại đầu vào công trình với hệ thống nối đất bảo vệ.",
+      "Kiểm tra sự kết nối các đường ống ngầm kim loại, vỏ kim loại của các đường dây cáp điện, thông tin tại đầu vào công trình với hệ thống nối đất bảo vệ.",
       "Kiểm tra lắp đặt các thiết bị chống sét lan truyền trên đường dây điện, thông tin.",
       "Kiểm tra tình trạng của các lớp mạ, sơn chống ăn mòn, chống gỉ"
      ]
@@ -9955,9 +9954,9 @@
       "Xác nhận vào biên bản kiểm tra chất lượng."
      ],
      "pp": [
-      "Dùng cẩu tự hành chuyên dụng vận chuyển máy biến áp từ vì trí hiện tại đến công trường.",
-      "Sử dụng cẩu, pa lăng, con lăn, xà beng, kích, Trên nền đất cát đã được chuẩn bị sẵn sẽ kê xà gồ, đăt tấm thép trên sà gồ, tấm thép, kết hợp với nhân công vận chuyển máy biến áp vào vị trí lắp đặt (theo thiết kế và thực tế công trường.",
-      "Máy biến áp được cẩu tự hành đặt trên bệ móng đổ bằng bê tông , lắp đặt máy biến áp theo hướng dẫn lắp đặt và theo đúng thiết kế.",
+      "Dùng cẩu tự hành chuyên dụng vận chuyển máy biến áp từ vị trí hiện tại đến công trường.",
+      "Sử dụng cẩu, pa lăng, con lăn, xà beng, kích, Trên nền đất cát đã được chuẩn bị sẵn sẽ kê xà gồ, đặt tấm thép trên sà gồ, tấm thép, kết hợp với nhân công vận chuyển máy biến áp vào vị trí lắp đặt (theo thiết kế và thực tế công trường.",
+      "Máy biến áp được cẩu tự hành đặt trên bệ móng đổ bằng bê tông, lắp đặt máy biến áp theo hướng dẫn lắp đặt và theo đúng thiết kế.",
       "Kiểm tra lắp đặt trạm (giám sát thi công) đảm bảo máy biến áp sau khi lắp đặt không bị vỡ sứ khi vận chuyển, các bộ phận chuyển mạch, thùng dầu làm mát, các van xả đáy không bị rò rỉ dầu.",
       "Vệ sinh sạch sẽ khu vực lắp đặt sau khi lắp đặt xong."
      ]
@@ -10004,10 +10003,10 @@
      ],
      "pp": [
       "a)Tiếp địa trạm biến áp:",
-      "Tất cả các trạm đều được bố trí tiếp địa chung cho cả tiếp địa làm việc và tiếp địa an toàn, hệ thống nối đất cho trạm, đảm bảo điện trở nối đất đánh thẳng ≤ 10 Ω.",
+      "Tất cả các trạm đều được bố trí tiếp địa chung cho cả tiếp địa làm việc và tiếp địa an toàn, hệ thống nối đất cho trạm, đảm bảo điện trở nối đất đánh thẳng ≤ 10 Ω.",
       "Cáp tiếp địa theo đúng thiết kế và được nghiệm thu cơ sở trước khi lắp đặt",
-      "Lấp đất rãnh tiếp địa : Đất phải đảm bảo không lẫn rác , cỏ ... và đất phải có điện trở suất theo đúng yêu cầu thiết kế kỹ thuật . Sau đó lấp đất từng lớp, tưới nước và đầm kỹ cho đến khi bằng mặt đất tự nhiên .",
-      "Kiểm tra trị số điện trở tiếp địa : Dùng Teromet để đo và kiểm tra trị số điện trở ở từng vị trí , có xác nhận của bên mời thầu . Nếu vị trí nào có trị số lớn hơn trị số cho phép thì phải báo cáo cho bên A xin ý kiến giải quyết .",
+      "Lấp đất rãnh tiếp địa: Đất phải đảm bảo không lẫn rác, cỏ ... và đất phải có điện trở suất theo đúng yêu cầu thiết kế kỹ thuật. Sau đó lấp đất từng lớp, tưới nước và đầm kỹ cho đến khi bằng mặt đất tự nhiên.",
+      "Kiểm tra trị số điện trở tiếp địa: Dùng Teromet để đo và kiểm tra trị số điện trở ở từng vị trí, có xác nhận của bên mời thầu. Nếu vị trí nào có trị số lớn hơn trị số cho phép thì phải báo cáo cho bên A xin ý kiến giải quyết.",
       "Tất cả các chi tiết của tiếp địa đều được mạ kẽm nhúng nóng.",
       "Khi thi công xong theo thiết kế nếu điện trở tiếp địa đo được không đảm bảo Rtđ 4 thì báo đơn vị thiết kế để có biện pháp giải quyết.",
       "b)Tiếp địa tủ trung thế và tủ hạ thế",
@@ -10119,10 +10118,10 @@
      ],
      "pp": [
       "Kiểm tra vật tư, vật liệu, phụ kiện và công cụ sử dụng khi thi công.",
-      "Bản vẽ triển khai thi công phải thể hiện được các tuyến ống, sơ đồ không gian, định vị ống, cao độ các ống chờ lắp đặt thiết bị, độ dốc và hướng dốc thoát nước của đường ống thoát, bảng thống kê chiều dài ống và phụ kiệ kèm theo…",
+      "Bản vẽ triển khai thi công phải thể hiện được các tuyến ống, sơ đồ không gian, định vị ống, cao độ các ống chờ lắp đặt thiết bị, độ dốc và hướng dốc thoát nước của đường ống thoát, bảng thống kê chiều dài ống và phụ kiện kèm theo…",
       "Kiểm tra công tác an toàn khi thi công cắt, đục trên cao: Kiểm tra công tác an toàn điện (nguồn điện thi công), sử dụng máy thi công, giáo thi công, dây an toàn, che chắn đảm bảo các phế thải sau khi đục cắt bắn ra xung quang hoặc rơi xuống dưới…",
       "Kiểm tra thiết bị thi công (máy đục, máy cắt, máy laze truyền cao độ...) đảm bảo thi công thuận lợi đạt yêu cầu chất lượng",
-      "Kiểm tra giám sát công tác đục tường đi ống, khoan rút lõi: Trước khi triển khai công tác cắt đục tường, yêu cầu đơn vị thi bật mực định vị các vị trí đường ống, cao độ ống, đánh dấu các vị trí đầu chờ... Công tác cắt tường phải đảm bảo độ rộng và sâu phù hợp với số lượng ống tuỳ từng vị trí theo bản vẽ shop.Thông thường độ sâu cắt đục tối thiểu bằng đường kính ống và không hơn đường kính ống 5mm. Độ rộng cho đường cắt ống cấp và thoát nước = D+2cm. Nếu ống đi theo vị trí thẳng đứng, hoặc không tại các vị trí gạch lỗ, yêu cầu nhà thầu có định vị, đánh dấu cụ thể hướng lỗ trước khi cắt,tuyệt đối không được đục trước khi cắt. ĐVTC không được cắt, đục tường tại cùng cao độ của 2 mặt tường đặc biệt là tường ≤ 110mm. Không đục đường ống cấp thoát nước trên cấu kiện bê tông. Trong trường hợp rãnh cắt lớn hơn 7cm, yêu cầu ĐVTC thực hiện công tác trát định vị sau đó dán lưới định vị",
+      "Kiểm tra giám sát công tác đục tường đi ống, khoan rút lõi: Trước khi triển khai công tác cắt đục tường, yêu cầu đơn vị thi bật mực định vị các vị trí đường ống, cao độ ống, đánh dấu các vị trí đầu chờ... Công tác cắt tường phải đảm bảo độ rộng và sâu phù hợp với số lượng ống tuỳ từng vị trí theo bản vẽ shop.Thông thường độ sâu cắt đục tối thiểu bằng đường kính ống và không hơn đường kính ống 5mm. Độ rộng cho đường cắt ống cấp và thoát nước = D+2cm. Nếu ống đi theo vị trí thẳng đứng, hoặc không tại các vị trí gạch lỗ, yêu cầu nhà thầu có định vị, đánh dấu cụ thể hướng lỗ trước khi cắt, tuyệt đối không được đục trước khi cắt. ĐVTC không được cắt, đục tường tại cùng cao độ của 2 mặt tường đặc biệt là tường ≤ 110mm. Không đục đường ống cấp thoát nước trên cấu kiện bê tông. Trong trường hợp rãnh cắt lớn hơn 7cm, yêu cầu ĐVTC thực hiện công tác trát định vị sau đó dán lưới định vị",
       "Kiểm tra độ dốc, độ vững chắc của đường ống (chú ý các vị trí giảm tốc, các vị trí đấu nối, các vị trí đai ôm ống, đai treo, quang treo...)",
       "Kiểm tra vị trí các đầu ra lắp đặt thiết bị.",
       "Kiểm tra chất lượng mối nối.",
@@ -10143,7 +10142,7 @@
       "Kiểm tra thử áp lực đường ống nhánh.",
       "Kiểm tra thử áp lực đường ống trục chính.",
       "Áp lực thử bằng áp lực làm việc công với 5daN/cm2 nhưng không quá 10daN/cm2, thời hạn 10 phút, trong thời gian đó áp lực thử giảm không quá 0,5daN/cm2.",
-      "Khối lượng thử áp lực 1 lần: Yêu cầu nhà thầu thử áp lực đường ống theo từng căn hộ, sau khi đã thử đủ khối lượng trên 01 tầng yêu cầu nhà thầu lắp đặt trục chính dọc hành lang và thử áp lực cho toàn bộ tầng."
+      "Khối lượng thử áp lực 1 lần: Yêu cầu nhà thầu thử áp lực đường ống theo từng căn hộ, sau khi đã thử đủ khối lượng trên 01 tầng yêu cầu nhà thầu lắp đặt trục chính dọc hành lang và thử áp lực cho toàn bộ tầng."
      ]
     },
     {
@@ -10158,17 +10157,17 @@
      ],
      "pp": [
       "Kiểm tra vật tư, vật liệu, phụ kiện và công cụ sử dụng khi thi công.",
-      "Kiểm tra định vị ống theo phương ngang và theo phương đứng yêu cầu dùng giá đỡ ống theo đúng yêu cầu của hồ sơ yêu cầu (bảng Quy cách và kỹ thuật lắp giá đỡ ống",
+      "Kiểm tra định vị ống theo phương ngang và theo phương đứng yêu cầu dùng giá đỡ ống theo đúng yêu cầu của hồ sơ yêu cầu (bảng Quy cách và kỹ thuật lắp giá đỡ ống",
       "Kiểm tra độ dốc, độ vững chắc của đường ống:",
-      "Ống UPVC: Các ống sẽ được nối với nhau bằng loại keo dán nhựa do nhà sản xuất khuyên dùng hoặc theo yêu cầu của hợp đồng. Phết một lớp dung dịch keo dán đều lên cả hai bề mặt của mối nối và giữ yên cho đến khi khô, phết một lớp thứ hai lên cả hai bề mặt của mối nối và ghép vào nhau, loại bỏ tất cả các dung dịch thừa bằng một miếng vải sạch, mềm.",
-      "Kiểm tra độ dốc đường ống đối với đường ống ngang (theo yêu cầu của thiết kế hoặc theo bảng 6 và bảng 7 TCVN 4519:1988.",
+      "Ống UPVC: Các ống sẽ được nối với nhau bằng loại keo dán nhựa do nhà sản xuất khuyên dùng hoặc theo yêu cầu của hợp đồng. Phết một lớp dung dịch keo dán đều lên cả hai bề mặt của mối nối và giữ yên cho đến khi khô, phết một lớp thứ hai lên cả hai bề mặt của mối nối và ghép vào nhau, loại bỏ tất cả các dung dịch thừa bằng một miếng vải sạch, mềm.",
+      "Kiểm tra độ dốc đường ống đối với đường ống ngang (theo yêu cầu của thiết kế hoặc theo bảng 6 và bảng 7 TCVN 4519:1988.",
       "Kiểm tra vị trí các đầu ra lắp đặt thiết bị.",
       "Kiểm tra chất lượng mối nối.",
       "Kiểm tra công tác vệ sinh đường ống.",
       "Thử kín và áp lực đường ống:",
-      "Đổ đầy nước đến mức cao nhất của phễu thu nước mưa, thời gian thử theo quy định trong hồ sơ thiết kế, không cho phép rỏ rỉ, quan sát những mối nối thử trong miệng ống.",
+      "Đổ đầy nước đến mức cao nhất của phễu thu nước mưa, thời gian thử theo quy định trong hồ sơ thiết kế, không cho phép rò rỉ, quan sát những mối nối thử trong miệng ống.",
       "Các đường ống nhánh của hệ thống thoát nước đặt trong nền đất, nền nhà hoặc các rãnh của sàn, được thử thủy lực trước khi lấp đất, bằng cách đổ đầy nước đến cos sàn nhà tầng 1.",
-      "Khối lượng thử 1 lần: Yêu cầu nhà thầu thử kín đường ống theo từng trục (căn cứ theo áp lực làm việc của đường ống và tránh xảy ra hiện tượng phá hủy các bên sẽ thống nhất số tầng trong 1 lần thử)"
+      "Khối lượng thử 1 lần: Yêu cầu nhà thầu thử kín đường ống theo từng trục (căn cứ theo áp lực làm việc của đường ống và tránh xảy ra hiện tượng phá hủy các bên sẽ thống nhất số tầng trong 1 lần thử)"
      ]
     },
     {
@@ -10184,12 +10183,12 @@
      "pp": [
       "Kiểm tra vật tư sử dụng, phù hợp yêu cầu của chỉ dẫn kỹ thuật, thiết kế hoặc hợp đồng.",
       "Kiểm tra hiện tượng rò rỉ thiết bị khi đấu nối. Kiểm tra độ chắc chắn của thiết bị:",
-      "Yêu cầu dùng bu lông để gắn thiết bị vệ sinh với kết cấu xây dựng.",
-      "Đối với xí bệt cần gắn chặt với sàn bằng bu lông hoặc keo",
-      "Tại vị trí nối thiết bị vệ sinh với xi phông phải lèn chặt bằng sợi gai tẩm bitum hoặc đặt các vòng cao su để lèn chặt.",
-      "Chậu tắm phải được đặt dốc về phía ống thoát, vỏ của chậu tắm và ống thoát phải được nối với nhau bằng một dây kim loại để cân bằng điện thế.",
-      "Cao độ các thiết bị vệ sinh phải được đặt đúng theo thiết kế hoặc bảng 9 của TCVN 4519:1988.",
-      "Phễu thu nước bẩn được đặt ở vị trí thấp của sàn và được chôn trong sàn bảo đảm nước không thấm qua chỗ đặt ống. Mặt lưới của phễu thu cần thấp hơn mặt sàn hoàn thiện hoặc thấp hơn đáy rãnh dẫn nước từ 5 đến 10mm.",
+      "Yêu cầu dùng bu lông để gắn thiết bị vệ sinh với kết cấu xây dựng.",
+      "Đối với xí bệt cần gắn chặt với sàn bằng bu lông hoặc keo",
+      "Tại vị trí nối thiết bị vệ sinh với xi phông phải lèn chặt bằng sợi gai tẩm bitum hoặc đặt các vòng cao su để lèn chặt.",
+      "Chậu tắm phải được đặt dốc về phía ống thoát, vỏ của chậu tắm và ống thoát phải được nối với nhau bằng một dây kim loại để cân bằng điện thế.",
+      "Cao độ các thiết bị vệ sinh phải được đặt đúng theo thiết kế hoặc bảng 9 của TCVN 4519:1988.",
+      "Phễu thu nước bẩn được đặt ở vị trí thấp của sàn và được chôn trong sàn bảo đảm nước không thấm qua chỗ đặt ống. Mặt lưới của phễu thu cần thấp hơn mặt sàn hoàn thiện hoặc thấp hơn đáy rãnh dẫn nước từ 5 đến 10mm.",
       "Các mối nối phải kín khít, các chi tiết và các giá đỡ trên toàn bộ hệ thống phải chắc chắn;",
       "Không có chỗ cong, chỗ gãy, nứt trên các đoạn thẳng của đường ống dẫn nước và khí;",
       "Các van khóa và van điều chỉnh, thiết bị bảo hiểm và các dụng cụ kiểm tra đo lường phải làm việc bình thường, đồng thời đảm bảo khả năng chịu lực phục vụ sửa chữa và thay thế dễ dàng;",
@@ -10227,7 +10226,7 @@
       "Vật liệu làm gioăng ngăn nước là vật liệu dẻo, chế tạo từ PVC biến tính hoặc cao su. Gioăng phải có cường độ chịu kéo và khả năng dãn dài lớn, không bị lão hoá trong môi trường kiềm, a xít, nước thải, nước biển và các dung dịch muối.",
       "Gioăng ngăn nước được sản xuất theo tiêu chuẩn ASTM các quy định D412 - D624 - D746 bảo đảm các thông số kỹ thuật như sau:",
       "Cường độ chịu kéo: 12,0 Mpa.",
-      "Độ giãn dài : 250% min",
+      "Độ giãn dài: 250% min",
       "Gioăng ngăn nước phải được lắp đặt chính xác vào vị trí thiết kế của khe nối như được thể hiện trên bản vẽ."
      ]
     },
@@ -10750,7 +10749,7 @@
        [
         "TCVN 4519:1998 mục 3.1",
         "- làm việc bình thường",
-        "- đảm bảo khả năng phụ vụ sửa chữa và thay thể dễ dàng.",
+        "- đảm bảo khả năng phụ vụ sửa chữa và thay thế dễ dàng.",
         "TCVN 4519:1998 mục 3.5",
         "- Được bố trí tại các vị trí thuận tiện cho việc sử dụng"
        ],
@@ -11660,7 +11659,7 @@
       ],
       [
        [
-        "Thử nghiệm điểu chỉnh nhiệt độ"
+        "Thử nghiệm điều chỉnh nhiệt độ"
        ],
        [],
        [],
@@ -11792,7 +11791,7 @@
       "c. Kiểm tra thiết bị tại công trường:",
       "Kiểm tra thông số kỹ thuật ghi trên vỏ, bao bì của vật tư, thiết bị; Kiểm tra kích thước, chủng loại.",
       "Kiểm tra tình trạng kỹ thuật: Mới 100%, không có hiện tượng hư hỏng.",
-      "Kiểm tra nhãn mác, tem: Nhãn mác hàng hóa rõ ràng, đầy đủ theo quy định số 178/1999/QĐ-TTG của Thủ tướng chính phủ.",
+      "Kiểm tra nhãn mác, tem: Nhãn mác hàng hóa rõ ràng, đầy đủ theo Nghị định số 43/2017/NĐ-CP về nhãn hàng hóa (sửa đổi, bổ sung bởi Nghị định số 111/2021/NĐ-CP).",
       "Kiểm tra về số lượng, khối lượng"
      ]
     },
@@ -11805,8 +11804,8 @@
      "hs": [],
      "pp": [
       "Phụ thuộc vào trạng thái chất cháy và vật liệu cháy, đám cháy được phân thành 4 loại: Cháy chất rắn ký hiệu là A, cháy chất lỏng ký hiệu là B, cháy chất khí ký hiệu là C và cháy kim loại ký hiệu là D. Mỗi loại còn được phân nhóm để bảo đảm hiệu quả cao khi sử dụng hệ thống chữa cháy.",
-      "Loại và nhóm đám cháy được quy đinh trong bảng 1 tiêu chuẩn TVCN 5760:1993.",
-      "Biểu tượng loại đám cháy giúp người sử dụng các thiết bị, dụng cụ chữa cháy phù hợp với từng loại đám cháy. Mỗi thiết bị, dụng cụ chữa cháy phải được gắn biểu tượng trên đúng quy định. Biểu tượng loại đám cháy được quy định ở bảng 2 tiêu chuẩn TVCN 5760:1993."
+      "Loại và nhóm đám cháy được quy định trong bảng 1 tiêu chuẩn TCVN 5760:1993.",
+      "Biểu tượng loại đám cháy giúp người sử dụng các thiết bị, dụng cụ chữa cháy phù hợp với từng loại đám cháy. Mỗi thiết bị, dụng cụ chữa cháy phải được gắn biểu tượng trên đúng quy định. Biểu tượng loại đám cháy được quy định ở bảng 2 tiêu chuẩn TCVN 5760:1993."
      ]
     },
     {
@@ -11826,7 +11825,7 @@
       "Bộ phận cung cấp điện.",
       "Hệ thống chữa cháy phải đảm bảo lưu lượng chất chữa cháy. Lưu lượng chất chữa cháy phụ thuộc vào loại chất chữa cháy, chất cháy, diện tích và thể tích cần chữa cháy.",
       "Hệ thống chữa cháy phải đảm bảo đủ áp lực đưa chất chữa cháy vào nơi cháy.",
-      "Bộ phận cung ứng dự trữ chất cháy phải đảm bảo hoạt động thường xuyên và phải có lượng dự trữ phù hợp với từng loại hệ thống chữa cháy theo tiêu chuẩn TCVN 2622:1978 và TVCN 5308:2021.",
+      "Bộ phận cung ứng dự trữ chất cháy phải đảm bảo hoạt động thường xuyên và phải có lượng dự trữ phù hợp với từng loại hệ thống chữa cháy theo tiêu chuẩn TCVN 2622:1978 và TCVN 5308:2021.",
       "Bộ phận phân bố chất chữa cháy, đầu phun và lăng phun phải đảm bảo phủ kín chất chữa cháy lên bề mặt chất cháy, diện tích chữa cháy và tỷ lệ phần trăm theo thiết kế khi chữa cháy thể tích.",
       "Phải sử dụng đầu phun, lăng phun phù hợp với từng loại hệ thống chữa cháy.",
       "Bộ phận báo động phải hoạt động bình thường. Khi chữa cháy phải phát tín hiệu báo động.",
@@ -11840,7 +11839,7 @@
      "hs": [],
      "pp": [
       "Chỉ được tiến hành lắp đặt hoặc thay đổi hệ thống chữa cháy theo hồ sơ thiết kế đã được cơ quan phòng cháy chữa cháy phê duyệt.",
-      "Khi lắp đặt hệ thống chữa cháy, các thiết bị phải đả bảo độ kín khít, độ bền nhất là các hệ thống chứa sẵn chất chữa cháy có áp lực.",
+      "Khi lắp đặt hệ thống chữa cháy, các thiết bị phải đảm bảo độ kín khít, độ bền nhất là các hệ thống chứa sẵn chất chữa cháy có áp lực.",
       "Bộ phận cung ứng, dự trữ chất chữa cháy đặt ở ngoài nhà phải có mái che tránh mưa nắng.",
       "Sau khi lắp đặt hoàn chỉnh hệ thống chữa cháy phải tiến hành thử nghiệm, đánh giá chất lượng và các thông số kỹ thuật của hệ thống và phải được ghi vào biên bản nghiệm thu."
      ]
@@ -11868,7 +11867,7 @@
      ],
      "hs": [
       "SMACNA 1985, 1993",
-      "T/C tham khảo ARI, BS và",
+      "T/C tham khảo ARI, BS và",
       "T/C TCVN2622-1995"
      ],
      "pp": [
@@ -11876,10 +11875,10 @@
       "1. Xác định vị trí lắp đặt đường ống theo bản vẽ thi công đã duyệt.",
       "2. Tiến hành gia công lắp đặt giá đỡ",
       "3. Vệ sinh ống gió mặt trong và mặt ngoài, dùng silicon (Silicon dành cho ống gió) để làm kín các góc ke và các mối ghép để tránh rò rỉ khí ra bên ngoài.",
-      "Chi tiết ống gió chế tạo tại xưởng :",
-      "Ống gió nẹp C: Ống kết nối với nhau bằng nẹp C. Chiều dài ống lớn nhất là 1150mm. Ống gió nẹp C áp dụng cho ống có kích thước < 400mm. Khoảng cách gân gia cường của ống gió nẹo C và ống gió mặt bích TDC là 250mm (±20mm)",
-      "b) Ống gió mặt bích TDC : Ống gió kết nối với nhau bằng mặt bích giữa 2 mặt bích có lớp ron để kín và gắn thêm líp tôn để tăng độ kín cho ống gió (Xem thêm hình chi tiết kết nối mặt bích TDC bên dưới). Ống gió mặt bích TDC áp dụng cho ống gió có kích thước < 2500mm. Khoảng cách gân gia cường của ống gió nẹp C và ống gió mặt bích TCD giống nhau (xem hình chi tiết tăng cứng ống gió bằng gân ngang bên dưới).",
-      "4 Tiến hành lắp đường ống :",
+      "Chi tiết ống gió chế tạo tại xưởng:",
+      "Ống gió nẹp C: Ống kết nối với nhau bằng nẹp C. Chiều dài ống lớn nhất là 1150mm. Ống gió nẹp C áp dụng cho ống có kích thước < 400mm. Khoảng cách gân gia cường của ống gió nẹp C và ống gió mặt bích TDC là 250mm (±20mm)",
+      "b) Ống gió mặt bích TDC: Ống gió kết nối với nhau bằng mặt bích giữa 2 mặt bích có lớp ron để kín và gắn thêm líp tôn để tăng độ kín cho ống gió (Xem thêm hình chi tiết kết nối mặt bích TDC bên dưới). Ống gió mặt bích TDC áp dụng cho ống gió có kích thước < 2500mm. Khoảng cách gân gia cường của ống gió nẹp C và ống gió mặt bích TCD giống nhau (xem hình chi tiết tăng cứng ống gió bằng gân ngang bên dưới).",
+      "4 Tiến hành lắp đường ống:",
       "a) Đối với ống gió có kích thước nhỏ hơn hoặc bằng 400mm, sử dụng mối ghép nẹp C",
       "Dùng nẹp C kết nối 4 mặt của mối ghép ống gió lại",
       "Độ dài của nẹp bằng độ dài 4 cạnh của ống gió",
@@ -11904,17 +11903,17 @@
       "Kiểm tra chính xác vị trí bản vẽ phù hợp giữa đèn, hệ thống cứu hỏa trước khi lắp đặt.",
       "Định vị chính xác vị trí lắp đặt tại mặt bằng trần.",
       "Lắp miệng gió phải thẳng, sạch, đẹp, chắc chắn, đảm bảo tính thẩm mỹ cho toàn bộ công trình.",
-      "Lắp đặt quạt và Silencer phải đúng chiều (lắp như ống gió bình thường) và theo đúng yêu cầu kỹ thuật của nhà sản suất (Catalogue đính kèm theo máy) đưa ra để đảm bảo vận hành đúng chức năng.",
+      "Lắp đặt quạt và Silencer phải đúng chiều (lắp như ống gió bình thường) và theo đúng yêu cầu kỹ thuật của nhà sản xuất (Catalogue đính kèm theo máy) đưa ra để đảm bảo vận hành đúng chức năng.",
       "e) Một số lưu ý khác:",
       "Trong đường ống gió và các bộ phận khác không được kéo dây điện, cáp điện và các loại ống dẫn khí độc hại, khí dễ cháy, dễ nổ và chất lỏng.",
       "Mối nối có thể tháo được của ống gió và các bộ phận khác không được bố trí trong sàn và trong tường. Lắp đặt ống gió của hệ thống hút khí thải và hút bụi nên tiến hành sau khi đã lắp các thiết bị mà chúng phải phục vụ. Các chi tiết chờ, chôn sẵn hoặc bulông nở của giá treo, giá đỡ phải ở vị trí chính xác, chắc chắn, các phần chôn chìm thì không được sơn và phải làm sạch hết dầu mỡ.",
-      "Các phụ kiện phải lắp đặt ở vị trí thuận tiện thao tác và phải đảm bảo cho mọi thao tác phải nhẹ nhàng, chính xác và chắc chắn. Khi lắp nhunữg ống mềm phải hết sức chú ý cho mối nối được chặt chẽ, không xoắn, lệch.",
+      "Các phụ kiện phải lắp đặt ở vị trí thuận tiện thao tác và phải đảm bảo cho mọi thao tác phải nhẹ nhàng, chính xác và chắc chắn. Khi lắp những ống mềm phải hết sức chú ý cho mối nối được chặt chẽ, không xoắn, lệch.",
       "* Lắp đặt Quạt:",
       "Hướng và vị trí đấu nối phải phù hợp với ống gió đã lắp đặt",
       "Xác định loại và vị trí lắp đặt của bộ chống rung",
       "Bao bọc bảo vệ quạt trước khi vận chuyển",
       "Việc lắp đặt quạt được thực hiện bởi công nhân và kỹ sư có nhiều kinh nghiệm",
-      "Xung quanh khu vực làm việc phỉa có vành đai an toàn và biển báo",
+      "Xung quanh khu vực làm việc phải có vành đai an toàn và biển báo",
       "Ty treo phải thẳng",
       "Đảm bảo bộ chống rung phải đứng tự do và ổn định",
       "Bộ chống rung phải chịu được tải trọng của quạt",
@@ -11943,11 +11942,11 @@
       "* Công tác chuẩn bị:",
       "Fan (quạt):",
       "Type(loại): axial (quạt jet fan)",
-      "Flow/pressure (lưu lượng/áp suất) : 400L/S, 350Pa",
+      "Flow/pressure (lưu lượng/áp suất): 400L/S, 350Pa",
       "Condition (tình trạng): good",
       "Electric: 1phase/220v/50Hz",
       "Pressure gauge (Đồng hồ áp suất)",
-      "Range (dải đo) : 0-750Pa",
+      "Range (dải đo): 0-750Pa",
       "Condition: good",
       "Máy tạo khói:",
       "Condition: good",
@@ -11966,7 +11965,7 @@
       "Giữ quạt chạy để duy trì áp suất 250 Pa trong đường ống.",
       "Kiểm tra rò rỉ trên đường ống",
       "Đóng VCD khi có khói xì ra.",
-      "Nếu có khói rò rỉ trên đường ống tại các vị trí mặt bích, các mối ghép giữa ống nhánh và ống chính, các vị trí lỗ mở, kiểm tra lại miếng đệm, siết chặt lại bulong, đai ốc và trám lại bằng silicon. Sau khi hoàn thành ta tiếp tục qui trình thử kín thêm vài lần cho đến khi không còn khỏi xì ra bên ngoài.",
+      "Nếu có khói rò rỉ trên đường ống tại các vị trí mặt bích, các mối ghép giữa ống nhánh và ống chính, các vị trí lỗ mở, kiểm tra lại miếng đệm, siết chặt lại bulong, đai ốc và trám lại bằng silicon. Sau khi hoàn thành ta tiếp tục qui trình thử kín thêm vài lần cho đến khi không còn khói xì ra bên ngoài.",
       "Nếu không có khói xì ra bên ngoài thì qui trình thử kín hoàn tất, tiếp tục thử xì khói ở những phân đoạn khác."
      ]
     }
@@ -12016,7 +12015,7 @@
       ],
       [
        [
-        "Vị trí lăp đặt"
+        "Vị trí lắp đặt"
        ],
        [],
        [],
@@ -12331,7 +12330,7 @@
       ],
       [
        [
-        "Số lương thiết bị"
+        "Số lượng thiết bị"
        ],
        [],
        [],
@@ -12472,7 +12471,7 @@
         "Ngoại quan bề mặt"
        ],
        [
-        "Sạch sẽ, không bám bủi bẩn. bề mặt không móp méo, lồi lõm, sơn không bong tróc."
+        "Sạch sẽ, không bám bụi bẩn. bề mặt không móp méo, lồi lõm, sơn không bong tróc."
        ],
        [],
        [],
@@ -12600,7 +12599,7 @@
       ],
       [
        [
-        "Thử nghiệm cách điện."
+        "Thử nghiệm cách điện."
        ],
        [],
        [],
@@ -12609,7 +12608,7 @@
       ],
       [
        [
-        "Thử nghiệm hoạt động của pin."
+        "Thử nghiệm hoạt động của pin."
        ],
        [],
        [],
@@ -12618,7 +12617,7 @@
       ],
       [
        [
-        "Thử nghiệm chức năng ATS."
+        "Thử nghiệm chức năng ATS."
        ],
        [],
        [],
@@ -12627,7 +12626,7 @@
       ],
       [
        [
-        "Thử nghiệm chức năng hoạt động tín hiệu báo cháy."
+        "Thử nghiệm chức năng hoạt động tín hiệu báo cháy."
        ],
        [],
        [],
@@ -12636,7 +12635,7 @@
       ],
       [
        [
-        "Ghi nhận dữ liệu hoạt động."
+        "Ghi nhận dữ liệu hoạt động."
        ],
        [],
        [],
@@ -12680,7 +12679,7 @@
       ],
       [
        [
-        "Tủ địa chỉ báo cháy"
+        "Tủ địa chỉ báo cháy"
        ],
        [],
        [],
@@ -12689,7 +12688,7 @@
       ],
       [
        [
-        "Đầu cảm biến"
+        "Đầu cảm biến"
        ],
        [],
        [],
@@ -12698,7 +12697,7 @@
       ],
       [
        [
-        "Nút nhấn báo cháy khẩn cấp"
+        "Nút nhấn báo cháy khẩn cấp"
        ],
        [],
        [],
@@ -12716,7 +12715,7 @@
       ],
       [
        [
-        "Các hệ thống khác kết nối với hệ thống báo cháy"
+        "Các hệ thống khác kết nối với hệ thống báo cháy"
        ],
        [],
        [],
@@ -13542,7 +13541,7 @@
      "pp": [
       "Kiểm tra lắp đặt ống âm trần, sàn",
       "Kiểm tra lấy dấu, đo đạc, cố định ống và hộp nối dây bên trong kết cấu thép sàn. Băng kín các vị trí nối và hộp nối dây. Đặc biệt khi lắp đặt ống tránh các đường ống bị chồng chéo lên các đường ống của hệ thống khác.",
-      "Lưu ý: Không được phép nối măng xông tại vị trí ống qua dầm, kiểm tra sự cố định vị tri măng sông chắc chắn bằng keo và thép buộc vào lớp thép kết cấu",
+      "Lưu ý: Không được phép nối măng xông tại vị trí ống qua dầm, kiểm tra sự cố định vị trí măng sông chắc chắn bằng keo và thép buộc vào lớp thép kết cấu",
       "Kiểm tra lắp đặt ống âm tường",
       "Kiểm tra độ chắc chắn của ống trên tường đảm bảo không bị dịch chuyển trong suốt quá trình hoàn thiện chát tường. Đế âm phải được cố định vào tường bằng đinh hoặc vữa chát tường.",
       "Khoảng cách từ đế âm đến vị trí định vị ống là 300mm và các mối định vị tiếp theo là 1000mm",
@@ -13560,14 +13559,14 @@
      "hs": [],
      "pp": [
       "Kiểm tra lại công tác hoàn thiện lắp đặt tuyến, hệ thống ống luồn dây.",
-      "Kiểm tra, giám sát công tác kéo rải cáp. Biện pháp bảo vệ cáp, đầu cáp chờ, chiều dài cáp, số lượng cáp, đánh dấu cáp. trước và sau kéo dải cáp .",
+      "Kiểm tra, giám sát công tác kéo rải cáp. Biện pháp bảo vệ cáp, đầu cáp chờ, chiều dài cáp, số lượng cáp, đánh dấu cáp. trước và sau kéo dải cáp.",
       "Ống luồn dây trước khi kéo, dải cáp phải được vệ sạch sẽ kỹ càng, có dây thép mồi để kéo cáp. Không sử dụng dầu mỡ để bôi trơn khi kéo dải cáp",
       "Tổng tiết diện của cáp trong ống không lớn hơn 40% tiết diện của ống.",
-      "Chiều cáp điện phải lớn hơn chiều dài của tuyến ống để đảm bảo cáp điện liên tục không có mối nối . Các hộp nối cáp phát sinh phải được đồng ý văn bản của tư vấn giám sát.Chiều dài đầu cáp chờ dự phòng từ 0,5 đến 1 m.",
+      "Chiều cáp điện phải lớn hơn chiều dài của tuyến ống để đảm bảo cáp điện liên tục không có mối nối. Các hộp nối cáp phát sinh phải được đồng ý văn bản của tư vấn giám sát.Chiều dài đầu cáp chờ dự phòng từ 0,5 đến 1 m.",
       "Sau khi kéo dải cáp, miệng ống tại các vị trí xuyên tầng, xuyên tường phái được bịt kín bằng vật liệu không cháy có cấp chịu lửa phù hợp, không có hại cho cách điện của cáp.",
-      "Kiểm tra các biện pháp an tòan khi kéo dải cáp.",
+      "Kiểm tra các biện pháp an toàn khi kéo dải cáp.",
       "Các đường cáp truyền dẫn dữ liệu, nếu giao nhau với các đường cáp điện hay tín hiệu khác, phải đặt cách nhau tối thiểu 50mm để đảm bảo tránh nhiễu cho đường truyền. Các đường cáp dữ liệu, nếu chạy song song với hệ thống cáp nguồn, sẽ được đặt cách nhau tối thiểu 150mm.",
-      "Cáp được dán nhán rõ ràng tại cả 2 đầu. Không được để nhãn cáp nằm trong bó.",
+      "Cáp được dán nhãn rõ ràng tại cả 2 đầu. Không được để nhãn cáp nằm trong bó.",
       "Mặt che bụi phải lắp ở các đầu nối cho tới khi kết nối tới thiết bị cụ thể.",
       "Kiểm tra lắp đặt các nút outlet:",
       "Kiểm tra sự chắc chắn của các đầu nhân mạng cat5e và cat6",
@@ -13608,7 +13607,7 @@
       "Cấu hình SNMP để quản trị thiết bị",
       "Cấu hình ảo hóa thiết bị",
       "Cấu hình kết nối đến các module",
-      "Cấu hình định tuyển",
+      "Cấu hình định tuyến",
       "Cấu hình Access module",
       "Thiết bị chuyển mạch truy cập",
       "Cấu hình quản trị",
@@ -13771,7 +13770,7 @@
       ],
       [
        [
-        "Vị trí lắp dặt Hub, switch"
+        "Vị trí lắp đặt Hub, switch"
        ],
        [],
        [],
@@ -14089,7 +14088,7 @@
       "Đơn vị lắp đặt thang máy phải phối hợp với bên xây dựng phần giếng thang để chừa sẵn lỗ đặt các bộ phận điện liên quan đến sử dụng thang máy như các lỗ lắp nút gọi, lỗ lắp tín hiệu báo tầng...",
       "Khi phần xây sẵn sàng cho phần lắp, cần kiểm tra chất lượng xây dựng và chỉ tiến hành lắp đặt khi phần xây không còn khuyết tật và đáp ứng các yêu cầu kĩ thuật theo thiết kế.",
       "Bố trí các sàn thao tác bằng gỗ, lắp từ tầng dưới trở lên, dọc theo chiều cao giếng thang với khoảng cách giữa các sàn thao tác không quá 3 mét. Có thang tre để lên xuống giữa các tầng sàn thao tác. Sàn thao tác cần chắc chắn và có thể chịu được tải là 2,5 KN trên 1m2 sàn. Che chắn tất cả các cửa tầng và ô lắp ráp từ mặt sàn dừng lên độ cao không dưới 1,1 mét, che kín sát lên sàn không dưới 1,5 mét. Các bộ phận che chắn phải cố định chắc vào tường.",
-      "Kéo đèn sáng thi công vào từng tầng trong giếng thang và vào buồng máy. Điện chiếu sáng thi công dùng loại điện áp không quá 42V và độ chiếu sáng sáng hơn 50 lux. Các bóng sợi đốt phải mắc phía trên sàn thao tác tại nơi không cản trở đến thao tác khi thi công.",
+      "Kéo đèn sáng thi công vào từng tầng trong giếng thang và vào buồng máy. Điện chiếu sáng thi công dùng loại điện áp không quá 42V và độ chiếu sáng lớn hơn 50 lux. Các bóng sợi đốt phải mắc phía trên sàn thao tác tại nơi không cản trở đến thao tác khi thi công.",
       "Trước khi thi công phải kiểm tra về số lượng chi tiết và đảm bảo các chi tiết phải đồng bộ lắp đủ và đảm bảo chất lượng. Ngoài ra phải đầy đủ vật tư, trang bị, dụng cụ, đồ gá cần thiết cho lắp đặt. Các trang bị điện phải kiểm tra độ dẫn điện, sự thông mạch, độ cách điện và các yêu cầu khác khi đã đạt yêu cầu mới được đem sử dụng.",
       "Cần một lần nữa kiểm tra hồ sơ kĩ thuật - lắp ráp của thang máy. Phải đầy đủ trang bị bảo hộ lao động, phòng chống cháy, và có bản nội qui an toàn lắp đặt thang máy treo tại nơi thi công."
      ]
@@ -14103,8 +14102,8 @@
       "Trong giếng thang và buồng máy không được lắp đặt bất kỳ một bộ phận thiết bị nào khác như đường ống nước, dây điện không liên quan đến thang máy.",
       "Buồng máy phải thông thoáng, khô ráo và che kín bụi. Hố giếng phải khô ráo, không có nước thấm từ ngoài vào. Cửa buồng máy phải có khoá và khoá phải lắp trước khi đưa thiết bị vào buồng. Khoảng hở giữa dây cáp và mép lỗ lùa cáp phải cách nhau > 25 mm. Khoảng khe giữa bậc cửa tầng và bậc cửa cabin không được quá 25 mm với thang điều khiển từ cabin và với cabin không có cửa, không quá 35 mm với các loại thang khác. Độ chính xác dừng ở mỗi điểm dừng phải đảm bảo trong giới hạn 20 mm đối với thang máy bệnh viện, thang máy chất hàng bằng xe và 50mm với các thang máy khác.",
       "Khoảng cách những điểm gần nhất của các bộ phận thang máy không được dưới các giá trị sau:",
-      "* 50 mm giữa cabin và đối trọng ;",
-      "* 50 mm giữa cabin, đối trọng với vách ngăn tầng lưới thép ;",
+      "* 50 mm giữa cabin và đối trọng;",
+      "* 50 mm giữa cabin, đối trọng với vách ngăn tầng lưới thép;",
       "* 25 mm giữa cabin, đối trọng với vách ngăn kín của giếng ở phía không có cửa cabin (15 mm với thành giếng không có những phần lồi, lõm).",
       "* 10 mm giữa bậc cửa tầng và bậc cửa cabin, giữa các chi tiết nhô lên của cửa tầng và cửa cabin, không kể các chi tiết khoá cửa tầng cùng các bộ phận liên quan ở cabin.",
       "* 10 mm giữa các chi tiết nhô lên của cabin (đối trọng) với các phần kết cấu ray dẫn hướng, kể cả các chi tiết kẹp chặt ray.",
@@ -14119,7 +14118,7 @@
      "tc": [],
      "hs": [],
      "pp": [
-      "Lắp thang máy phải tuân thủ nghiêm Quy phạm kĩ thuật an toàn trong xây dựng TCVN 5308:2021, Tiêu chuẩn an toàn điện trong xây dựng TCVN 4086:2021, Quy phạm kĩ thuật an toàn thiết bị nâng TCVN 4244:2021, Yêu cầu chung về an toàn trong hàn điện TCVN 3146:1986 và An toàn cháy TCVN 3254:1989 ; đồng thời phải tuân thủ nghiêm ngặt các qui định dưới đây:",
+      "Lắp thang máy phải tuân thủ nghiêm Quy phạm kĩ thuật an toàn trong xây dựng TCVN 5308:2021, Tiêu chuẩn an toàn điện trong xây dựng TCVN 4086:2021, Quy phạm kĩ thuật an toàn thiết bị nâng TCVN 4244:2021, Yêu cầu chung về an toàn trong hàn điện TCVN 3146:1986 và An toàn cháy TCVN 3254:1989; đồng thời phải tuân thủ nghiêm ngặt các qui định dưới đây:",
       "Các việc xây trát hoàn thiện phải tiến hành sau khi lắp đặt xong thiết bị thang máy. Việc trát tường giếng thang (nếu thiết kế có yêu cầu) phải tiến hành trước khi lắp thang máy.",
       "Việc chạy thử khởi động, hiệu chỉnh thiết bị cơ, thiết bị điện, thiết bị điều khiển, hệ thống kiểm tra và tín hiệu chỉ tiến hành sau khi đã hoàn thành mọi công tác xây trát hoàn thiện. Không được đồng thời lắp thang máy với thi công xây dựng hoặc lắp máy khác ở độ cao khác nhau trong khu vực giếng thang.",
       "Khi hiệu chỉnh các chi tiết thuộc thang máy phải bảo đảm nhiệt độ trong buồng máy và giếng thang không được quá 40oC và thấp hơn 5oC.",
@@ -14150,7 +14149,7 @@
       "Vận tốc làm việc và vận tốc chậm",
       "Độ chính xác dừng thang ở các tầng",
       "Diện tích sàn cabin của thang chở người.",
-      "Các quá trình phải kiểm tra :",
+      "Các quá trình phải kiểm tra:",
       "Quan sát bằng mắt thường và nghe để có nhận xét sơ bộ về hình dạng, vị trí, quá trình vận hành và nhìn nhận tổng thể",
       "Thử không tải",
       "Thử tải tĩnh",
@@ -14163,13 +14162,13 @@
       "Phần bao che giếng thang",
       "Cabin, hệ đối trọng, ray dẫn hướng",
       "Cửa cabin và cửa tầng",
-      "Cáp ( hay xích ) và phần neo kẹp đầu cáp ( xích ).",
+      "Cáp (hay xích) và phần neo kẹp đầu cáp (xích).",
       "Bảo vệ điện",
       "Độ cách điện của thiết bị điện và dây dẫn điện.",
       "Ngoài ra cần chú ý đến các khoảng cách an toàn, sơ đồ điện và các dụng cụ cần thiết trong buồng máy, các nhãn hiệu của nhà máy sản xuất và ngay cả chữ trên các bảng tín hiệu, bảng điều khiển.",
       "Những kinh nghiệm khi kiểm tra cần được chú ý hết sức:",
       "(i) Khi thử không tải ngoài việc đáp ứng các tiêu chí của catalogue nêu còn cần chú ý đến sự hoạt động của các bộ phận sau:",
-      "Bộ dẫn động ( xem nhiệt độ có tăng hay không, mức độ phát nhiệt ra sao, dầu có bị chảy không, phanh hãm hoạt động thế nào ).",
+      "Bộ dẫn động (xem nhiệt độ có tăng hay không, mức độ phát nhiệt ra sao, dầu có bị chảy không, phanh hãm hoạt động thế nào).",
       "Cửa cabin và cửa tầng",
       "Bộ điều khiển, chiếu sáng và tín hiệu",
       "Các bộ phận an toàn như công tắc hành trình, nút \"stop\", khoá tự động của tầng, sàn động của cabin.",
@@ -14234,7 +14233,7 @@
       "Khi phần xây sẵn sàng cho phần lắp, cần kiểm tra chất lượng xây dựng và chỉ tiến hành lắp đặt khi phần xây không còn khuyết tật và đáp ứng các yêu cầu kĩ thuật theo thiết kế.",
       "Nhà thầu phải đệ trình Đệ trình catalogues tài liệu kĩ thuật busway cho TVGS và CĐT sự được chấp thuận trước khi tiến hành nhập vật tư về công trường và nghiệm thu vật liệu đầu vào trước khi triển khai thi công.",
       "Nhà thầu phải đệ trình bản vẽ chi tiết lắp đặt cho TVGS và CĐT.",
-      "Kéo đèn sáng thi công vào từng tầng trong vị trí lắp đăth thanh dẫn điện Busway. Điện chiếu sáng thi công dùng loại điện áp không quá 42V và độ chiếu sáng sáng hơn 50 lux. Các bóng sợi đốt phải mắc phía trên sàn thao tác tại nơi không cản trở đến thao tác khi thi công.",
+      "Kéo đèn sáng thi công vào từng tầng trong vị trí lắp đặt thanh dẫn điện Busway. Điện chiếu sáng thi công dùng loại điện áp không quá 42V và độ chiếu sáng lớn hơn 50 lux. Các bóng sợi đốt phải mắc phía trên sàn thao tác tại nơi không cản trở đến thao tác khi thi công.",
       "Trước khi thi công phải kiểm tra về số lượng chi tiết và đảm bảo các chi tiết phải đồng bộ lắp đủ và đảm bảo chất lượng. Ngoài ra phải đầy đủ vật tư, trang bị, dụng cụ, đồ gá cần thiết cho lắp đặt. Các trang bị điện phải kiểm tra độ dẫn điện, sự thông mạch, độ cách điện và các yêu cầu khác khi đã đạt yêu cầu mới được đem sử dụng. Cần một lần nữa kiểm tra hồ sơ kĩ thuật",
       "Lắp ráp của thanh dẫn điện Busway phải đầy đủ trang bị bảo hộ lao động, phòng chống cháy, và có bản nội qui an toàn lắp đặt treo tại nơi thi công."
      ]
@@ -14256,34 +14255,34 @@
       "Lưu ý phải kết hợp bản vẽ các hệ điều hoà, cấp thoát nước, điện nhẹ, phòng cháy, chữa cháy với nhau để khi lắp đặt không bị chồng chéo lên nhau",
       "Trong trục lắp đặt thanh dẫn điện Busway không được lắp đặt bất kỳ một bộ phận thiết bị nào khác như đường ống nước, dây điện không liên quan. Đánh dấu vị trí lắp đặt busway bằng mực màu tương phản với tường nhà và màu của sàn nhà.",
       "1.1 Lắp đặt giá đỡ cho busway",
-      "Bước 1: Không đặt support của ti treo vào vị trí khớp nối, trọng lượng busway sẽ làm cho 2 thanh Busway 2 bên mối nối không còn thẳng hàng.",
-      "Bước 2: Khoảng cách lắp ti treo ngang: 1,5m.",
-      "Bước 3: Toàn bộ ti treo ngang phải được mạ kẽm để chống rỉ sét.",
+      "Bước 1: Không đặt support của ti treo vào vị trí khớp nối, trọng lượng busway sẽ làm cho 2 thanh Busway 2 bên mối nối không còn thẳng hàng.",
+      "Bước 2: Khoảng cách lắp ti treo ngang: 1,5m.",
+      "Bước 3: Toàn bộ ti treo ngang phải được mạ kẽm để chống rỉ sét.",
       "Chú ý: Các kích thước theo tài liệu hướng dẫn của nhà cung cấp.",
       "Giá đỡ lò so (spring Hanger)",
-      "Bước 1: Cố định thanh Support (thanh đỡ) lên sàn của mỗi tầng, trong gian thông tầng.",
-      "Bước 2: Lắp thanh Busway trục đứng tới đâu thì nới lỏng bulong của Spring Hanger ở tầng đó rồi bắt khớp vào vỏ thanh Busway và xiết chặt ốc để cố định.",
-      "Bước 3: Có thể xả bớt lò xo để nâng toàn bộ hệ thống Busway lên.",
+      "Bước 1: Cố định thanh Support (thanh đỡ) lên sàn của mỗi tầng, trong gian thông tầng.",
+      "Bước 2: Lắp thanh Busway trục đứng tới đâu thì nới lỏng bulong của Spring Hanger ở tầng đó rồi bắt khớp vào vỏ thanh Busway và xiết chặt ốc để cố định.",
+      "Bước 3: Có thể xả bớt lò xo để nâng toàn bộ hệ thống Busway lên.",
       "Kiểm tra bên ngoài busway khi đến công trường",
       "3.1. Vận chuyển busway đến vị trí lắp",
       "Nhà thầu vận chuyển các Modul của hệ Busway từ kho tới vị trí lắp đặt bằng xe nâng tay / vận thăng / thang hàng. Thiết bị được đặt cân đối và cố định trên phương tiện vận chuyển tránh hiện tượng va đập gây ảnh hưởng sàn phẩm.",
-      "Đối với hệ thống Busway theo phương ngang: Thanh dẫn được đưa lên sàn thao tác và gá đặt lên giá đỡ thông qua vận chuyển bộ hoặc dùng tời (sử dụng cáp vải và áp dụng đối với trường hợp trần cao > 8m ).",
-      "Đối với hệ thống Busway theo phương đứng: Thanh dẫn được đưa lên sàn thao tác tại tầng kế trên sau đó sử dụng tời được lắp đặt tại kế tiếp theo để tiến hành treo / thả phân đoạn Busway vào vị trí kế nối (sử dụng cáp vải )",
+      "Đối với hệ thống Busway theo phương ngang: Thanh dẫn được đưa lên sàn thao tác và gá đặt lên giá đỡ thông qua vận chuyển bộ hoặc dùng tời (sử dụng cáp vải và áp dụng đối với trường hợp trần cao > 8m).",
+      "Đối với hệ thống Busway theo phương đứng: Thanh dẫn được đưa lên sàn thao tác tại tầng kế trên sau đó sử dụng tời được lắp đặt tại kế tiếp theo để tiến hành treo / thả phân đoạn Busway vào vị trí kết nối (sử dụng cáp vải)",
       "Sắp xếp các thanh busway sao cho mặt “TOP” ở cùng hướng, điều đó đảm bảo việc lắp Busway là đúng và không bị ngược pha. Mỗi thanh Busway có 1 đầu có gắn khớp nối và 1 đầu không, 2 thanh Busway sẽ được ghép với nhau",
       "Mỗi 1 thanh busway sẽ được đánh mã thứ tự (A1, A2, …), đội thi công theo mã này và mặt có “TOP” để lắp đặt cho đúng.",
       "Quy trình lắp đặt như sau:",
-      "Bước 1: Tháo tối thiểu 1 miếng đậy mối nối ra (hình vẽ.), ghép 2 thanh busway lại nhờ mối nối và nắp tấm ốp lại dùng bulong cố định.",
-      "Bước 2: Chú ý sắp xếp tất cả các thanh busway được ghép nối đều phải có mặt “TOP” (được dán ký hiệu trên thanh gần khớp nối) ở cùng hướng. Sử dụng dụng cụ nhà máy cung cấp giúp việc lắp đặt dễ dàng hơn.",
-      "Bước 3: Nếu cần thiết, có thể nhẹ nhàng nới lỏng bulong để căn chỉnh lại mối nối.",
-      "Bước 4: Khi ghép các thanh busway, cần đảm bảo rằng các thanh busbar phải được xếp xen kẽ với nhau và với các lớp cách điện.",
-      "Bước 5: Khoảng cách tiêu chuẩn giữa 2 bulong của 2 miếng vỏ đậy khớp nối là 233.5 mm. Tuy nhiên, khớp nối có thể điều chỉnh được.",
-      "Bước 6: Nếu 2 miếng vỏ đậy không khớp với mối nối, điều chỉnh độ rộng của lỗ bắt ốc ở trên vỏ đậy.",
-      "Bước 7: Kiểm tra độ thẳng – phẳng của các thanh busway sau khi ghép nối.",
-      "Bước 8: Sau khi lắp đặt xong và kiểm tra lại kỹ càng, ta siết gãy đầu bulong phía ngoài để đảm bảo mối nối đã được ép đủ chặt, đủ an toàn.",
+      "Bước 1: Tháo tối thiểu 1 miếng đậy mối nối ra (hình vẽ.), ghép 2 thanh busway lại nhờ mối nối và nắp tấm ốp lại dùng bulong cố định.",
+      "Bước 2: Chú ý sắp xếp tất cả các thanh busway được ghép nối đều phải có mặt “TOP” (được dán ký hiệu trên thanh gần khớp nối) ở cùng hướng. Sử dụng dụng cụ nhà máy cung cấp giúp việc lắp đặt dễ dàng hơn.",
+      "Bước 3: Nếu cần thiết, có thể nhẹ nhàng nới lỏng bulong để căn chỉnh lại mối nối.",
+      "Bước 4: Khi ghép các thanh busway, cần đảm bảo rằng các thanh busbar phải được xếp xen kẽ với nhau và với các lớp cách điện.",
+      "Bước 5: Khoảng cách tiêu chuẩn giữa 2 bulong của 2 miếng vỏ đậy khớp nối là 233.5 mm. Tuy nhiên, khớp nối có thể điều chỉnh được.",
+      "Bước 6: Nếu 2 miếng vỏ đậy không khớp với mối nối, điều chỉnh độ rộng của lỗ bắt ốc ở trên vỏ đậy.",
+      "Bước 7: Kiểm tra độ thẳng – phẳng của các thanh busway sau khi ghép nối.",
+      "Bước 8: Sau khi lắp đặt xong và kiểm tra lại kỹ càng, ta siết gãy đầu bulong phía ngoài để đảm bảo mối nối đã được ép đủ chặt, đủ an toàn.",
       "Lắp đặt Plug In Unit (Tủ rẽ nhánh các tầng)",
-      "Bước 1: Đảm bảo rằng Plug In Unit đang ở chế độ OFF.",
-      "Bước 2: Đẩy Plug In Unit thẳng vào điểm mở trên thanh busway.",
-      "Bước 3: Chắc chắn rằng ngàm phía sau Plug In Unit đã khớp vào vỏ busway.",
+      "Bước 1: Đảm bảo rằng Plug In Unit đang ở chế độ OFF.",
+      "Bước 2: Đẩy Plug In Unit thẳng vào điểm mở trên thanh busway.",
+      "Bước 3: Chắc chắn rằng ngàm phía sau Plug In Unit đã khớp vào vỏ busway.",
       "Biện pháp Test thử",
       "Trong quá trình lắp đặt, sử dụng đồng hồ để đo cách điện và thông mạch, không để kết quả test MegaOhm (cách điện) xuống dưới 1M / 100 Feets.",
       "Trước khi đóng điện vào lưới, ta phải test cách điện cho toàn hệ thống 1 lần nữa.",
@@ -14307,7 +14306,7 @@
      "pp": [
       "Công nhân trước khi đóng điện phải đeo găng tay cách điện và đi giầy đầy đủ. Kiểm tra cách điện trước khi đóng điện. Trước khi đóng điện phải thông báo cho tất cả các bên liên quan đến hiện trường kiểm tra cách điện đảm bảo",
       "Lắp đặt thanh dẫn điện Busway phải tuân thủ nghiêm Qui phạm trang bị điện 11TCN 18-2006, 11TCN 19-2006, 11TCN 20-2006, 11TCN 21-2006 và các tiểu chuẩn của nhà sản xuất đưa ra, đồng thời phải tuân thủ nghiêm ngặt các qui định dưới đây:",
-      "Sau khi hoàn thành công tác lắp đặt phải đo kiểm lại cách điện toàn bộ các thanh dẫn điện Busway và các mối ghép giữa các thanh dẫn về sự chắc chắn và xiết nổ( nối thông các thanh dẫn điện). Không được đồng thời lắp thanh dẫn điện với thi công xây dựng hoặc lắp máy khác ở độ cao khác nhau trong khu vực phòng kỹ thuật điện.",
+      "Sau khi hoàn thành công tác lắp đặt phải đo kiểm lại cách điện toàn bộ các thanh dẫn điện Busway và các mối ghép giữa các thanh dẫn về sự chắc chắn và xiết nổ(nối thông các thanh dẫn điện). Không được đồng thời lắp thanh dẫn điện với thi công xây dựng hoặc lắp máy khác ở độ cao khác nhau trong khu vực phòng kỹ thuật điện.",
       "Để đề phòng những bất trắc trong quá trình lao động nên trong khi tiến hành lắp đặt thanh dẫn điện Busway, công nhân không được làm một mình mà phải có tổ từ hai người trở lên có mặt tại hiện trường mới được thi công. Khi làm việc nhất thiết phải đội mũ bảo hộ lao động và mang găng cách điện, đi ủng cách điện. Không được trèo, bám vào các thanh dẫn điện Busway để di chuyển từ độ cao này lên độ cao khác mà phải dùng thang. Không vứt vào thanh dẫn điện Busway những mảnh kim loại, mẩu que hàn hay bất kỳ vật dư thừa khác."
      ]
     },
@@ -14325,7 +14324,7 @@
       "1. Kiểm tra các điểm đấu nối đúng theo yêu cầu.",
       "2. Kiểm tra cách điện.",
       "3. Kiểm tra độ chắc chắn của các bulông liên kết các thanh cái",
-      "4. Kiểm tra điện áp đầu vào ( 400VAC ).",
+      "4. Kiểm tra điện áp đầu vào (400VAC).",
       "5. Đóng aptomat tổng cấp điện cho busway.",
       "6. Thử các chức năng đóng cắt máy cắt.",
       "Vệ sinh busway bằng máy hút bụi. Kiểm tra lại tất cả các mối nối xiết chặt bullong",
@@ -14400,7 +14399,7 @@
      "pp": [
       "Bộ điều khiển có chức năng điều khiển giàn FCU tại phòng và kết nối với hệ thống BMS. Hệ thống BMS quản lý, điều khiển giám sát các thông số nhiệt độ của phòng qua bộ điều khiển FCU",
       "* CHÚ Ý KHI LẮP ĐẶT",
-      "Vị trí lắp đặt, cao độ của bộ điều khiển và tủ điều kiển theo đúng bản vẽ thi công,",
+      "Vị trí lắp đặt, cao độ của bộ điều khiển và tủ điều khiển theo đúng bản vẽ thi công,",
       "Ti treo tủ đảm bảo độ chắc chắn. dây từ tủ điều khiển tới bộ điều khiển phải được đánh dấu và đấu nối đúng bản vẽ thiết kế."
      ]
     },
@@ -14417,7 +14416,7 @@
       "Dây tín hiệu phải đi cách xa dây điện 220v khoảng cách tối thiểu 15cm.",
       "Các đầu cực nối là không phân cực. Do vậy, việc kết nối các dây ngược cực không gây ra bất kỳ sự cố nào.",
       "Cảm biến nhiệt độ ống gió",
-      "Các cảm biến nhiệt độ đường ống được dùng trong các hệ thống điều hòa và thông gió để đo nhiệt độ khí xả, khí hồi hoặc khí ngoài nhà. Thôn thường chúng được thiết kế cho việc gắn ống gió sử dụng các phần tử cảm biến nhiệt độ PT1000.",
+      "Các cảm biến nhiệt độ đường ống được dùng trong các hệ thống điều hòa và thông gió để đo nhiệt độ khí xả, khí hồi hoặc khí ngoài nhà. Thông thường chúng được thiết kế cho việc gắn ống gió sử dụng các phần tử cảm biến nhiệt độ PT1000.",
       "Lắp đặt chú ý:",
       "Chiều dài đi dây lớn nhất từ cảm biến tới bộ điều khiển 200 m (660 ft)",
       "Nhiệt độ sai lệch do trở kháng dây trên khoảng cách 10m từ cảm biến tới bộ điều khiển khi sử dụng được đề cập trong bảng sau:",
@@ -14436,7 +14435,7 @@
       "Cảm biến khói gắn ống gió",
       "Cảm biến khói ống gió là đầu báo khói i-ôn để phát hiện khói trong hệ thống ống gió. Cảm biến có đầu ra rơ le đưa ra cảnh báo và tiếp điểm kết nối tới hệ thống điều khiển quạt.",
       "* Khi lắp chú ý thiết bị sẽ được gắn cách xa các góc, các co hoặc các nguồn gió nhiễu loạn (khuyến cáo vị trí lắp đặt khoảng cách ít nhất 3 lần đường kính ống từ các điểm trên)",
-      "* Đấu nôi đúng theo sơ đồ đấu nối của thiết bị",
+      "* Đấu nối đúng theo sơ đồ đấu nối của thiết bị",
       "Tiếp điểm Relay 6, 7, 8:",
       "Chân cấp nguồn 1, 2: 24VAC",
       "Công tắc chênh áp suất khí",
@@ -14492,7 +14491,7 @@
       "Cảm biến lưu lượng nước",
       "Trong các ứng dụng điều khiển hệ thống HVAC việc giám sát lưu lượng nước trên đường ống là vô cùng quan trọng. Bởi nhờ giám sát thông tin này sẽ phục vụ cho việc điều khiển tăng giảm tải cho hệ thống hay có thể tính toán được công suất làm lạnh của hệ thống. Phụ thuộc vào yêu cầu của từng ứng dụng đồng hồ đo nước sẽ cung cấp chính xác thông số lưu lượng nước hoặc tổng lượng nước chảy qua ống.",
       "Đồng hồ đo nước loại turbin được thiết kế là loại liền khối gồm 2 bộ phận chính:",
-      "Phần turbin tiếp xúc trong môi trường chất lỏng: Được trang bị các các cánh gạt tiêu chuẩn phục vụ việc chuyển đổi từ thông số tốc độ dòng nước trong ống sang dạng tín hiệu xung gửi tới bộ chuyển đổi tín hiệu.",
+      "Phần turbin tiếp xúc trong môi trường chất lỏng: Được trang bị các cánh gạt tiêu chuẩn phục vụ việc chuyển đổi từ thông số tốc độ dòng nước trong ống sang dạng tín hiệu xung gửi tới bộ chuyển đổi tín hiệu.",
       "Phần chuyển đổi tín hiệu: nhận tín hiệu dạng xung từ cảm biến và chuyển đổi ra dạng tín hiệu chuẩn dạng tương tự 4-20 mA hoặc 0-10V để kết nối tới các bộ điều khiển của hệ thống BMS.",
       "Lắp đặt:",
       "Kết nối điện",
@@ -14512,7 +14511,7 @@
       "Cảm biến áp suất dầu",
       "Cảm biến áp suất dầu được dùng trong hệ thống máy phát điện để đo áp suất trên đường ống dầu. Cảm biến áp suất dầu loại này có dải đo từ 0…200 psig. Tín hiệu đầu ra của cảm biến: 4…20mA",
       "Đấu nối:",
-      "Cảm biến lưu lương gió",
+      "Cảm biến lưu lượng gió",
       "Cảm biến lưu lượng gió được lắp trên đường ống gió để giám sát lưu lượng gió chảy qua đường ống. Tín hiệu cảm biến thu nhận tốc độ gió và chuyển đổi thành tín hiệu điện 0-10V hoặc 4-20mA. C",
       "Chú ý lắp đặt, kết nối:",
       "Cảm biến có thể được gắn toàn bộ que đo chiều dài 220mm vào trong đường ống. Cảm biến được siết chặt vào mặt sau vỏ cảm biến bằng ốc vít. Chiều dài của que đo bên trong đường ống có thể điều chỉnh được trong khoảng từ 20~200mm",
@@ -14531,7 +14530,7 @@
       "Chú ý: Dây tín hiệu là loại có vỏ chống nhiễu trong vùng có cường độ nhiễu điện từ cao và phải đi cách xa đường dây điện cấp nguồn 220VAC khoảng cách tối thiểu 15cm. Chiều dài đi dây lớn nhất từ cảm biến tới bộ điều khiển 200 m (660 ft)",
       "Cảm biến mực nước",
       "Cảm biến mức nước để xác định mực nước trong các bể chứa, sử dụng để kích hoạt bơm bổ sung nước khi mức nước thấp và ngắt bơm khi đầy. Cảm biến mức nước được thiết kế bao gồm 2 bộ phận chính:",
-      "Phần que đo tiếp xúc trong môi trường chất lỏng: bao gồm 3 que đo với 3 độ cao mức nước khác khau.",
+      "Phần que đo tiếp xúc trong môi trường chất lỏng: bao gồm 3 que đo với 3 độ cao mức nước khác nhau.",
       "Phần chuyển đổi tín hiệu: nhận tín hiệu que đo và chuyển đổi thành tín hiệu đóng ngắt rơ le, 3 mức nước ứng với 3 relay khác nhau.",
       "Lắp đặt:",
       "Kết nối điện theo sơ đồ đi kèm thiết bị",
@@ -14540,7 +14539,7 @@
     },
     {
      "nhom": "PHỐI HỢP, KẾT NỐI HỆ THỐNG BMS VÀ ACCESS",
-     "muc": "Kết nối tích hợp điều kiển giám sát các thiết bị điện",
+     "muc": "Kết nối tích hợp điều khiển giám sát các thiết bị điện",
      "tc": [],
      "hs": [],
      "pp": [
@@ -14591,10 +14590,10 @@
       "Giao thức kết nối:",
       "Tích hợp bậc thấp với hệ thống bơm, AHU, PAU, trao đổi nhiệt cho Chiller, quạt thông gió (cấp gió tươi, hút gió thải, tăng áp…)",
       "Tích hợp bậc cao với Chiller qua giao thức Bacnet/ Modbus.",
-      "Tích hợp bậc cao với FCU khu thương mại và công cộng qua giao thúc Modbus RTU",
+      "Tích hợp bậc cao với FCU khu thương mại và công cộng qua giao thức Modbus RTU",
       "Nội dung kết nối:",
       "Tích hợp điều khiển và giám sát hệ thống Chiller, tháp giải nhiệt, bơm nước…",
-      "Tích hợp điều khiển vàn giám sát AHU, PAU",
+      "Tích hợp điều khiển và giám sát AHU, PAU",
       "Tích hợp điều khiển và giám sát FCU cho khu vực thương mại, công cộng",
       "Tích hợp điều khiển và giám sát Hệ thống quạt cấp hút tầng hầm, mái, quạt tăng áp, hút khói.",
       "Tích hợp điều khiển và giám sát Hệ thống trao đổi nhiệt."
@@ -14707,7 +14706,7 @@
       "Tích hợp bậc thấp bằng các cặp tiếp điểm đối với các bơm chữa cháy.",
       "Tích hợp bậc cáo Bacnet IP với tủ báo cháy trung tâm.",
       "Cán bộ của nhà thầu hệ thống PCCC sẽ giả lập các tín hiệu báo cháy tại các khu vực khác nhau để cung cấp tín hiệu cho hệ thống BMS.",
-      "Nhà thầu hệ thống PCCC phải cung cấp bảng mapping point của tủ báo cháy trung tâm để đưa tín hiêu cảnh báo cháy tới hệ thống BMS. Việc thu thập các tín hiệu này rất quan trọng, vì dựa trên các tín hiệu thu được, BMS sẽ cấp các đầu ra thích hợp tương ứng với các hệ khác (điều hòa không khí, PA, Access control) để đưa ra các vận hành trong tình huống khẩn cấp theo chương trình lập sẵn.",
+      "Nhà thầu hệ thống PCCC phải cung cấp bảng mapping point của tủ báo cháy trung tâm để đưa tín hiệu cảnh báo cháy tới hệ thống BMS. Việc thu thập các tín hiệu này rất quan trọng, vì dựa trên các tín hiệu thu được, BMS sẽ cấp các đầu ra thích hợp tương ứng với các hệ khác (điều hòa không khí, PA, Access control) để đưa ra các vận hành trong tình huống khẩn cấp theo chương trình lập sẵn.",
       "Đối với các bơm chữa cháy, BMS có phải đảm bảo chức năng giám sát 2 trạng thái: trạng thái ON/OFF, và trạng thái lỗi (quá nhiệt động cơ), mức nước bể chữa cháy được lấy từ tủ bơm chữa cháy.",
       "Cán bộ của nhà thầu PCCC đảm bảo cho tủ bơm chữa cháy được cấp nguồn, và trực tại hiện trường để giám sát hoạt động của các bơm này, để so sánh với kết quả."
      ]
@@ -14864,7 +14863,7 @@
       "Barrier.",
       "Cảm biến an toàn cho Barrie",
       "Bộ cảm ứng từ (Loop).",
-      "Camera .",
+      "Camera.",
       "Máy tính cài đặt phần mềm kiểm soát.",
       "Màn hình hiển thị.",
       "Card xử lý hình ảnh.",
@@ -14902,7 +14901,7 @@
       "Hết thời hạn sử dụng.",
       "Biển số xe đang sử dụng chưa được đăng ký với hệ thống.",
       "Vi phạm cơ chế chống quay vòng thẻ.",
-      "Quy trình sử dung thẻ vãng lai",
+      "Quy trình sử dụng thẻ vãng lai",
       "1. Khi xe vãng lai vào bãi gửi, nhân viên bảo vệ sẽ sử dụng 1 thẻ vãng lai quẹt lên đầu đọc thẻ trong cabin. Hệ thống sẽ thu thập thông tin đầu vào gồm: Số thẻ, ngày giờ vào, ảnh và biển số xe vào. Sau khi hệ thống đã thu thập đủ thông tin trên, bảo vệ phát thẻ cho người sử dụng và mở Barrier cho xe vào bãi.",
       "2. Khi xe vãng lai ra, bảo vệ thu lại thẻ, quẹt thẻ lên đầu đọc thẻ để lấy thông tin xe vào (Số thẻ, ngày giờ vào, biển số) và lấy thông tin xe ra (Ngày, giờ và biển số xe ra).",
       "3. Nếu dữ liệu xe Vào/Ra là hợp lệ, hệ thống sẽ in hóa đơn cho người sử dụng. Bảo vệ sẽ thu tiền của khách và mở Barrier cho xe ra.",
@@ -14931,14 +14930,14 @@
      "pp": [
       "Máy trạm, thiết bị mạng:",
       "Lắp đặt tại vị trí vị trí ra vào của bãi giữ xe. Cài đặt các phần mềm quản lý và các phần mềm hỗ trợ cho việc phân tích và truyền dữ liệu.",
-      "Cấu hình cở bản tham khảo:",
-      "Với Máy chủ ( cấu hình tham khảo)",
-      "Intel® Xeon® Processor E5520 2.26 GHz (80W, 8MB Cache L3) .",
+      "Cấu hình cơ bản tham khảo:",
+      "Với Máy chủ (cấu hình tham khảo)",
+      "Intel® Xeon® Processor E5520 2.26 GHz (80W, 8MB Cache L3).",
       "DDRAM 4GB (2 x 2GB).",
-      "Network Controller : Gigabit Server Adapter.",
-      "Storage Controller : Raid Controller (RAID 0/1).",
-      "Hard Drive : 500GB SATA.",
-      "Internal Storage :",
+      "Network Controller: Gigabit Server Adapter.",
+      "Storage Controller: Raid Controller (RAID 0/1).",
+      "Hard Drive: 500GB SATA.",
+      "Internal Storage:",
       "SAS 4.0TB (4x 1TB 3.5\") maximum.",
       "SATA 4.0TB (4x 1TB 3.5\") maximum.",
       "PSU 460W Non-Hot Plug, Non-Redundant Power Supply (70% efficiency).",
@@ -14964,7 +14963,7 @@
      "hs": [],
      "pp": [
       "Máy được lắp đặt tại lỗi vào các điểm kiểm soát yêu cầu:",
-      "Tương thích với các loại thẻ sử dụng cho hệ thống parking .",
+      "Tương thích với các loại thẻ sử dụng cho hệ thống parking.",
       "Đáp ứng 24/24.",
       "Độ dày thẻ phát hành 0.8 – 2 mm.",
       "Không phát thẻ cho người đi bộ.",
@@ -15018,7 +15017,7 @@
       "Hiển thị hình ảnh (chủ xe và so sánh biển số xe vào ra)",
       "Có khả năng import hoặc export dữ liệu.",
       "Quản lý thông tin khách hàng.",
-      "Quản lý biểu phí: Cho phép cấu hình nhiều loại biểu phí khác nhau cho từng loại thẻ (Thẻ thuê bao, thẻ vãng lai, thẻ VIP). Cơ chế tính phí linh hoạt (Có thể tính theo lượt, theo block thời gan, theo khoảng thời gian hoặc kết hợp cả khoảng thời gian và block, có thể cài đặt các thêm các phụ phí cho mỗi biểu phí)",
+      "Quản lý biểu phí: Cho phép cấu hình nhiều loại biểu phí khác nhau cho từng loại thẻ (Thẻ thuê bao, thẻ vãng lai, thẻ VIP). Cơ chế tính phí linh hoạt (Có thể tính theo lượt, theo block thời gian, theo khoảng thời gian hoặc kết hợp cả khoảng thời gian và block, có thể cài đặt các thêm các phụ phí cho mỗi biểu phí)",
       "Quản lý thẻ: Cho phép đăng ký, hủy hoặc sửa thông tin thẻ.",
       "Xuất dữ liệu bằng file exel hoặc pdf.",
       "Quản lý xe của khách hàng: Cho phép đăng ký nhiều xe cho 01 khách hàng",
@@ -15034,11 +15033,11 @@
     },
     {
      "nhom": "",
-     "muc": "Phầm mềm máy trạm kiểm soát",
+     "muc": "Phần mềm máy trạm kiểm soát",
      "tc": [],
      "hs": [],
      "pp": [
-      "Được cài đặt trên các máy trạm tại các điểm kiểm soát. Hỗ trợ nhận dạnh và so sánh biển số do camera chụp. Kết nối với máy chủ trung tâm để truyền dữ liệu.",
+      "Được cài đặt trên các máy trạm tại các điểm kiểm soát. Hỗ trợ nhận dạng và so sánh biển số do camera chụp. Kết nối với máy chủ trung tâm để truyền dữ liệu.",
       "Programming anguages (under Windows): Visual Basic .NET, C#, Java",
       "Các tính năng kiểm soát cơ bản phải bao gồm:",
       "Tương thích với win server 2003, XP, Windows 7,8,10",
@@ -15300,7 +15299,6 @@
     "ASTM A416",
     "TCVN 8819:2011",
     "TCVN 4447: 2012",
-    "TCVN 8819 :2011",
     "TCVN 8859:2023",
     "TCVN 13567-1:2022",
     "TCVN 13567-2:2022",
@@ -15337,7 +15335,7 @@
       "Thí nghiệm ống cống đúc sẵn:",
       "Nếu Nhà thầu chọn phương thức mua ống cống đúc sẵn từ một công xưởng bê tông không phải của công trường, mọi điều quy định tương ứng trong qui trình thi công và nghiệm thu phải được áp dụng cho các ống cống chưa qua thí nghiệm và kiểm tra trong thời gian sản xuất.",
       "Khi chủ đầu tư và TVGS yêu cầu, Nhà thầu phải tiến hành đủ các thiết bị thí nghiệm nén ép 3 cạnh để phù hợp với các qui định hiện hành bằng kinh phí của mình.",
-      "Nhà thầu phải bố trí nhân lực và thiết bị thí nghiệm, đáp ứng đầy đủ các yêu cầu kiểm tra và thí nghiệm và tạo điều kiện thuận lợi cho việc giám sát quá trinh tiến hành các thí nghiệm cần thiết."
+      "Nhà thầu phải bố trí nhân lực và thiết bị thí nghiệm, đáp ứng đầy đủ các yêu cầu kiểm tra và thí nghiệm và tạo điều kiện thuận lợi cho việc giám sát quá trình tiến hành các thí nghiệm cần thiết."
      ]
     },
     {
@@ -15370,7 +15368,7 @@
       "Vật liệu làm gioăng ngăn nước là vật liệu dẻo, chế tạo từ PVC biến tính hoặc cao su. Gioăng phải có cường độ chịu kéo và khả năng dãn dài lớn, không bị lão hoá trong môi trường kiềm, a xít, nước thải, nước biển và các dung dịch muối.",
       "Gioăng ngăn nước được sản xuất theo tiêu chuẩn ASTM các quy định D412 - D624 - D746 bảo đảm các thông số kỹ thuật như sau:",
       "Cường độ chịu kéo: 12,0 Mpa.",
-      "Độ giãn dài : 250% min",
+      "Độ giãn dài: 250% min",
       "Gioăng ngăn nước phải được lắp đặt chính xác vào vị trí thiết kế của khe nối như được thể hiện trên bản vẽ."
      ]
     },
@@ -15454,7 +15452,7 @@
       "Vật liệu cát đắp nền đường K98:",
       "Quy định trong “thi công lớp nền thượng”",
       "V Vật liệu dùng để làm lớp nền thượng cần đảm bảo các chỉ tiêu theo bảng sau (tham khảo văn bản số 1789/BGTVT-KHCN ngày 30/3/2005 của Bộ giao thông vận tải):",
-      "Vật liệu đắp lớp nền thượng phải đạt sức chịu tải CBR tối thiểu 8% , độ chặt đầm nén K≥0,98 (phương pháp đầm nén tiêu chuẩn I-D theo 22 TCN 333-06, mẫu thí nghiệm ngâm nước bão hoà 4 ngày đêm).",
+      "Vật liệu đắp lớp nền thượng phải đạt sức chịu tải CBR tối thiểu 8%, độ chặt đầm nén K≥0,98 (phương pháp đầm nén tiêu chuẩn I-D theo 22 TCN 333-06, mẫu thí nghiệm ngâm nước bão hoà 4 ngày đêm).",
       "Vật liệu dùng cho lớp đất bao:",
       "Nếu nền đường được đắp bằng cát thì bên ngoài nền đường được bao bằng đất, vật liệu dùng đắp bao có các yêu cầu như vật liệu đắp nền đường K95, đất đắp bao phía trên đỉnh nền đường nên sử dụng cấp phối đồi. Đất đắp bao phải phù hợp với các chỉ tiêu kỹ thuật sau:",
       "Giới hạn chảy 55",
@@ -15469,7 +15467,7 @@
       "Thành phần hạt;",
       "Trạng thái của đất, độ ẩm tự nhiên (W), giới hạn chảy (Wi), giới hạn dẻo (Wp), chỉ số dẻo Ip;",
       "Dung trọng khô lớn nhất (max) và độ ẩm tốt nhất (Wo);",
-      "Góc nội ma sát , lực dính C;",
+      "Góc nội ma sát, lực dính C;",
       "Mô đuyn đàn hồi (Eđh) hoặc CBR"
      ]
     },
@@ -15512,7 +15510,7 @@
       "Kiểm tra trạm trộn phải được cơ quan có chức năng kiểm định đạt yêu cầu và còn hiệu lực.",
       "Kiểm tra về sự hoạt động bình thường của các bộ phận ở của thiết bị trạm trộn trước khi hoạt động: kiểm định lại lưu lượng của các bộ phận cân đong cốt liệu và nhựa, độ chính xác của chúng; kiểm định lại các đặc trưng của bộ phận trộn;",
       "Kiểm tra thiết bị trong khi chế tạo hỗn hợp bê tông nhựa: kiểm tra theo dõi các thông tin thể hiện trên bảng điều khiển của trạm trộn để điều chỉnh chính xác: lưu lượng các bộ phận cân đong; lưu lượng của bơm nhựa; lưu lượng của các thiết bị vận chuyển bột khoáng; khối lượng hỗn hợp của một mẻ trộn và thời gian trộn một mẻ; nhiệt độ và độ ẩm của cốt liệu khoáng đã được rang nóng; nhiệt độ của nhựa, lượng tiêu thụ trung bình của nhựa. Các sai số cho phép cân đong vật liệu khoáng là (3% khối lượng của từng loại vật liệu tương ứng. Sai số cho phép khi cân lượng nhựa là (1,5% khối lượng nhựa).",
-      "Nhiệt độ của hỗn hợp bê tông nhựa khi ra khỏi thùng trộn phải nằm trong khỏang 150oC – 160oC khi dùng nhựa 60/70 và 40/60.",
+      "Nhiệt độ của hỗn hợp bê tông nhựa khi ra khỏi thùng trộn phải nằm trong khoảng 150oC – 160oC khi dùng nhựa 60/70 và 40/60.",
       "Kiểm tra hỗn hợp của bê tông nhựa khi ra khỏi thiết bị trộn: Kiểm tra nhiệt độ của hỗn hợp của mẻ trộn; Kiểm tra bằng mắt chất lượng trộn đều của hỗn hợp.",
       "Kiểm tra các chỉ tiêu cơ lý của hỗn hợp bê tông nhựa đã trộn xong. Các chỉ tiêu cơ lý của mẫu bê tông nhựa phải thỏa mãn các yêu cầu đã ghi.",
       "Trong mỗi hoạt động của trạm trộn phải lấy mẫu kiểm tra ít nhất là 1 lần cho một công thức chế tạo hỗn hợp bê tông nhựa."
@@ -15579,9 +15577,9 @@
       "Mật độ kiểm tra và các yêu cầu cụ thể quy định tại Bảng 4.",
       "Bảng 4. Yêu cầu về kích thước hình học và độ bằng phẳng của lớp móng bằng CPĐD",
       "Kiểm tra sau thi công",
-      "Kiểm tra độ chặt lu lèn, kết hợp kiểm tra thành phần hạt sau khi lu lèn và chiều dày lớp móng : cứ 7000 m2 hoặc ứng với 1 km dài (mặt đường 2 làn xe) cần thí nghiệm kiểm tra bằng phương pháp đào hố rót cát tại hai vị trí ngẫu nhiên (riêng trường hợp rải bằng máy san, cần kiểm tra tại ba vị trí ngẫu nhiên).",
+      "Kiểm tra độ chặt lu lèn, kết hợp kiểm tra thành phần hạt sau khi lu lèn và chiều dày lớp móng: cứ 7000 m2 hoặc ứng với 1 km dài (mặt đường 2 làn xe) cần thí nghiệm kiểm tra bằng phương pháp đào hố rót cát tại hai vị trí ngẫu nhiên (riêng trường hợp rải bằng máy san, cần kiểm tra tại ba vị trí ngẫu nhiên).",
       "Kiểm tra các yếu tố hình học và độ bằng phẳng: cần tiến hành kiểm tra với mật độ đo đạc chỉ bằng 20 % khối lượng quy định nêu tại Bảng 4, tương đương với mật độ đo như sau:",
-      "Đo kiểm tra các yếu tố hình học (cao độ tim và mép móng, chiều rộng móng, độ dốc ngang móng): 250 m/ vị trí trên đường thẳng và 100 m/ vị trí trong đường cong. Đo kiểm tra độ bằng phẳng bề mặt móng bằng thước 3m : 500 m/vị trí"
+      "Đo kiểm tra các yếu tố hình học (cao độ tim và mép móng, chiều rộng móng, độ dốc ngang móng): 250 m/ vị trí trên đường thẳng và 100 m/ vị trí trong đường cong. Đo kiểm tra độ bằng phẳng bề mặt móng bằng thước 3m: 500 m/vị trí"
      ]
     },
     {
@@ -15589,28 +15587,28 @@
      "muc": "Thi công bê tông nhựa",
      "tc": [
       "22 TCN",
-      "AASHTO T191 ;",
-      "TCVN 8819 :2011;"
+      "AASHTO T191;",
+      "TCVN 8819:2011;"
      ],
      "hs": [
       "Vào biểu mẫu kiểm tra hiện trường",
       "Vào biên bản nghiệm thu công việc xây dựng"
      ],
      "pp": [
-      "Kiểm tra, giám sát nhà thầu thi công thực hiện quy trình thi công, kiểm tra chất lượng các công tác tác: đào đắp nền đường, các lớp CPĐD, các lớp tưới nhựa, các lớp bê tông nhựa, vỉa hè … theo biện pháp thi công được duyệt, đảm bảo các yêu cầu của chỉ dẫn kỹ thuật, thiết kế hoặc hợp đồng về:",
+      "Kiểm tra, giám sát nhà thầu thi công thực hiện quy trình thi công, kiểm tra chất lượng các công tác: đào đắp nền đường, các lớp CPĐD, các lớp tưới nhựa, các lớp bê tông nhựa, vỉa hè … theo biện pháp thi công được duyệt, đảm bảo các yêu cầu của chỉ dẫn kỹ thuật, thiết kế hoặc hợp đồng về:",
       "Tim, tuyến",
       "Cao độ và chiều dày các lớp.",
       "Kích thước hình học của các lớp.",
       "Phương pháp thi công các lớp vật liệu.",
       "Chất lượng các lớp vật liệu.",
       "Giám sát nhà thầu xây dựng thực hiện công tác theo đúng biện pháp thi công đã đề ra và phù hợp với các tiêu chuẩn hiện hành.",
-      "Thường xuyên theo dõi quá trình thi công của nhà thầu để phát hiện và kịp thời xử lý hoặc trình lên chủ đầu tư xử lý các vấn đề phát sinh trong quá trình thi công như : nền hạ yếu …",
-      "Trong quá trình rải và lu lèn bê tông nhựa :",
-      "Kiểm tra chất lượng hỗn hợp bê tông nhựa vận chuyển đến nơi rải : kiểm tra nhiệt độ hỗn hợp trên mỗi chuyến xe bằng nhiệt kế trước khi đổ vào phễu máy rải phải đảm bảo nhiệt độ không dưới 130C (-10C) ; kiểm tra hỗn hợp trên mỗi chuyến xe bằng mắt (mức độ trộn đều, quá nhiều nhựa hoặc quá thiếu nhựa, phân tầng ...).",
-      "Thường xuyên kiểm tra độ bằng phẳng bằng thước 3 m chiều dày lớp rải bằng que sắt có đánh dấu mức rải qui định (hoặc bằng phương tiện hiện đại), độ dốc ngang mặt ngang mặt đường ; kiểm tra phối hợp bằng cao đạc.",
+      "Thường xuyên theo dõi quá trình thi công của nhà thầu để phát hiện và kịp thời xử lý hoặc trình lên chủ đầu tư xử lý các vấn đề phát sinh trong quá trình thi công như: nền hạ yếu …",
+      "Trong quá trình rải và lu lèn bê tông nhựa:",
+      "Kiểm tra chất lượng hỗn hợp bê tông nhựa vận chuyển đến nơi rải: kiểm tra nhiệt độ hỗn hợp trên mỗi chuyến xe bằng nhiệt kế trước khi đổ vào phễu máy rải phải đảm bảo nhiệt độ không dưới 130C (-10C); kiểm tra hỗn hợp trên mỗi chuyến xe bằng mắt (mức độ trộn đều, quá nhiều nhựa hoặc quá thiếu nhựa, phân tầng ...).",
+      "Thường xuyên kiểm tra độ bằng phẳng bằng thước 3 m chiều dày lớp rải bằng que sắt có đánh dấu mức rải qui định (hoặc bằng phương tiện hiện đại), độ dốc ngang mặt ngang mặt đường; kiểm tra phối hợp bằng cao đạc.",
       "Kiểm tra chất lượng bù phụ, gọt bỏ các chỗ lõm, lồi của công nhân.",
       "Kiểm tra chất lượng các mối nối dọc và ngang bằng mắt, bảo đảm mối nối thẳng mặt mối nối không rỗ, không lồi lõm, không bị khuất.",
-      "Kiểm tra chất lượng lu lèn của lớp bê tông nhựa trong cả quá trình máy lu hoạt động. Sơ đồ lu, sự phối hợp các loại lu, tốc độ lu từng giai đoạn, áp xuất của bánh hơi. Hoạt động của bộ phận chấn động của lu chấn động, nhiệt độ lúc bắt đầu lu lèn và lúc kết thúc lu lèn ... tất cả các điều ấy phải đúng theo chế độ đã thực hiện có hiệu quả trên đoạn rải thử .",
+      "Kiểm tra chất lượng lu lèn của lớp bê tông nhựa trong cả quá trình máy lu hoạt động. Sơ đồ lu, sự phối hợp các loại lu, tốc độ lu từng giai đoạn, áp xuất của bánh hơi. Hoạt động của bộ phận chấn động của lu chấn động, nhiệt độ lúc bắt đầu lu lèn và lúc kết thúc lu lèn ... tất cả các điều ấy phải đúng theo chế độ đã thực hiện có hiệu quả trên đoạn rải thử.",
       "Nghiệm thu công tác thi công Bê tông nhựa.",
       "Sau khi thi công hoàn chỉnh mặt đường bê tông nhựa phải tiến hành nghiệm thu. Các yêu cầu phải thoả mãn trong quá trình nghiệm thu mặt đường BTN được thống kê như sau:",
       "Bề rộng mặt đường được kiểm tra bằng thước thép.",
@@ -15647,7 +15645,7 @@
       "Vật liệu cát đắp nền đường K98:",
       "Quy định trong “thi công lớp nền thượng”",
       "V Vật liệu dùng để làm lớp nền thượng cần đảm bảo các chỉ tiêu theo bảng sau (tham khảo văn bản số 1789/BGTVT-KHCN ngày 30/3/2005 của Bộ giao thông vận tải):",
-      "Vật liệu đắp lớp nền thượng phải đạt sức chịu tải CBR tối thiểu 8% , độ chặt đầm nén K≥ 0,98 (phương pháp đầm nén tiêu chuẩn I-D theo 22 TCN 333-06, mẫu thí nghiệm ngâm nước bão hoà 4 ngày đêm).",
+      "Vật liệu đắp lớp nền thượng phải đạt sức chịu tải CBR tối thiểu 8%, độ chặt đầm nén K≥ 0,98 (phương pháp đầm nén tiêu chuẩn I-D theo 22 TCN 333-06, mẫu thí nghiệm ngâm nước bão hoà 4 ngày đêm).",
       "Vật liệu dùng cho lớp đất bao:",
       "Nếu nền đường được đắp bằng cát thì bên ngoài nền đường được bao bằng đất, vật liệu dùng đắp bao có các yêu cầu như vật liệu đắp nền đường K95. Đất đắp bao phải phù hợp với các chỉ tiêu kỹ thuật sau:",
       "Giới hạn chảy 55",
@@ -15662,7 +15660,7 @@
       "Thành phần hạt;",
       "Trạng thái của đất, độ ẩm tự nhiên (W), giới hạn chảy (Wi), giới hạn dẻo (Wp), chỉ số dẻo Ip;",
       "Dung trọng khô lớn nhất (max) và độ ẩm tốt nhất (Wo);",
-      "Góc nội ma sát , lực dính C;",
+      "Góc nội ma sát, lực dính C;",
       "Mô đuyn đàn hồi (Eđh) hoặc CBR"
      ]
     },
@@ -15705,7 +15703,7 @@
       "Kiểm tra trạm trộn phải được cơ quan có chức năng kiểm định đạt yêu cầu và còn hiệu lực.",
       "Kiểm tra về sự hoạt động bình thường của các bộ phận ở của thiết bị trạm trộn trước khi hoạt động: kiểm định lại lưu lượng của các bộ phận cân đong cốt liệu và nhựa, độ chính xác của chúng; kiểm định lại các đặc trưng của bộ phận trộn;",
       "Kiểm tra thiết bị trong khi chế tạo hỗn hợp bê tông nhựa: kiểm tra theo dõi các thông tin thể hiện trên bảng điều khiển của trạm trộn để điều chỉnh chính xác: lưu lượng các bộ phận cân đong; lưu lượng của bơm nhựa; lưu lượng của các thiết bị vận chuyển bột khoáng; khối lượng hỗn hợp của một mẻ trộn và thời gian trộn một mẻ; nhiệt độ và độ ẩm của cốt liệu khoáng đã được rang nóng; nhiệt độ của nhựa, lượng tiêu thụ trung bình của nhựa. Các sai số cho phép cân đong vật liệu khoáng là (3% khối lượng của từng loại vật liệu tương ứng. Sai số cho phép khi cân lượng nhựa là (1,5% khối lượng nhựa).",
-      "Nhiệt độ của hỗn hợp bê tông nhựa khi ra khỏi thùng trộn phải nằm trong khỏang 150oC – 160oC khi dùng nhựa 60/70 và 40/60.",
+      "Nhiệt độ của hỗn hợp bê tông nhựa khi ra khỏi thùng trộn phải nằm trong khoảng 150oC – 160oC khi dùng nhựa 60/70 và 40/60.",
       "Kiểm tra hỗn hợp của bê tông nhựa khi ra khỏi thiết bị trộn: Kiểm tra nhiệt độ của hỗn hợp của mẻ trộn; Kiểm tra bằng mắt chất lượng trộn đều của hỗn hợp.",
       "Kiểm tra các chỉ tiêu cơ lý của hỗn hợp bê tông nhựa đã trộn xong. Các chỉ tiêu cơ lý của mẫu bê tông nhựa phải thỏa mãn các yêu cầu đã ghi.",
       "Trong mỗi hoạt động của trạm trộn phải lấy mẫu kiểm tra ít nhất là 1 lần cho một công thức chế tạo hỗn hợp bê tông nhựa."
@@ -15719,7 +15717,7 @@
      "pp": [
       "Kiểm tra tọa độ theo tọa độ thiết kế.",
       "Kiểm tra, định vị tim tuyến đường, mép đường theo bản vẽ thiết kế",
-      "Định vị cách vị trí sân chơi, bồn hoa, tiểu cảnh theo bản vẽ thiết kế"
+      "Định vị các vị trí sân chơi, bồn hoa, tiểu cảnh theo bản vẽ thiết kế"
      ]
     },
     {
@@ -15772,7 +15770,7 @@
       "Nhà thầu phải đào hố móng để lắp đặt các cấu kiện cống tới độ sâu yêu cầu. Hình dạng và kích thước của hố móng phải tuân thủ các chỉ dẫn trên bản vẽ thi công.",
       "*Đắp cát nền",
       "Kiểm tra, giám sát nhà thầu thi công thực hiện quy trình thi công, kiểm tra chất lượng theo biện pháp thi công được duyệt, đảm bảo các yêu cầu thiết kế về:",
-      "Tim ,tuyến",
+      "Tim, tuyến",
       "Cao độ và chiều dày các lớp.",
       "Kích thước hình học của các lớp.",
       "Phương pháp thi công các lớp vật liệu.",
@@ -15824,16 +15822,16 @@
       "Mật độ kiểm tra và các yêu cầu cụ thể quy định tại Bảng 4.",
       "Bảng 4. Yêu cầu về kích thước hình học và độ bằng phẳng của lớp móng bằng CPĐD",
       "Kiểm tra sau thi công",
-      "Kiểm tra độ chặt lu lèn, kết hợp kiểm tra thành phần hạt sau khi lu lèn và chiều dày lớp móng : cứ 7000 m2 hoặc ứng với 1 km dài (mặt đường 2 làn xe) cần thí nghiệm kiểm tra bằng phương pháp đào hố rót cát tại hai vị trí ngẫu nhiên (riêng trường hợp rải bằng máy san, cần kiểm tra tại ba vị trí ngẫu nhiên).",
+      "Kiểm tra độ chặt lu lèn, kết hợp kiểm tra thành phần hạt sau khi lu lèn và chiều dày lớp móng: cứ 7000 m2 hoặc ứng với 1 km dài (mặt đường 2 làn xe) cần thí nghiệm kiểm tra bằng phương pháp đào hố rót cát tại hai vị trí ngẫu nhiên (riêng trường hợp rải bằng máy san, cần kiểm tra tại ba vị trí ngẫu nhiên).",
       "Kiểm tra các yếu tố hình học và độ bằng phẳng: cần tiến hành kiểm tra với mật độ đo đạc chỉ bằng 20 % khối lượng quy định nêu tại Bảng 4, tương đương với mật độ đo như sau:",
-      "Đo kiểm tra các yếu tố hình học (cao độ tim và mép móng, chiều rộng móng, độ dốc ngang móng): 250 m/ vị trí trên đường thẳng và 100 m/ vị trí trong đường cong. Đo kiểm tra độ bằng phẳng bề mặt móng bằng thước 3m : 500 m/vị trí"
+      "Đo kiểm tra các yếu tố hình học (cao độ tim và mép móng, chiều rộng móng, độ dốc ngang móng): 250 m/ vị trí trên đường thẳng và 100 m/ vị trí trong đường cong. Đo kiểm tra độ bằng phẳng bề mặt móng bằng thước 3m: 500 m/vị trí"
      ]
     },
     {
      "nhom": "GIÁM SÁT TRÌNH TỰ CÁC BƯỚC THI CÔNG",
      "muc": "Thi công bê tông nhựa",
      "tc": [
-      "AASHTO T191 ;",
+      "AASHTO T191;",
       "TCVN 13567-1:2022; TCVN 13567-2:2022;",
       "TCVN 13567-3:2022;"
      ],
@@ -15842,20 +15840,20 @@
       "Vào biên bản nghiệm thu công việc xây dựng"
      ],
      "pp": [
-      "Kiểm tra, giám sát nhà thầu thi công thực hiện quy trình thi công, kiểm tra chất lượng các công tác tác: đào đắp nền đường, các lớp CPĐD, các lớp tưới nhựa, các lớp bê tông nhựa, vỉa hè … theo biện pháp thi công được duyệt, đảm bảo các yêu cầu của chỉ dẫn kỹ thuật, thiết kế hoặc hợp đồng về:",
+      "Kiểm tra, giám sát nhà thầu thi công thực hiện quy trình thi công, kiểm tra chất lượng các công tác: đào đắp nền đường, các lớp CPĐD, các lớp tưới nhựa, các lớp bê tông nhựa, vỉa hè … theo biện pháp thi công được duyệt, đảm bảo các yêu cầu của chỉ dẫn kỹ thuật, thiết kế hoặc hợp đồng về:",
       "Tim, tuyến",
       "Cao độ và chiều dày các lớp.",
       "Kích thước hình học của các lớp.",
       "Phương pháp thi công các lớp vật liệu.",
       "Chất lượng các lớp vật liệu.",
       "Giám sát nhà thầu xây dựng thực hiện công tác theo đúng biện pháp thi công đã đề ra và phù hợp với các tiêu chuẩn hiện hành.",
-      "Thường xuyên theo dõi quá trình thi công của nhà thầu để phát hiện và kịp thời xử lý hoặc trình lên chủ đầu tư xử lý các vấn đề phát sinh trong quá trình thi công như : nền hạ yếu …",
-      "Trong quá trình rải và lu lèn bê tông nhựa :",
-      "Kiểm tra chất lượng hỗn hợp bê tông nhựa vận chuyển đến nơi rải : kiểm tra nhiệt độ hỗn hợp trên mỗi chuyến xe bằng nhiệt kế trước khi đổ vào phễu máy rải phải đảm bảo nhiệt độ không dưới 130C (-10C) ; kiểm tra hỗn hợp trên mỗi chuyến xe bằng mắt (mức độ trộn đều, quá nhiều nhựa hoặc quá thiếu nhựa, phân tầng ...).",
-      "Thường xuyên kiểm tra độ bằng phẳng bằng thước 3 m chiều dày lớp rải bằng que sắt có đánh dấu mức rải qui định (hoặc bằng phương tiện hiện đại), độ dốc ngang mặt ngang mặt đường ; kiểm tra phối hợp bằng cao đạc.",
+      "Thường xuyên theo dõi quá trình thi công của nhà thầu để phát hiện và kịp thời xử lý hoặc trình lên chủ đầu tư xử lý các vấn đề phát sinh trong quá trình thi công như: nền hạ yếu …",
+      "Trong quá trình rải và lu lèn bê tông nhựa:",
+      "Kiểm tra chất lượng hỗn hợp bê tông nhựa vận chuyển đến nơi rải: kiểm tra nhiệt độ hỗn hợp trên mỗi chuyến xe bằng nhiệt kế trước khi đổ vào phễu máy rải phải đảm bảo nhiệt độ không dưới 130C (-10C); kiểm tra hỗn hợp trên mỗi chuyến xe bằng mắt (mức độ trộn đều, quá nhiều nhựa hoặc quá thiếu nhựa, phân tầng ...).",
+      "Thường xuyên kiểm tra độ bằng phẳng bằng thước 3 m chiều dày lớp rải bằng que sắt có đánh dấu mức rải qui định (hoặc bằng phương tiện hiện đại), độ dốc ngang mặt ngang mặt đường; kiểm tra phối hợp bằng cao đạc.",
       "Kiểm tra chất lượng bù phụ, gọt bỏ các chỗ lõm, lồi của công nhân.",
       "Kiểm tra chất lượng các mối nối dọc và ngang bằng mắt, bảo đảm mối nối thẳng mặt mối nối không rỗ, không lồi lõm, không bị khuất.",
-      "Kiểm tra chất lượng lu lèn của lớp bê tông nhựa trong cả quá trình máy lu hoạt động. Sơ đồ lu, sự phối hợp các loại lu, tốc độ lu từng giai đoạn, áp xuất của bánh hơi. Hoạt động của bộ phận chấn động của lu chấn động, nhiệt độ lúc bắt đầu lu lèn và lúc kết thúc lu lèn ... tất cả các điều ấy phải đúng theo chế độ đã thực hiện có hiệu quả trên đoạn rải thử .",
+      "Kiểm tra chất lượng lu lèn của lớp bê tông nhựa trong cả quá trình máy lu hoạt động. Sơ đồ lu, sự phối hợp các loại lu, tốc độ lu từng giai đoạn, áp xuất của bánh hơi. Hoạt động của bộ phận chấn động của lu chấn động, nhiệt độ lúc bắt đầu lu lèn và lúc kết thúc lu lèn ... tất cả các điều ấy phải đúng theo chế độ đã thực hiện có hiệu quả trên đoạn rải thử.",
       "Nghiệm thu công tác thi công Bê tông nhựa.",
       "Sau khi thi công hoàn chỉnh mặt đường bê tông nhựa phải tiến hành nghiệm thu. Các yêu cầu phải thoả mãn trong quá trình nghiệm thu mặt đường BTN được thống kê như sau:",
       "Bề rộng mặt đường được kiểm tra bằng thước thép.",
@@ -15906,9 +15904,9 @@
      ],
      "hs": [],
      "pp": [
-      "Căn cứ theo hồ sơ thiết kế, hợp đồng thi công nhà thầu phải trình các bên kiểm tra vườn ươm, nguồn cung cấp cây trong cho dự án",
+      "Căn cứ theo hồ sơ thiết kế, hợp đồng thi công nhà thầu phải trình các bên kiểm tra vườn ươm, nguồn cung cấp cây trồng cho dự án",
       "Cây trồng cho dự án phải đảm bảo đầy đủ về hình dáng, kích thước, đường kính thân, chiều cao, đường kính tán lá, … theo đúng hồ sơ thiết kế quy định.",
-      "Đất trồng cây: Sửa dụng đất trồng cây phải đảm bảo đạt theo yêu cầu của hồ sơ thiết kế, khối lượng đất tròng cho các cây to được tính theo từng hố (≥ 0,5m3 đất trồng cây/ 1hố), đất trồng cho các nhỏ, cây bụi sử dụng theo thiết kế quy định (thông thường không nhỏ hơn 30cm)",
+      "Đất trồng cây: Sử dụng đất trồng cây phải đảm bảo đạt theo yêu cầu của hồ sơ thiết kế, khối lượng đất tròng cho các cây to được tính theo từng hố (≥ 0,5m3 đất trồng cây/ 1hố), đất trồng cho các nhỏ, cây bụi sử dụng theo thiết kế quy định (thông thường không nhỏ hơn 30cm)",
       "Phân bón và thuốc phân chuồng + vi sinh sử dụng trong 03 tháng đầu.",
       "Phân bón và thuốc phân chuồng + vi sinh, NPK sử dụng sau 03 tháng đầu."
      ]
@@ -15922,10 +15920,10 @@
      ],
      "hs": [],
      "pp": [
-      "Cây xanh vận chuyển về công trường phải thảo mã đầy đủ các yêu cầu của hồ sơ thiết kế, hợp đồng thi công, được các bên kiểm tra nghiệm thu trước khi đưa vào vị trí trồng cây",
+      "Cây xanh vận chuyển về công trường phải thỏa mãn đầy đủ các yêu cầu của hồ sơ thiết kế, hợp đồng thi công, được các bên kiểm tra nghiệm thu trước khi đưa vào vị trí trồng cây",
       "Yêu cầu kỹ thuật trồng cây:",
       "Cây trồng phải đúng vị trí, yêu cầu kỹ thuật trong bản vẽ thiết kế của chủ đầu tư phê duyệt.",
-      "Ngoài các yêu cầu kỹ thuật theo hồ sơ thiết kế được duyệt, đơn vị thi công sẽ đảm bảo các yêu cầu sau :",
+      "Ngoài các yêu cầu kỹ thuật theo hồ sơ thiết kế được duyệt, đơn vị thi công sẽ đảm bảo các yêu cầu sau:",
       "Đơn vị thi công sẽ thực hiện việc khảo sát đối với từng loại cây, vị trí trồng cây tại công trình để có phương án cắt tỉa, vận chuyển cây phù hợp với vị trí trồng cây.",
       "Trước khi trồng cây, đơn vị thi công kiểm tra dáng cây, vị trí hố trồng, kiến trúc mặt đứng của công trình để định vị cây, đảm bảo sau khi trồng đạt được kỹ thuật và mỹ quan chung cho công trình, dự án.",
       "Mỗi hỗ trồng cây bóng mát phải được đào rộng > 1,2m, chiều sâu phù hợp với gốc cây và việc hoàn thiện cây sau khi trồng phải phù hợp với cos hoàn thiện sân nhà, vỉa hè.",
@@ -15964,13 +15962,12 @@
    "tieu_chuan": [
     "TCVN 9398:2012",
     "TCVN 9363:2012",
-    "TCVN 9351 : 2012",
-    "TCVN 9363 : 2012",
-    "TCVN 8868 : 2011",
-    "TCVN 2683 : 2012",
-    "TCVN 4195 : 2012",
-    "TCVN 4196 : 2012",
-    "TCVN 4197 : 2012"
+    "TCVN 9351:2012",
+    "TCVN 8868:2011",
+    "TCVN 2683:2012",
+    "TCVN 4195:2012",
+    "TCVN 4196:2012",
+    "TCVN 4197:2012"
    ],
    "hang": [
     {
@@ -16018,7 +16015,7 @@
      "muc": "Thí nghiệm SPT",
      "tc": [
       "TCVN 9363:2012",
-      "TCVN 9351 : 2012"
+      "TCVN 9351:2012"
      ],
      "hs": [],
      "pp": [
@@ -16041,7 +16038,7 @@
      "nhom": "CÔNG TÁC THI CÔNG",
      "muc": "Công tác theo dõi mực nước ngầm.",
      "tc": [
-      "TCVN 9363 : 2012"
+      "TCVN 9363:2012"
      ],
      "hs": [],
      "pp": [
@@ -16059,11 +16056,11 @@
      "nhom": "CÔNG TÁC THI CÔNG",
      "muc": "Thí nghiệm mẫu đất và nước trong phòng",
      "tc": [
-      "TCVN 8868 : 2011",
-      "TCVN 2683 : 2012",
-      "TCVN 4195 : 2012",
-      "TCVN 4196 : 2012",
-      "TCVN 4197 : 2012"
+      "TCVN 8868:2011",
+      "TCVN 2683:2012",
+      "TCVN 4195:2012",
+      "TCVN 4196:2012",
+      "TCVN 4197:2012"
      ],
      "hs": [],
      "pp": [
@@ -16110,7 +16107,7 @@
      ]
     },
     {
-     "nhom": "CĐT,TVGS",
+     "nhom": "CĐT, TVGS",
      "muc": "Bê tông",
      "tc": [],
      "hs": [],
@@ -16187,7 +16184,7 @@
       "Kiểm tra quy trình thi công của nhà thầu về công tác trắc đạc: đo góc, đo cạnh, đo cao cho các cấu kiện, hạng mục công trình bao gồm:",
       "Kiểm tra công tác đo góc: áp dụng cho các công tác chuyển trục, định vị tim cột, định vị kết cấu cong như vỏ",
       "Kiểm tra công tác đo cạnh: áp dụng cho các công tác khoảng cách tim trục, kích thước hình học công trình, khoảng cách cấu kiện.",
-      "Kiểm tra công tác đo cao: cao độ ống vách cọc khoan nhồi; kingpost; cao độ đáy móng; cao độ ván khuôn sàn; cao độ bu long; hoàn công cao độ kết cấu..."
+      "Kiểm tra công tác đo cao: cao độ ống vách cọc khoan nhồi; kingpost; cao độ đáy móng; cao độ ván khuôn sàn; cao độ bu lông; hoàn công cao độ kết cấu..."
      ]
     },
     {
@@ -16248,8 +16245,8 @@
       "Kiểm tra sự phù hợp của thực tế thực hiện so với phương án kỹ thuật đã được phê duyệt;",
       "Kiểm tra độ ổn định, vị trí mốc chuẩn, mốc quan trắc trong quá trình đo đạc.",
       "Kiểm tra công tác đo đạc các đại lượng theo phương pháp, chu kỳ và quy trình đã được phê duyệt: đo độ lún, đo biến dạng, chuyển vị hay chuyển dịch ngang;",
-      "Kiểm tra các bảng biểu ghi chép trắc địa của nhà thầu và các báo cáo trắc địa cho từng công việc phù hơp. Kiểm tra tính chính xác của công tác đo dạc và ghi chép của nhà thầu.",
-      "Phưong pháp đo",
+      "Kiểm tra các bảng biểu ghi chép trắc địa của nhà thầu và các báo cáo trắc địa cho từng công việc phù hợp. Kiểm tra tính chính xác của công tác đo đạc và ghi chép của nhà thầu.",
+      "Phương pháp đo",
       "Kiểm tra mạng lưới tọa độ được thành lập theo phương pháp đo góc cạnh kết hợp và được bình sai chặt chẽ theo phương pháp số bình phương nhỏ nhất",
       "Mạng lưới độ cao được thành lập theo phương pháp thủy chuẩn hình học",
       "Chuyển tọa độ tầng 1 lên các tầng trên theo phương pháp chiếu đứng bằng thiết bị chuyên dùng của Thụy Sỹ, Nhật và Mỹ theo sơ đồ hình 1 và hình 2",
@@ -16493,7 +16490,7 @@
     },
     {
      "nhom": "TVGS TEXO TVQLDA MACE",
-     "muc": "Cấp thứ thứ tư",
+     "muc": "Cấp thứ tư",
      "tc": [],
      "hs": [],
      "pp": [
@@ -17653,18 +17650,16 @@
      "muc": "Mục đích",
      "tc": [
       "Luật số 84/2015/ QH13",
-      "Luật số 40/2013/ QH13",
-      "Nghị định 39/2016/ NĐ-CP",
-      "Nghị định 44/2016/ NĐ-CP",
+      "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15",
+      "Nghị định 39/2016/NĐ-CP",
+      "Nghị định 44/2016/NĐ-CP",
       "Thông tư 19/2016/TT-BYT",
       "Thông tư 07/2016/TT-BLĐTBXH",
-      "Thông tư 14/2005/TTLT/BLĐTBXH-BYT-TLĐLĐVN",
-      "Thông tư 56/2014/TT-BCA",
-      "Thông tư 52/2014/TT-BCA",
-      "TC 5308:1991",
+      "Thông tư số 36/2025/TT-BCA",
+      "TCVN 5308:1991",
       "TCVN 7027:2013",
       "TCVN 7568-4:2013",
-      "Các quy định, quy phạm hiện hành về công tác an tòan – vệ sinh lao động, phòng chống cháy nổ."
+      "Các quy định, quy phạm hiện hành về công tác an toàn – vệ sinh lao động, phòng chống cháy nổ."
      ],
      "hs": [],
      "pp": [
@@ -17672,7 +17667,7 @@
       "Giảm thiểu tối đa thiệt hại cho thiết bị và tài sản;",
       "Đảm bảo môi trường lao động nơi công trường được sạch sẽ;",
       "Cải thiện điều kiện lao động, bảo vệ sức khỏe người lao động, ngăn ngừa các bệnh nghề nghiệp;",
-      "Góp phần đảm bảo chất lượng công trình xây dựng, đáp ứng đúng tiến độ của Chủ đầu tư."
+      "Góp phần đảm bảo chất lượng công trình xây dựng, đáp ứng đúng tiến độ của Chủ đầu tư."
      ]
     },
     {
@@ -17680,55 +17675,53 @@
      "muc": "Nội dung",
      "tc": [
       "Luật số 84/2015/ QH13",
-      "Luật số 40/2013/ QH13",
-      "Nghị định 39/2016/ NĐ-CP",
-      "Nghị định 44/2016/ NĐ-CP",
+      "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15",
+      "Nghị định 39/2016/NĐ-CP",
+      "Nghị định 44/2016/NĐ-CP",
       "Thông tư 19/2016/TT-BYT",
       "Thông tư 07/2016/TT-BLĐTBXH",
-      "Thông tư 14/2005/TTLT/BLĐTBXH-BYT-TLĐLĐVN",
-      "Thông tư 56/2014/TT-BCA",
-      "Thông tư 52/2014/TT-BCA",
-      "TC 5308:1991",
+      "Thông tư số 36/2025/TT-BCA",
+      "TCVN 5308:1991",
       "TCVN 7027:2013",
       "TCVN 7568-4:2013",
-      "Các quy định, quy phạm hiện hành về công tác an tòan – vệ sinh lao động, phòng chống cháy nổ."
+      "Các quy định, quy phạm hiện hành về công tác an toàn – vệ sinh lao động, phòng chống cháy nổ."
      ],
      "hs": [],
      "pp": [
       "Giám sát việc tuân thủ Luật Lao Động:",
-      "Yêu cầu nhà thầu biên sọan các quy định, quy trình và hướng dẫn về an toàn, vệ sinh lao động và phòng chống cháy nổ phù hợp với Luật an tòan lao động Việt Nam, tiêu chuẩn Việt Nam, các quy phạm kĩ thuật về an toàn lao động liên quan đến thi công công trình. Kế hoạch và hướng dẫn này sẽ được nhà thầu trình Chủ đầu tư và TVGS phê duyệt và ban hành.",
-      "Yêu cầu nhà thầu bố trí cán bộ phụ trách công tác an toàn, vệ sinh lao động, phòng chống cháy nổ cho công trường;",
-      "Yêu cầu nhà thầu thiết lập các quy trình liên quan về an tòan lao động dựa trên các tiêu chuẩn, hướng dẫn an toàn.",
-      "Yêu cầu nhà thầu lên kế họach cho công tác vệ sinh ở nơi làm việc và khu vực kho bãi.",
+      "Yêu cầu nhà thầu biên soạn các quy định, quy trình và hướng dẫn về an toàn, vệ sinh lao động và phòng chống cháy nổ phù hợp với Luật an toàn lao động Việt Nam, tiêu chuẩn Việt Nam, các quy phạm kĩ thuật về an toàn lao động liên quan đến thi công công trình. Kế hoạch và hướng dẫn này sẽ được nhà thầu trình Chủ đầu tư và TVGS phê duyệt và ban hành.",
+      "Yêu cầu nhà thầu bố trí cán bộ phụ trách công tác an toàn, vệ sinh lao động, phòng chống cháy nổ cho công trường;",
+      "Yêu cầu nhà thầu thiết lập các quy trình liên quan về an toàn lao động dựa trên các tiêu chuẩn, hướng dẫn an toàn.",
+      "Yêu cầu nhà thầu lên kế hoạch cho công tác vệ sinh ở nơi làm việc và khu vực kho bãi.",
       "Yêu cầu nhà thầu tổ chức đào tạo, hướng dẫn các kiến thức về an toàn, vệ sinh lao động, phòng chống cháy nổ.",
-      "Yêu cầu cấp quản lí và nhân viên an toàn của nhà thầu cam kết đảm bảo và chịu trách nhiệm về an toàn lao động, vệ sinh và phòng chống cháy nổ tại công trường.",
-      "Yêu cầu nhà thầu phổ biến các quy tắc về an toàn lao động, phòng chống cháy nổ, các quy định về vệ sinh lao động tại công trường, cho công nhân và cán bộ kỹ thuật của nhà thầu làm việc tại công trường.",
+      "Yêu cầu cấp quản lí và nhân viên an toàn của nhà thầu cam kết đảm bảo và chịu trách nhiệm về an toàn lao động, vệ sinh và phòng chống cháy nổ tại công trường.",
+      "Yêu cầu nhà thầu phổ biến các quy tắc về an toàn lao động, phòng chống cháy nổ, các quy định về vệ sinh lao động tại công trường, cho công nhân và cán bộ kỹ thuật của nhà thầu làm việc tại công trường.",
       "Giám sát và hướng dẫn an toàn trong thi công, an toàn về tổ chức mặt bằng công trường.",
       "Đảm bảo điều kiện làm việc an toàn của các công nhân viên trên công trường.",
-      "Thực hiện các biện pháp đảm bảo điều kiện làm việc an toàn vệ sinh môi trường và PCCN tại nơi làm việc và trong công trường.",
-      "Trang bị thiết bị phòng cháy chữa cháy nơi công trường, đảm bảo luôn trong tình trạng sẵn sàng.",
-      "Các thiết bị, máy móc trước khi đưa vào sử dụng trên công trường phải được kiểm, kiểm định theo quy định.",
+      "Thực hiện các biện pháp đảm bảo điều kiện làm việc an toàn vệ sinh môi trường và PCCN tại nơi làm việc và trong công trường.",
+      "Trang bị thiết bị phòng cháy chữa cháy nơi công trường, đảm bảo luôn trong tình trạng sẵn sàng.",
+      "Các thiết bị, máy móc trước khi đưa vào sử dụng trên công trường phải được kiểm, kiểm định theo quy định.",
       "Lập các biển báo khu vực nguy hiểm, thực hiện các biện pháp phòng ngừa tai nạn tại các khu vực đó.",
       "Nhà thầu phải có sơ đồ an toàn công trường: Đường đi bộ, các khu vực giao thông, khu vực kho, bãi vật tư, bãi đỗ xe... và phải đặt các biển báo, tín hiệu phù hợp với từng khu vực.",
-      "Thường xuyên kiểm tra tình hình thực hiện an tòan lao động, vệ sinh và phòng chống cháy nổ tại công trường và đưa ra các biện pháp xử lí phù hợp (nếu có) để đảm bảo điều kiện làm việc ATLĐ-VSMT & PCCN cho người lao động.",
+      "Thường xuyên kiểm tra tình hình thực hiện an toàn lao động, vệ sinh và phòng chống cháy nổ tại công trường và đưa ra các biện pháp xử lí phù hợp (nếu có) để đảm bảo điều kiện làm việc ATLĐ-VSMT & PCCN cho người lao động.",
       "Phân tích, đánh giá và báo cáo về các tai nạn công trường nếu có.",
-      "Báo cáo và lưu giữ tài liệu về công tác an tòan – vệ sinh lao động.",
+      "Báo cáo và lưu giữ tài liệu về công tác an toàn – vệ sinh lao động.",
       "Giám sát và yêu cầu nhà thầu lập các cảnh báo khu vực nguy hiểm:",
-      "Sử dụng các barrier, rào chắn, biển báo, đèn hiệu để cảnh báo các khu vực nguy hiểm có nguy cơ xảy ra mất an toàn lao động.",
-      "Khu vực có hố sâu thông tầng.",
-      "Khu vực khác có nguy cơ ảnh hưởng đến ATLĐ trong công trường.",
+      "Sử dụng các barrier, rào chắn, biển báo, đèn hiệu để cảnh báo các khu vực nguy hiểm có nguy cơ xảy ra mất an toàn lao động.",
+      "Khu vực có hố sâu thông tầng.",
+      "Khu vực khác có nguy cơ ảnh hưởng đến ATLĐ trong công trường.",
       "Khu vực đang xây lắp.",
       "Khu vực có độ cao trên 2 m.",
       "Khu vực có vật rắn rơi từ trên cao xuống.",
-      "Khu vực gần tủ điện, đường dây điện, thiết bị điện đang họat động.",
-      "Khu vực xe máy xây dựng, cần trục đang họat động.",
-      "Khu vực có nguy cơ xảy ra cháy nổ.",
+      "Khu vực gần tủ điện, đường dây điện, thiết bị điện đang hoạt động.",
+      "Khu vực xe máy xây dựng, cần trục đang hoạt động.",
+      "Khu vực có nguy cơ xảy ra cháy nổ.",
       "Lắp đặt thông gió cho các khu vực bụi bẩn, có chất độc hại để giảm thiểu ảnh hưởng độc hại tới người lao động.",
-      "Lập các quy trình làm việc an tòan trong môi trường nhiệt độ cao, mưa gió (vào mùa mưa), các khu vực làm việc trên cao hoặc thiếu oxi, và các khu vực sử dụng cần trục gần đường điện, khu vực có nhiều tiếng ồn.",
+      "Lập các quy trình làm việc an toàn trong môi trường nhiệt độ cao, mưa gió (vào mùa mưa), các khu vực làm việc trên cao hoặc thiếu oxi, và các khu vực sử dụng cần trục gần đường điện, khu vực có nhiều tiếng ồn.",
       "Giám sát việc thực hiện trang thiết bị bảo hộ lao động của nhà thầu:",
-      "Trang thiết bị bảo hộ lao động sẽ do nhà thầu trang bị cho những người làm việc trên công trường. Trang thiết bị bảo hộ an tòan lao động phải phù hợp với công việc của mỗi người và đạt chất lượng theo các tiêu chuẩn và quy định hiện hành. Các trang thiết bị bảo hộ lao động cá nhân dùng để:",
-      "Bảo vệ đầu: Tất cả các cá nhân phải đội mũ an tòan lao động trong suốt quá trình thi công trên công trường để tránh vật liệu xây dựng và các vật liệu khác rơi vào đầu.",
-      "Bảo vệ tay: Những người làm việc liên quan đến các hóa chất độc hại hoặc các vật sắc nhọn bắt buộc phải đeo găng tay theo quy định.",
+      "Trang thiết bị bảo hộ lao động sẽ do nhà thầu trang bị cho những người làm việc trên công trường. Trang thiết bị bảo hộ an toàn lao động phải phù hợp với công việc của mỗi người và đạt chất lượng theo các tiêu chuẩn và quy định hiện hành. Các trang thiết bị bảo hộ lao động cá nhân dùng để:",
+      "Bảo vệ đầu: Tất cả các cá nhân phải đội mũ an toàn lao động trong suốt quá trình thi công trên công trường để tránh vật liệu xây dựng và các vật liệu khác rơi vào đầu.",
+      "Bảo vệ tay: Những người làm việc liên quan đến các hóa chất độc hại hoặc các vật sắc nhọn bắt buộc phải đeo găng tay theo quy định.",
       "Bảo vệ chân: Những người làm việc tại công trường phải mang giày, ủng thích hợp để bảo vệ chân tránh các chất độc hại và các va chạm với các vật sắc nhọn có thể dẫn đến tai nạn.",
       "Bảo vệ thính giác: Những người làm việc liên quan đến tiếng ồn vượt quá độ ồn cho phép phải đeo các thiết bị bảo vệ thính giác.",
       "Bảo vệ mắt, mặt: Khi làm việc trong môi trường có các rủi ro như:",
@@ -17736,13 +17729,13 @@
       "Bụi bẩn",
       "Bắn tóe của hóa chất",
       "Ánh sáng của tia bức xạ",
-      "Tàn lửa hoặc tàn kim lọai",
+      "Tàn lửa hoặc tàn kim loại",
       "Hơi độc hại",
       "Người lao động phải đeo các thiết bị bảo vệ mắt và mặt phù hợp.",
-      "Chống rơi ngã cao: Người lào động làm việc trên cao, tại các vị trí chênh vênh, không vững phải có dây đai an tòan để tránh rơi ngã từ trên cao xuống.",
+      "Chống rơi ngã cao: Người lao động làm việc trên cao, tại các vị trí chênh vênh, không vững phải có dây đai an toàn để tránh rơi ngã từ trên cao xuống.",
       "Giám sát và quản lý công tác khẩn cứu của nhà thầu:",
-      "Giám sát việc nhà thầu tổ chức phòng y tế sơ cấp cứu tại công trường để làm công việc sơ cứu ban đầu mỗi khi có sự cố xảy ra. Các thiết bị cấp cứu, cứu thương (bông băng, thuốc trị bệnh thông thường, cáng võng...) phải đựơc trang bị đầy đủ tại công trường.",
-      "Bất kì một sự cố hay một tai nạn xảy ra trên công trường cần phải đựơc điều tra kĩ càng để tìm ra nguyên nhân, đưa ra biện pháp khắc phục để tránh tái diễn.",
+      "Giám sát việc nhà thầu tổ chức phòng y tế sơ cấp cứu tại công trường để làm công việc sơ cứu ban đầu mỗi khi có sự cố xảy ra. Các thiết bị cấp cứu, cứu thương (bông băng, thuốc trị bệnh thông thường, cáng võng...) phải được trang bị đầy đủ tại công trường.",
+      "Bất kì một sự cố hay một tai nạn xảy ra trên công trường cần phải được điều tra kĩ càng để tìm ra nguyên nhân, đưa ra biện pháp khắc phục để tránh tái diễn.",
       "Trường hợp có sự cố, tai nạn xảy ra trên công trường, cần tiến hành cấp cứu người bị nạn:",
       "Trong trường hợp không có trạm y tế cố định trên công trường, nhà thầu phải có trách nhiệm thiết lập phòng cấp cứu tại công trường. Phòng cấp cứu có trách nhiệm xử lý các tai nạn nhẹ như đứt chân, tay... các tai nạn nặng khác như bị ngã khi leo trèo, vỡ đầu, các vết rách lớn phải do bác sỹ hay y tá chuyên ngành xử lý.",
       "Nhà thầu phải bố trí các thiết bị sơ cứu cho công tác sơ cứu bao gồm:",
@@ -17751,11 +17744,11 @@
       "Băng bó vết thương.",
       "Cầm máu...vv",
       "Giám sát việc nhà thầu duy trì và thực hiện công tác vệ sinh lao động",
-      "Nhà thầu tổ chức điều kiện làm việc tại công trường đáp ứng được các yêu cầu vệ sinh, sinh họat hàng ngày: điện nước, ăn uống, tắm rửa, đại tiểu tiện,...",
+      "Nhà thầu tổ chức điều kiện làm việc tại công trường đáp ứng được các yêu cầu vệ sinh, sinh hoạt hàng ngày: điện nước, ăn uống, tắm rửa, đại tiểu tiện,...",
       "Bố trí nơi vệ sinh cá nhân hợp lý, đặc biệt bố trí khu vực vệ sinh cá nhân cho công nhân và nhân viên nữ. Nơi vệ sinh cá nhân bao gồm:",
       "Nhà vệ sinh: Nhà vệ sinh phải đủ đáp ứng cho số lượng nhân viên trên công trường. Nhà vệ sinh phải kín đáo, sạch sẽ. Khoảng cách từ nơi làm việc đến nhà vệ sinh phải hợp lí để tránh tình trạng phóng uế bừa bãi trên công trường. Chú ý bố trí nhà vệ sinh cho nhân viên nữ.",
       "Phòng y tế: Công trường lớn cần có phòng y tế. Công trường nhỏ ít người cần có một tủ thuốc.",
-      "Yêu cầu nhà thầu cung cấp nước sạch để tắm rửa và ăn uống, đảm bào vệ sinh và bảo đảm sức khỏe bệnh nghề nghiệm cho người lao động."
+      "Yêu cầu nhà thầu cung cấp nước sạch để tắm rửa và ăn uống, đảm bảo vệ sinh và bảo đảm sức khỏe bệnh nghề nghiệp cho người lao động."
      ]
     }
    ],

@@ -23,8 +23,8 @@ C = {"navy": "1F3864", "blue": "2E5496", "label": "D9E1F2", "first": "EAF0F7", "
 # Mức rủi ro của rà soát khối lượng → icon + màu của bộ mẫu
 SEV = {"Cao": ("🔴", C["red"], C["redBg"]), "Trung bình": ("🟠", C["orange"], C["orangeBg"]),
        "Thấp": ("🔵", C["blue"], C["label"])}
-PAGE = {"A4P": dict(w=11906, h=16838, land=False, content=9026),
-        "A4L": dict(w=11906, h=16838, land=True, content=13958)}
+PAGE = {"A4P": dict(w=11906, h=16838, land=False, content=9071),
+        "A4L": dict(w=11906, h=16838, land=True, content=14003)}
 FONT, EMOJI = "Times New Roman", "Segoe UI Emoji"
 LOGO = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "logo_texo.png")
 
@@ -300,23 +300,41 @@ def spacer(doc, pts=6):
 
 
 # ----------------------------------------------------------------- trang, header, footer
+
+def _field_runs(par, instr, fmt, placeholder="1"):
+    """Chèn field Word (PAGE / NUMPAGES) đủ 5 phần: begin – instrText – separate – kết quả – end.
+    Mọi run mang cùng định dạng (cỡ, màu, font) để Word/LibreOffice khi cập nhật số trang
+    không trả về cỡ chữ mặc định của kiểu Normal (lỗi số trang to gấp ~1,5 lần)."""
+    import copy as _copy
+    r0 = par.add_run(); fmt(r0)
+    rpr = r0._r.find(qn("w:rPr"))
+    def _nr():
+        r = par.add_run()
+        if rpr is not None:
+            r._r.insert(0, _copy.deepcopy(rpr))
+        return r
+    b = OxmlElement("w:fldChar"); b.set(qn("w:fldCharType"), "begin"); r0._r.append(b)
+    r = _nr(); i = OxmlElement("w:instrText"); i.set(qn("xml:space"), "preserve"); i.text = f" {instr} "; r._r.append(i)
+    r = _nr(); s = OxmlElement("w:fldChar"); s.set(qn("w:fldCharType"), "separate"); r._r.append(s)
+    r = _nr(); t = OxmlElement("w:t"); t.text = placeholder; r._r.append(t)
+    r = _nr(); e = OxmlElement("w:fldChar"); e.set(qn("w:fldCharType"), "end"); r._r.append(e)
+    return r0
+
 def _field(par, instr, size=8, c=C["grey"]):
-    r = par.add_run()
-    r.font.name, r.font.size = FONT, Pt(size)
-    r.font.color.rgb = rgb(c)
-    a = OxmlElement("w:fldChar"); a.set(qn("w:fldCharType"), "begin")
-    i = OxmlElement("w:instrText"); i.set(qn("xml:space"), "preserve"); i.text = instr
-    z = OxmlElement("w:fldChar"); z.set(qn("w:fldCharType"), "end")
-    r._r.append(a); r._r.append(i); r._r.append(z)
+    def _fmt(r):
+        r.font.name, r.font.size = FONT, Pt(size)
+        r.font.color.rgb = rgb(c)
+    return _field_runs(par, instr, _fmt)
 
 
 def setup_section(sec, key, header_title, header_sub, footer_left):
     pg = PAGE[key]
     sec.orientation = WD_ORIENT.LANDSCAPE if pg["land"] else WD_ORIENT.PORTRAIT
     sec.page_width, sec.page_height = (Twips(pg["h"]), Twips(pg["w"])) if pg["land"] else (Twips(pg["w"]), Twips(pg["h"]))
-    sec.left_margin = sec.right_margin = Twips(1440)
-    sec.top_margin, sec.bottom_margin = Twips(1300), Twips(1080)
-    sec.header_distance = sec.footer_distance = Twips(480)
+    # lề trên 20 mm, dưới 20 mm, trái 30 mm, phải 20 mm
+    sec.left_margin, sec.right_margin = Twips(1701), Twips(1134)
+    sec.top_margin, sec.bottom_margin = Twips(1134), Twips(1134)
+    sec.header_distance = sec.footer_distance = Twips(425)
     sec.header.is_linked_to_previous = False
     sec.footer.is_linked_to_previous = False
     content = pg["content"]

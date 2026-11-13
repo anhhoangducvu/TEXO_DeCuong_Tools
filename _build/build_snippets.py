@@ -85,4 +85,8 @@ for k,(doc,s_rx,e_rx) in SN.items():
                 final.append(["p",p])
     out[k]=final
     print(k, len(merged))
+# làm sạch lỗi chính tả, gõ phím, văn bản pháp lý cũ theo bộ quy tắc dùng chung core/data/sua_loi_noi_dung.json
+sys.path.insert(0, ROOT)
+from core import sua_loi as _SL
+out=_SL.ap_dung(out)
 json.dump(out,open(_os.path.join(DATA,'noi_dung_nang_cao.json'),'w',encoding='utf-8'),ensure_ascii=False,indent=1)

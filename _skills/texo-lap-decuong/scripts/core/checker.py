@@ -231,16 +231,21 @@ def check(blocks, meta, opts=None):
 
     # --- pháp lý
     het, ra_soat = [], []
+    # chuẩn hóa cách ghi số hiệu: "40/2013/ QH13", "136/2020/CP", "TCVN 4453 : 1995", "TC 5308:1991"
+    body_pl = re.sub(r"(\d)\s*/\s*(?=[\dA-ZĐ])", r"\1/", body)
+    body_pl = re.sub(r"(\d{1,4}/(?:19|20)\d\d)/CP\b", r"\1/NĐ-CP", body_pl)
+    body_pl = re.sub(r"(\d)\s+:\s*(\d{4})\b", r"\1:\2", body_pl)
+    body_pl = re.sub(r"\bTC\s+(\d{3,5}:\d{4})", r"TCVN \1", body_pl)
     for x in PL["het_hieu_luc"]:
-        n = len(re.findall(x["pat"], body, re.I))
+        n = len(re.findall(x["pat"], body_pl, re.I))
         if n:
             het.append(dict(ten=x["ten"], so_lan=n, thay_the=x["thay_the"],
                             muc_do="high" if sau_moc else "mid"))
     for x in PL["can_ra_soat"]:
-        n = len(re.findall(x["pat"], body, re.I))
+        n = len(re.findall(x["pat"], body_pl, re.I))
         if n:
             ra_soat.append(dict(ten=x["ten"], so_lan=n, ly_do=x["ly_do"], muc_do="info"))
-    co_moi = {k: bool(re.search(p, body)) for k, p in
+    co_moi = {k: bool(re.search(p, body_pl)) for k, p in
               {"Luật XD 135/2025": r"135/2025/QH15", "NĐ 207/2026": r"207/2026/N[ĐD]-CP",
                "TT 32/2026": r"32/2026/TT-BXD", "NĐ 217/2026 / 212/2026": r"(217|212)/2026/N[ĐD]-CP"}.items()}
 
@@ -286,7 +291,9 @@ def check(blocks, meta, opts=None):
     elif len(cdt_d) > 1:
         lan_ten += cdt_d[1:]
 
-    chat_luong = dict(so_tu=words, so_bang=sum(1 for b in blocks if b["k"] == "t"), so_hinh=meta.get("images", 0),
+    from . import sua_loi
+    loi_ct = sua_loi.soi_loi(ex.full_text(blocks))
+    chat_luong = dict(loi_chinh_ta=loi_ct, so_loi_chinh_ta=sum(x["so_lan"] for x in loi_ct), so_tu=words, so_bang=sum(1 for b in blocks if b["k"] == "t"), so_hinh=meta.get("images", 0),
                       so_tieu_de=len(heads), cho_trong=placeholders[:30], so_cho_trong=len(placeholders),
                       ten_du_an=du_an_d[:6], chu_dau_tu=cdt_d[:6], nghi_lan_ten=lan_ten[:8])
 
