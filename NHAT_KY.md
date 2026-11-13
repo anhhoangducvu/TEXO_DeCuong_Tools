@@ -1,5 +1,18 @@
 # Nhật ký – Bộ công cụ Đề cương TVGS
 
+## 14/11/2026 – v1.3.2
+**Anh Vũ yêu cầu:** dòng "HÀ NỘI, THÁNG …" trên bìa và tờ lót phải nằm dưới cùng, không sát chỗ ký (lỗi ở cả skill và app).
+**Đã làm:** `core/generator.py` thêm `_ghim_cuoi_trang()` – đoạn địa điểm, tháng lập đặt trong khung đoạn neo lề dưới, căn giữa; skill kiểm tra soi thêm điểm này; `dong-bo` lên 1.3.2, đóng gói lại 2 file .skill.
+**Kiểm thử:** in thử bìa + tờ lót (dự án ngắn, ít dòng thông tin) – dòng tháng nằm ở chân trang, khối ký có khoảng trống rộng.
+
+## 14/11/2026 – v1.3.1 (cập nhật app theo skill)
+**Anh Vũ yêu cầu:** đưa vào app các thay đổi gần đây của skill (sửa lỗi chính tả, văn bản cũ, khổ giấy, khối chữ ký). Bộ công cụ đã chuyển sang `D:\My Agents\TEXO_De cuong\TEXO_DeCuong_Tools`.
+**Đã làm:** chép lõi 1.3.1 vào `core/` (giữ `ui.py`, logo của app); `_build/build_library.py`, `build_snippets.py` áp bộ quy tắc sửa lỗi khi dựng lại thư viện; `cap_nhat.py dong-bo` chép đè lõi (không xóa); đồng bộ lõi sang `_skills/` và đóng gói lại 2 file .skill 1.3.1; cập nhật `CAP_NHAT.md` (mục e – báo lỗi chính tả), `CHANGELOG.md`, `README.md`, đường dẫn mới trong SKILL.md.
+**Kiểm thử:** chạy thử 2 app (đăng nhập texo2026, tạo đề cương Nâng cao, mở trang kiểm tra) – không lỗi; đề cương ra A4 lề 20/20/30/20 mm, tên Công ty ở khối ký nằm một dòng; tự kiểm 100/100, 0 lỗi chính tả, 0 văn bản hết hiệu lực.
+**Lưu bản cũ:** `_luu_tru/261114 ban cu v1.2.0/` (lõi, _build, _skills, tài liệu, 2 file .skill cũ); gói cập nhật `_luu_tru/261114 goi cap nhat de cuong v1.3.1.zip`.
+**Có thể xóa khi anh thấy ổn:** gói zip trong `_luu_tru/`; 6 file trong `De_cuong_mau_vi_du/` và 16 phiếu trong `Ket_qua_kiem_tra/` là bản sinh từ v1.1–1.2 (còn lỗi chính tả, lề cũ) – nên tạo/kiểm lại bằng app mới rồi thay.
+**Đề cương nguồn:** `dung-lai` mặc định đọc thư mục cha `D:\My Agents\TEXO_De cuong` (16 bộ đề cương nguồn cần nằm ở đó, hoặc đặt biến `DC_SRC`).
+
 ## 23/10/2026 (tối) – v1.2.0
 **Anh Vũ yêu cầu:** màn hình đăng nhập gọn như app khối lượng; vào trong mới có thanh bên người ký kiểm; cho chọn AI; tên người xây dựng xuất hiện quá nhiều – giảm cho tinh tế.
 **Đã làm:** đăng nhập chỉ còn logo, tên app, ô mật khẩu (không thanh bên); thanh bên sau đăng nhập: người kiểm tra, người duyệt (in vào phiếu) / đại diện TVGS ký tờ lót, người lập (app Tạo); Trợ lý AI tùy chọn (Claude, Gemini, ChatGPT, tương thích OpenAI – lấy danh sách model, kiểm tra kết nối, lưu key tại máy). AI chạy trên nền kết quả bộ quy tắc: app Kiểm tra thêm mục "Nhận xét chuyên môn (AI hỗ trợ)" vào phiếu; app Tạo thêm mục "Đặc điểm công trình và trọng tâm giám sát" và gợi ý hạng mục bổ sung. Tên người xây dựng chỉ còn một dòng nhỏ cuối thanh bên, cuối README và cuối SKILL.md; bỏ khỏi đầu trang app, footer app, footer và cuối phiếu (phiếu giữ khối ký người duyệt). Phiếu 16 bộ đã xuất lại.

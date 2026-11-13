@@ -1,4 +1,4 @@
-# TEXO – Bộ công cụ Đề cương TVGS (v1.1 · 23/10/2026)
+# TEXO – Bộ công cụ Đề cương TVGS (v1.3.1 · 14/11/2026)
 
 | Thành phần | Chạy / cài | Việc |
 |---|---|---|
@@ -17,10 +17,12 @@ Sau khi đăng nhập, thanh bên trái gồm: người ký kiểm (người ki�
 - Đơn vị lập (nội bộ): Trung tâm 01, 02, 03, 05–12, 18.
 
 ## Cấu trúc
-- `core/` – lõi dùng chung; `core/data/` – khung 66 tiêu chí, thư viện 60 hạng mục, mục Nâng cao, danh mục pháp lý, `VERSION.json`.
+- `core/` – lõi dùng chung; `core/data/` – khung 66 tiêu chí, thư viện 60 hạng mục, mục Nâng cao, danh mục pháp lý, bộ quy tắc sửa lỗi chính tả – văn bản cũ (`sua_loi_noi_dung.json`), `VERSION.json`.
+- Đề cương xuất ra: A4, lề trên 20 mm, dưới 20 mm, trái 30 mm, phải 20 mm.
 - `_build/` – dựng lại thư viện từ đề cương nguồn, sổ đề cương nguồn, lệnh cập nhật `cap_nhat.py`.
 - `_skills/` – mã nguồn 2 skill (lệnh đồng bộ chép lõi sang và đóng gói .skill).
 - `CAP_NHAT.md` – cơ chế cập nhật; `CHANGELOG.md` – lịch sử phiên bản; `NHAT_KY.md` – nhật ký làm việc.
+- `_luu_tru/` – bản cũ trước mỗi lần cập nhật lớn;
 - `Ket_qua_kiem_tra/` – phiếu kiểm tra 16 bộ đề cương mẫu; `De_cuong_mau_vi_du/` – 4 đề cương mẫu (dự án giả định).
 
 _Người xây dựng: Hoàng Đức Vũ – Phòng Kỹ thuật._
